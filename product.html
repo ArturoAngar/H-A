@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Producto | H&A Essence</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css?v=15" />
+  </head>
+  <body class="product-page">
+    <header class="site-header product-header" data-theme="women">
+      <a class="brand" href="index.html" aria-label="H&A Essence">
+        <img class="brand-logo" src="logo-women.png" alt="H&A Essence" />
+        <span>H&A</span>
+      </a>
+
+      <nav class="nav-links" aria-label="Navegación principal">
+        <a href="index.html#asesor">Asesor</a>
+        <a href="index.html#catalogo">Catálogo</a>
+      </nav>
+
+      <button class="header-cta cart-toggle cart-icon-button" type="button" aria-label="Abrir carrito">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M6 7h12l-1 12H7L6 7Z"></path>
+          <path d="M9 7a3 3 0 0 1 6 0"></path>
+        </svg>
+        <span id="cartCount">0</span>
+      </button>
+    </header>
+
+    <main class="product-detail-page">
+      <a class="back-link" href="index.html#catalogo">Volver al catálogo</a>
+
+      <section class="product-hero-detail" id="productDetail">
+        <div class="product-gallery">
+          <div class="product-gallery-main" id="detailImage"></div>
+          <div class="product-trust">
+            <span>Producto original</span>
+            <span>Precio H&A sugerido</span>
+            <span>Compra asistida</span>
+          </div>
+        </div>
+
+        <aside class="product-buybox">
+        <p class="kicker" id="detailMeta"></p>
+        <h1 id="detailTitle">Producto H&A</h1>
+          <div class="price-stack">
+            <span id="regularPrice"></span>
+            <p class="detail-price" id="detailPrice"></p>
+          </div>
+          <div class="modal-tags" id="detailTags"></div>
+          <div class="buy-highlights">
+            <div><span>Disponibilidad</span><strong>Disponible</strong></div>
+            <div><span>Envío</span><strong>Asesorado</strong></div>
+            <div><span>Compra</span><strong>Segura</strong></div>
+          </div>
+          <div class="quantity-row">
+            <span>Cantidad</span>
+            <div class="qty-control">
+              <button type="button" id="qtyMinus">-</button>
+              <strong id="qtyValue">1</strong>
+              <button type="button" id="qtyPlus">+</button>
+            </div>
+          </div>
+          <div class="detail-actions">
+            <button class="button primary" id="detailAddToCart" type="button">Agregar al carrito</button>
+            <button class="button pay-button" id="detailPayNow" type="button">Pagar ahora</button>
+          </div>
+          <p class="detail-note">Compra asistida con confirmación de disponibilidad, pago y envío.</p>
+        </aside>
+      </section>
+
+      <section class="product-story">
+        <div>
+          <p class="kicker">Asesoría H&A</p>
+          <h2>Por qué te puede funcionar</h2>
+        </div>
+        <div class="story-grid" id="detailDescription"></div>
+      </section>
+
+      <section class="related-section">
+        <div class="section-head">
+          <p class="kicker">También podrías considerar</p>
+          <h2>Llévate algo más</h2>
+        </div>
+        <div class="related-grid" id="relatedGrid"></div>
+      </section>
+    </main>
+
+    <aside class="cart-drawer" id="cartDrawer" aria-hidden="true">
+      <div class="cart-head">
+        <p class="kicker">Carrito H&A</p>
+        <button class="modal-close" type="button" id="closeCartButton">Cerrar</button>
+      </div>
+      <div id="cartItems" class="cart-items"></div>
+      <div class="cart-total">
+        <span>Total</span>
+        <strong id="cartTotal">$0</strong>
+      </div>
+      <button class="button primary cart-pay" type="button">Pagar pedido</button>
+    </aside>
+
+    <script src="products-data.js?v=15"></script>
+    <script src="product.js?v=15"></script>
+  </body>
+</html>

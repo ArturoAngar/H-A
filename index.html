@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>H&A Essence | Luxury Beauty Store</title>
+    <meta
+      name="description"
+      content="H&A Essence: fragancias, belleza y lentes en una experiencia premium."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css?v=15" />
+  </head>
+  <body>
+    <header class="site-header" data-theme="women">
+      <a class="brand" href="#inicio" aria-label="H&A Essence">
+        <img class="brand-logo" src="logo-women.png" alt="H&A Essence" />
+        <span>H&A</span>
+      </a>
+
+      <nav class="nav-links" aria-label="Navegación principal">
+        <a href="#asesor">Asesor</a>
+        <a href="#catalogo">Catálogo</a>
+        <a href="#contacto">Contacto</a>
+      </nav>
+
+      <button class="header-cta cart-toggle cart-icon-button" type="button" aria-label="Abrir carrito">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M6 7h12l-1 12H7L6 7Z"></path>
+          <path d="M9 7a3 3 0 0 1 6 0"></path>
+        </svg>
+        <span id="cartCount">0</span>
+      </button>
+    </header>
+
+    <main>
+      <section class="hero" id="inicio">
+        <div class="hero-slider" aria-live="polite">
+          <article class="hero-panel active" data-theme="women">
+            <div class="hero-copy">
+              <p class="kicker">H&A Essence / Mujer</p>
+              <h1>Beauty with precision.</h1>
+              <p class="hero-text">Fragancias, belleza y lentes en una selección limpia.</p>
+              <div class="hero-actions">
+                <a class="button primary" href="#catalogo" data-filter="women">Explorar mujer</a>
+                <a class="button ghost-link" href="#asesor">Asesoría</a>
+              </div>
+            </div>
+            <div class="brand-stage" aria-hidden="true">
+              <div class="orbital-ring"></div>
+              <img src="logo-women.png" alt="" />
+              <span class="stage-label">White Gold</span>
+            </div>
+          </article>
+
+          <article class="hero-panel" data-theme="men">
+            <div class="hero-copy">
+              <p class="kicker">H&A Essence / Hombre</p>
+              <h1>Dark luxury, clean form.</h1>
+              <p class="hero-text">Fragancias, lentes y accesorios con presencia sobria.</p>
+              <div class="hero-actions">
+                <a class="button primary" href="#catalogo" data-filter="men">Explorar hombre</a>
+                <a class="button ghost-link dark" href="#asesor">Asesoría</a>
+              </div>
+            </div>
+            <div class="brand-stage dark" aria-hidden="true">
+              <div class="orbital-ring"></div>
+              <img src="logo-men.png" alt="" />
+              <span class="stage-label">Black Gold</span>
+            </div>
+          </article>
+        </div>
+
+        <div class="hero-switch" aria-label="Cambiar línea">
+          <button class="switch-dot active" type="button" data-slide="0">Mujer</button>
+          <button class="switch-dot" type="button" data-slide="1">Hombre</button>
+        </div>
+      </section>
+
+      <section class="collection-strip" id="colecciones" aria-label="Colecciones H&A">
+        <button class="collection-pill reveal" data-category="fragancias">Fragancias</button>
+        <button class="collection-pill reveal" data-category="belleza">Belleza</button>
+        <button class="collection-pill reveal" data-category="lentes">Lentes</button>
+      </section>
+
+      <section class="advisor-section" id="asesor">
+        <div class="advisor-copy reveal">
+          <p class="kicker">Asesor H&A</p>
+          <h2>Te ayudamos a elegir.</h2>
+          <p>
+            Responde en segundos y recibe tres opciones claras.
+          </p>
+        </div>
+
+        <div class="advisor-card reveal">
+          <div class="advisor-progress"><span></span></div>
+          <div class="advisor-grid">
+            <label>
+              Producto
+              <select id="advisorCategory">
+                <option value="fragancias">Fragancia</option>
+                <option value="belleza">Belleza</option>
+                <option value="lentes">Lentes</option>
+              </select>
+            </label>
+            <label>
+              ¿Para quién es?
+              <select id="advisorGender">
+                <option value="all">Regalo / cualquiera</option>
+                <option value="men">Hombre</option>
+                <option value="women">Mujer</option>
+                <option value="unisex">Unisex</option>
+              </select>
+            </label>
+            <label>
+              Ocasión
+              <select id="advisorOccasion">
+                <option value="diario">Diario</option>
+                <option value="fiesta">Fiesta</option>
+                <option value="cita">Cita</option>
+                <option value="escuela">Escuela</option>
+                <option value="trabajo">Trabajo</option>
+                <option value="gym">Gym</option>
+                <option value="noche">Noche</option>
+              </select>
+            </label>
+            <label>
+              Vibra
+              <select id="advisorVibe">
+                <option value="elegante">Elegante</option>
+                <option value="fresco">Fresco</option>
+                <option value="sexy">Sexy</option>
+                <option value="dulce">Dulce</option>
+                <option value="misterioso">Misterioso</option>
+                <option value="limpio">Limpio</option>
+                <option value="caro">Caro</option>
+                <option value="juvenil">Juvenil</option>
+              </select>
+            </label>
+            <label>
+              Presupuesto
+              <select id="advisorBudget">
+                <option value="500">Menos de $500</option>
+                <option value="1000">$500 a $1,000</option>
+                <option value="1800">$1,000 a $1,800</option>
+                <option value="99999">Premium</option>
+              </select>
+            </label>
+            <label class="scent-question">
+              Aroma
+              <select id="advisorScent">
+                <option value="fresco">Fresco</option>
+                <option value="dulce">Dulce</option>
+                <option value="citrico">Cítrico</option>
+                <option value="amaderado">Amaderado</option>
+                <option value="intenso">Intenso</option>
+                <option value="suave">Suave</option>
+              </select>
+            </label>
+            <label class="scent-question">
+              Duración
+              <select id="advisorLongevity">
+                <option value="duradero">Que dure mucho</option>
+                <option value="ligero">Algo ligero</option>
+              </select>
+            </label>
+          </div>
+          <button class="advisor-submit" id="advisorSubmit" type="button">Ver recomendaciones</button>
+          <div class="advisor-results" id="advisorResults"></div>
+        </div>
+      </section>
+
+      <section class="intent-section">
+        <div class="section-head reveal">
+          <p class="kicker">Comprar por intención</p>
+          <h2>Atajos para decidir mejor</h2>
+        </div>
+        <div class="intent-grid reveal" id="intentGrid"></div>
+      </section>
+
+      <section class="curated-section">
+        <div class="section-head reveal">
+          <p class="kicker">Curaduría H&A</p>
+          <h2>Listas rápidas para vender mejor</h2>
+        </div>
+        <div class="curated-grid reveal" id="curatedGrid"></div>
+      </section>
+
+      <section class="catalog-section" id="catalogo">
+        <div class="section-head reveal">
+          <p class="kicker">Catálogo</p>
+          <h2>Selección esencial</h2>
+        </div>
+
+        <div class="catalog-shell reveal">
+          <aside class="catalog-panel">
+            <p class="panel-title">Filtrar</p>
+            <div class="segmented" role="group" aria-label="Filtrar por género">
+              <button class="filter active" type="button" data-gender="all">Todo</button>
+              <button class="filter" type="button" data-gender="women">Mujer</button>
+              <button class="filter" type="button" data-gender="men">Hombre</button>
+            </div>
+
+            <div class="category-filter" aria-label="Filtrar por categoría">
+              <p class="filter-label">Categoría</p>
+              <button class="category-filter-button active" type="button" data-category="all">Todas</button>
+              <button class="category-filter-button" type="button" data-category="fragancias">Fragancias</button>
+              <button class="category-filter-button" type="button" data-category="belleza">Belleza</button>
+              <button class="category-filter-button" type="button" data-category="lentes">Lentes</button>
+            </div>
+            <div class="intent-filter" aria-label="Filtrar por intención">
+              <p class="filter-label">Intención</p>
+              <button class="intent-filter-button active" type="button" data-intent="all">Todas</button>
+              <button class="intent-filter-button" type="button" data-intent="elegante">Elegante</button>
+              <button class="intent-filter-button" type="button" data-intent="cita">Cita</button>
+              <button class="intent-filter-button" type="button" data-intent="regalo">Regalo</button>
+              <button class="intent-filter-button" type="button" data-intent="diario">Diario</button>
+              <button class="intent-filter-button" type="button" data-intent="fiesta">Fiesta</button>
+              <button class="intent-filter-button" type="button" data-intent="oficina">Oficina</button>
+              <button class="intent-filter-button" type="button" data-intent="premium">Premium</button>
+              <button class="intent-filter-button" type="button" data-intent="dulce">Dulces</button>
+              <button class="intent-filter-button" type="button" data-intent="fresco">Frescas</button>
+              <button class="intent-filter-button" type="button" data-intent="intenso">Intensas</button>
+              <button class="intent-filter-button" type="button" data-intent="menos500">Menos de $500</button>
+              <button class="intent-filter-button" type="button" data-intent="500a1000">$500 a $1,000</button>
+            </div>
+            <p class="catalog-count"><span id="productCount">0</span> productos</p>
+          </aside>
+
+          <div>
+            <div class="product-grid" id="productGrid" aria-live="polite"></div>
+            <div class="catalog-actions">
+              <button class="load-more" id="loadMoreButton" type="button">Mostrar más</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="service-band">
+        <div class="service-item reveal">
+          <span>01</span>
+          <strong>Originales</strong>
+        </div>
+        <div class="service-item reveal">
+          <span>02</span>
+          <strong>Ofertas</strong>
+        </div>
+        <div class="service-item reveal">
+          <span>03</span>
+          <strong>Catálogos</strong>
+        </div>
+      </section>
+    </main>
+
+    <div class="modal" id="productModal" aria-hidden="true" role="dialog" aria-label="Detalle del producto">
+      <div class="modal-backdrop" data-close-modal></div>
+      <article class="product-modal-card">
+        <button class="modal-close" type="button" data-close-modal>Cerrar</button>
+        <div class="modal-media" id="modalMedia"></div>
+        <div class="modal-info">
+          <p class="kicker" id="modalMeta"></p>
+          <h2 id="modalTitle"></h2>
+          <p class="modal-price" id="modalPrice"></p>
+          <div class="modal-tags" id="modalTags"></div>
+          <div class="modal-description" id="modalDescription"></div>
+          <div class="modal-actions">
+            <button class="button primary" id="addToCartButton" type="button">Agregar al carrito</button>
+            <button class="button pay-button" id="payButton" type="button">Pagar ahora</button>
+          </div>
+        </div>
+      </article>
+    </div>
+
+    <aside class="cart-drawer" id="cartDrawer" aria-hidden="true">
+      <div class="cart-head">
+        <p class="kicker">Carrito H&A</p>
+        <button class="modal-close" type="button" id="closeCartButton">Cerrar</button>
+      </div>
+      <div id="cartItems" class="cart-items"></div>
+      <div class="cart-total">
+        <span>Total</span>
+        <strong id="cartTotal">$0</strong>
+      </div>
+      <button class="button primary cart-pay" type="button">Pagar pedido</button>
+    </aside>
+
+    <footer class="footer" id="contacto">
+      <div class="footer-brand">
+        <img src="logo-men.png" alt="H&A Essence" />
+        <span>H&A Essence</span>
+      </div>
+      <div class="footer-links">
+        <a href="https://wa.me/" target="_blank" rel="noreferrer">WhatsApp</a>
+        <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">Instagram</a>
+        <a href="mailto:hola@haessence.com">Email</a>
+      </div>
+    </footer>
+
+    <script src="products-data.js?v=15"></script>
+    <script src="script.js?v=15"></script>
+  </body>
+</html>
