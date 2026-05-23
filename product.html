@@ -10,7 +10,7 @@
       href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="styles.css?v=17" />
+    <link rel="stylesheet" href="styles.css?v=18" />
   </head>
   <body class="product-page">
     <header class="site-header product-header" data-theme="women">
@@ -24,13 +24,7 @@
         <a href="index.html#catalogo">Catálogo</a>
       </nav>
 
-      <button class="header-cta cart-toggle cart-icon-button" type="button" aria-label="Abrir carrito">
-        <svg viewBox="0 0 24 24" aria-hidden="true">
-          <path d="M6 7h12l-1 12H7L6 7Z"></path>
-          <path d="M9 7a3 3 0 0 1 6 0"></path>
-        </svg>
-        <span id="cartCount">0</span>
-      </button>
+      <a class="header-cta" href="https://wa.me/525586730688" target="_blank" rel="noreferrer">WhatsApp</a>
     </header>
 
     <main class="product-detail-page">
@@ -68,10 +62,9 @@
             </div>
           </div>
           <div class="detail-actions">
-            <button class="button primary" id="detailAddToCart" type="button">Agregar al carrito</button>
-            <button class="button pay-button" id="detailPayNow" type="button">Pagar ahora</button>
+            <button class="button primary" id="detailContactButton" type="button">Contactar por WhatsApp</button>
           </div>
-          <p class="detail-note">Compra asistida con confirmación de disponibilidad, pago y envío.</p>
+          <p class="detail-note">Te contactaremos para coordinar disponibilidad, forma de pago y punto de entrega.</p>
         </aside>
       </section>
 
@@ -92,20 +85,7 @@
       </section>
     </main>
 
-    <aside class="cart-drawer" id="cartDrawer" aria-hidden="true">
-      <div class="cart-head">
-        <p class="kicker">Carrito H&A</p>
-        <button class="modal-close" type="button" id="closeCartButton">Cerrar</button>
-      </div>
-      <div id="cartItems" class="cart-items"></div>
-      <div class="cart-total">
-        <span>Total</span>
-        <strong id="cartTotal">$0</strong>
-      </div>
-      <button class="button primary cart-pay" type="button">Pagar pedido</button>
-    </aside>
-
-    <script src="products-data.js?v=17"></script>
-    <script src="product.js?v=17"></script>
+    <script src="products-data.js?v=18"></script>
+    <script src="product.js?v=18"></script>
   </body>
 </html>

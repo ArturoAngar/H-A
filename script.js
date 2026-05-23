@@ -178,16 +178,7 @@ let currentIntent = "all";
 let currentSlide = 0;
 let visibleLimit = 36;
 let selectedProduct = null;
-
-function getStoredCart() {
-  return JSON.parse(localStorage.getItem("haCart") || "[]");
-}
-
-function saveStoredCart(items) {
-  localStorage.setItem("haCart", JSON.stringify(items));
-}
-
-const cart = getStoredCart();
+const whatsappNumber = "525586730688";
 
 const header = document.querySelector(".site-header");
 const heroPanels = [...document.querySelectorAll(".hero-panel")];
@@ -206,12 +197,7 @@ const modalTitle = document.querySelector("#modalTitle");
 const modalPrice = document.querySelector("#modalPrice");
 const modalTags = document.querySelector("#modalTags");
 const modalDescription = document.querySelector("#modalDescription");
-const addToCartButton = document.querySelector("#addToCartButton");
-const payButton = document.querySelector("#payButton");
-const cartDrawer = document.querySelector("#cartDrawer");
-const cartItems = document.querySelector("#cartItems");
-const cartCount = document.querySelector("#cartCount");
-const cartTotal = document.querySelector("#cartTotal");
+const contactProductButton = document.querySelector("#contactProductButton");
 const advisorSubmit = document.querySelector("#advisorSubmit");
 const advisorResults = document.querySelector("#advisorResults");
 const advisorCategory = document.querySelector("#advisorCategory");
@@ -258,6 +244,15 @@ function productIndex(product) {
 function goToProduct(product) {
   const index = Math.max(0, productIndex(product));
   window.location.href = `product.html?id=${index}`;
+}
+
+function productWhatsappUrl(product) {
+  const message = `Hola! Estoy interesado en este producto: ${product.name}. ¿Cree que me pudiera dar más información acerca del pago y envío?`;
+  return `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
+}
+
+function contactProduct(product) {
+  window.open(productWhatsappUrl(product), "_blank", "noopener");
 }
 
 function productProfile(product) {
@@ -544,58 +539,6 @@ function closeModal() {
   modal?.setAttribute("aria-hidden", "true");
 }
 
-function addToCart(product) {
-  const existing = cart.find((item) => productKey(item.product) === productKey(product));
-  if (existing) {
-    existing.quantity += 1;
-  } else {
-    cart.push({ product, quantity: 1 });
-  }
-  saveStoredCart(cart);
-  renderCart();
-}
-
-function renderCart() {
-  if (!cartItems) return;
-  cartItems.replaceChildren();
-  let total = 0;
-  cart.forEach((item, index) => {
-    const price = moneyToNumber(item.product.salePrice || item.product.price);
-    total += price * item.quantity;
-    const row = document.createElement("div");
-    row.className = "cart-item";
-    row.innerHTML = `
-      <div>
-        <strong>${item.product.name}</strong>
-        <small>${item.quantity} x ${item.product.salePrice || item.product.price}</small>
-      </div>
-      <button class="cart-remove" type="button">Quitar</button>
-    `;
-    row.querySelector(".cart-remove").addEventListener("click", () => {
-      cart.splice(index, 1);
-      saveStoredCart(cart);
-      renderCart();
-    });
-    cartItems.append(row);
-  });
-  cartCount.textContent = cart.reduce((sum, item) => sum + item.quantity, 0);
-  cartTotal.textContent = new Intl.NumberFormat("es-MX", {
-    style: "currency",
-    currency: "MXN",
-    maximumFractionDigits: 0,
-  }).format(total);
-}
-
-function openCart() {
-  cartDrawer.classList.add("open");
-  cartDrawer.setAttribute("aria-hidden", "false");
-}
-
-function closeCart() {
-  cartDrawer.classList.remove("open");
-  cartDrawer.setAttribute("aria-hidden", "true");
-}
-
 function goToCatalog() {
   const catalog = document.querySelector("#catalogo");
   if (!catalog) return;
@@ -730,23 +673,10 @@ document.querySelectorAll("[data-close-modal]").forEach((button) => {
   button.addEventListener("click", closeModal);
 });
 
-addToCartButton?.addEventListener("click", () => {
+contactProductButton?.addEventListener("click", () => {
   if (!selectedProduct) return;
-  addToCart(selectedProduct);
-  openCart();
+  contactProduct(selectedProduct);
 });
-
-payButton?.addEventListener("click", () => {
-  if (!selectedProduct) return;
-  addToCart(selectedProduct);
-  window.location.href = "checkout.html";
-});
-
-document.querySelector(".cart-toggle")?.addEventListener("click", openCart);
-document.querySelector(".cart-pay")?.addEventListener("click", () => {
-  window.location.href = "checkout.html";
-});
-document.querySelector("#closeCartButton")?.addEventListener("click", closeCart);
 
 function syncAdvisorQuestions() {
   const isFragrance = advisorCategory.value === "fragancias";
@@ -849,5 +779,4 @@ renderIntentCards();
 renderCuratedRows();
 syncAdvisorQuestions();
 renderAdvisorResults();
-renderCart();
 renderProducts();

@@ -3,6 +3,7 @@ const params = new URLSearchParams(window.location.search);
 const productIndex = Number(params.get("id") || 0);
 const product = products[productIndex] || products[0];
 let quantity = 1;
+const whatsappNumber = "525586730688";
 
 const brandVibes = {
   armani: ["elegante", "limpio", "caro"],
@@ -110,45 +111,14 @@ function vibeDescription(item) {
   ];
 }
 
-function getCart() {
-  return JSON.parse(localStorage.getItem("haCart") || "[]");
+function productWhatsappUrl(item, qty = 1) {
+  const quantityText = qty > 1 ? ` Cantidad: ${qty}.` : "";
+  const message = `Hola! Estoy interesado en este producto: ${item.name}.${quantityText} ¿Cree que me pudiera dar más información acerca del pago y envío?`;
+  return `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
 }
 
-function saveCart(cart) {
-  localStorage.setItem("haCart", JSON.stringify(cart));
-  renderCart();
-}
-
-function addToCart(item, qty = 1) {
-  const cart = getCart();
-  const key = item.url || item.name;
-  const existing = cart.find((entry) => entry.key === key);
-  if (existing) existing.quantity += qty;
-  else cart.push({ key, product: item, quantity: qty });
-  saveCart(cart);
-}
-
-function renderCart() {
-  const cart = getCart();
-  const cartItems = document.querySelector("#cartItems");
-  const cartCount = document.querySelector("#cartCount");
-  const cartTotal = document.querySelector("#cartTotal");
-  cartItems.replaceChildren();
-  let total = 0;
-  cart.forEach((entry, index) => {
-    const price = moneyToNumber(entry.product.salePrice || entry.product.price);
-    total += price * entry.quantity;
-    const row = document.createElement("div");
-    row.className = "cart-item";
-    row.innerHTML = `<div><strong>${entry.product.name}</strong><small>${entry.quantity} x ${entry.product.salePrice || entry.product.price}</small></div><button class="cart-remove" type="button">Quitar</button>`;
-    row.querySelector("button").addEventListener("click", () => {
-      cart.splice(index, 1);
-      saveCart(cart);
-    });
-    cartItems.append(row);
-  });
-  cartCount.textContent = cart.reduce((sum, entry) => sum + entry.quantity, 0);
-  cartTotal.textContent = new Intl.NumberFormat("es-MX", { style: "currency", currency: "MXN", maximumFractionDigits: 0 }).format(total);
+function contactProduct(item, qty = 1) {
+  window.open(productWhatsappUrl(item, qty), "_blank", "noopener");
 }
 
 function renderProduct() {
@@ -196,16 +166,6 @@ document.querySelector("#qtyPlus").addEventListener("click", () => {
   quantity += 1;
   document.querySelector("#qtyValue").textContent = quantity;
 });
-document.querySelector("#detailAddToCart").addEventListener("click", () => addToCart(product, quantity));
-document.querySelector("#detailPayNow").addEventListener("click", () => {
-  addToCart(product, quantity);
-  window.location.href = "checkout.html";
-});
-document.querySelector(".cart-toggle").addEventListener("click", () => document.querySelector("#cartDrawer").classList.add("open"));
-document.querySelector("#closeCartButton").addEventListener("click", () => document.querySelector("#cartDrawer").classList.remove("open"));
-document.querySelector(".cart-pay").addEventListener("click", () => {
-  window.location.href = "checkout.html";
-});
+document.querySelector("#detailContactButton").addEventListener("click", () => contactProduct(product, quantity));
 
 renderProduct();
-renderCart();
