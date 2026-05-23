@@ -10,7 +10,7 @@
       href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="styles.css?v=21" />
+    <link rel="stylesheet" href="styles.css?v=22" />
   </head>
   <body class="product-page">
     <header class="site-header product-header" data-theme="women">
@@ -68,6 +68,42 @@
         <div class="story-grid" id="detailDescription"></div>
       </section>
 
+      <section class="reviews-section">
+        <div class="section-head">
+          <p class="kicker">Reseñas</p>
+          <h2>Opiniones del producto</h2>
+        </div>
+        <div class="reviews-layout">
+          <div class="reviews-summary">
+            <strong id="reviewAverage">5.0</strong>
+            <div class="review-stars" id="reviewStarsSummary" aria-label="Calificación promedio"></div>
+            <p id="reviewCount">Sé el primero en dejar una reseña.</p>
+          </div>
+          <form class="review-form" id="reviewForm">
+            <label>
+              Calificación
+              <div class="star-picker" id="starPicker" role="radiogroup" aria-label="Calificación">
+                <button type="button" data-rating="1">★</button>
+                <button type="button" data-rating="2">★</button>
+                <button type="button" data-rating="3">★</button>
+                <button type="button" data-rating="4">★</button>
+                <button type="button" data-rating="5">★</button>
+              </div>
+            </label>
+            <label>
+              Tu nombre
+              <input id="reviewName" type="text" placeholder="Nombre" />
+            </label>
+            <label>
+              Comentario
+              <textarea id="reviewComment" placeholder="Cuéntanos cómo te funcionó o por qué lo recomendarías"></textarea>
+            </label>
+            <button class="button primary" type="submit">Agregar reseña</button>
+          </form>
+        </div>
+        <div class="reviews-list" id="reviewsList"></div>
+      </section>
+
       <section class="related-section">
         <div class="section-head">
           <p class="kicker">También podrías considerar</p>
@@ -77,7 +113,7 @@
       </section>
     </main>
 
-    <script src="products-data.js?v=21"></script>
-    <script src="product.js?v=21"></script>
+    <script src="products-data.js?v=22"></script>
+    <script src="product.js?v=22"></script>
   </body>
 </html>

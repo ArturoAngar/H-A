@@ -221,9 +221,6 @@ const advisorPresentation = document.querySelector("#advisorPresentation");
 const advisorLensUse = document.querySelector("#advisorLensUse");
 const advisorLensStyle = document.querySelector("#advisorLensStyle");
 const curatedGrid = document.querySelector("#curatedGrid");
-const commentsList = document.querySelector("#commentsList");
-const commentForm = document.querySelector("#commentForm");
-const commentInput = document.querySelector("#commentInput");
 
 function setSlide(index) {
   currentSlide = index;
@@ -608,6 +605,7 @@ function scoreProduct(product, answers) {
 }
 
 function advisorRecommendations() {
+  if (!advisorCategory.value) return [];
   const answers = {
     category: advisorCategory.value,
     gender: advisorGender.value,
@@ -649,6 +647,12 @@ function advisorRecommendations() {
 }
 
 function renderAdvisorResults() {
+  if (!advisorCategory.value) {
+    advisorResults.hidden = true;
+    advisorResults.replaceChildren();
+    return;
+  }
+  advisorResults.hidden = false;
   const results = advisorRecommendations();
   advisorResults.replaceChildren();
   if (!results.length) {
@@ -735,9 +739,12 @@ contactProductButton?.addEventListener("click", () => {
 function syncAdvisorQuestions() {
   const category = advisorCategory.value;
   document.querySelectorAll(".advisor-question").forEach((question) => {
-    const group = question.dataset.advisorGroup;
-    question.hidden = group !== "all" && group !== category;
+    const groups = (question.dataset.advisorGroup || "").split(" ");
+    question.hidden = !category || !groups.includes(category);
   });
+  advisorSubmit.hidden = !category;
+  advisorResults.hidden = !category;
+  if (!category) advisorResults.replaceChildren();
 }
 
 advisorCategory?.addEventListener("change", () => {
@@ -763,41 +770,6 @@ advisorSubmit?.addEventListener("click", renderAdvisorResults);
   advisorLensUse,
   advisorLensStyle,
 ].forEach((control) => control?.addEventListener("change", renderAdvisorResults));
-
-function getComments() {
-  return JSON.parse(localStorage.getItem("haComments") || "[]");
-}
-
-function saveComments(comments) {
-  localStorage.setItem("haComments", JSON.stringify(comments));
-}
-
-function renderComments() {
-  if (!commentsList) return;
-  const comments = getComments();
-  const defaults = [
-    "Busco algo fresco para diario y que no sea tan comun.",
-    "Me interesa coordinar entrega en persona y revisar opciones para regalo.",
-  ];
-  commentsList.replaceChildren();
-  [...defaults, ...comments].slice(-6).forEach((comment) => {
-    const item = document.createElement("article");
-    item.className = "comment-item";
-    item.textContent = comment;
-    commentsList.append(item);
-  });
-}
-
-commentForm?.addEventListener("submit", (event) => {
-  event.preventDefault();
-  const value = commentInput.value.trim();
-  if (!value) return;
-  const comments = getComments();
-  comments.push(value);
-  saveComments(comments);
-  commentInput.value = "";
-  renderComments();
-});
 
 const revealObserver = new IntersectionObserver(
   (entries) => {
@@ -889,6 +861,4 @@ document.querySelectorAll('a[href="#catalogo"]').forEach((link) => {
 renderIntentCards();
 renderCuratedRows();
 syncAdvisorQuestions();
-renderAdvisorResults();
-renderComments();
 renderProducts();

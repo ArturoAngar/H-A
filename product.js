@@ -7,6 +7,7 @@ const params = new URLSearchParams(window.location.search);
 const productIndex = Number(params.get("id") || 0);
 const product = products[productIndex] || products[0];
 const whatsappNumber = "525586730688";
+let selectedRating = 5;
 
 const brandVibes = {
   armani: ["elegante", "limpio", "caro"],
@@ -38,6 +39,16 @@ function normalize(value) {
     .toLowerCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "");
+}
+
+function escapeHtml(value) {
+  return String(value || "").replace(/[&<>"']/g, (char) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    "\"": "&quot;",
+    "'": "&#039;",
+  }[char]));
 }
 
 function productProfile(item) {
@@ -128,6 +139,57 @@ function contactProduct(item) {
   window.open(productWhatsappUrl(item), "_blank", "noopener");
 }
 
+function reviewKey(item) {
+  return `haReviews:${normalize(item.name)}`;
+}
+
+function getReviews(item) {
+  return JSON.parse(localStorage.getItem(reviewKey(item)) || "[]");
+}
+
+function saveReviews(item, reviews) {
+  localStorage.setItem(reviewKey(item), JSON.stringify(reviews));
+}
+
+function starsMarkup(rating) {
+  const value = Math.round(Number(rating) || 0);
+  return Array.from({ length: 5 }, (_, index) => `<span class="${index < value ? "filled" : ""}">★</span>`).join("");
+}
+
+function syncStarPicker() {
+  document.querySelectorAll("#starPicker button").forEach((button) => {
+    button.classList.toggle("active", Number(button.dataset.rating) <= selectedRating);
+    button.setAttribute("aria-checked", String(Number(button.dataset.rating) === selectedRating));
+  });
+}
+
+function renderReviews() {
+  const reviews = getReviews(product);
+  const average = reviews.length
+    ? reviews.reduce((total, review) => total + Number(review.rating), 0) / reviews.length
+    : 5;
+  document.querySelector("#reviewAverage").textContent = average.toFixed(1);
+  document.querySelector("#reviewStarsSummary").innerHTML = starsMarkup(average);
+  document.querySelector("#reviewCount").textContent = reviews.length
+    ? `${reviews.length} reseña${reviews.length === 1 ? "" : "s"} de clientes.`
+    : "Sé el primero en dejar una reseña.";
+
+  const list = document.querySelector("#reviewsList");
+  list.replaceChildren();
+  reviews.slice(-8).reverse().forEach((review) => {
+    const card = document.createElement("article");
+    card.className = "review-card";
+    card.innerHTML = `
+      <div class="review-card-head">
+        <strong>${escapeHtml(review.name)}</strong>
+        <span>${starsMarkup(review.rating)}</span>
+      </div>
+      <p>${escapeHtml(review.comment)}</p>
+    `;
+    list.append(card);
+  });
+}
+
 function renderProduct() {
   if (!product) return;
   const profile = productProfile(product);
@@ -166,5 +228,30 @@ function renderProduct() {
 }
 
 document.querySelector("#detailContactButton").addEventListener("click", () => contactProduct(product));
+document.querySelectorAll("#starPicker button").forEach((button) => {
+  button.addEventListener("click", () => {
+    selectedRating = Number(button.dataset.rating);
+    syncStarPicker();
+  });
+});
+
+document.querySelector("#reviewForm").addEventListener("submit", (event) => {
+  event.preventDefault();
+  const nameInput = document.querySelector("#reviewName");
+  const commentInput = document.querySelector("#reviewComment");
+  const name = nameInput.value.trim() || "Cliente H&A";
+  const comment = commentInput.value.trim();
+  if (!comment) return;
+  const reviews = getReviews(product);
+  reviews.push({ name, comment, rating: selectedRating, createdAt: new Date().toISOString() });
+  saveReviews(product, reviews);
+  nameInput.value = "";
+  commentInput.value = "";
+  selectedRating = 5;
+  syncStarPicker();
+  renderReviews();
+});
 
 renderProduct();
+syncStarPicker();
+renderReviews();

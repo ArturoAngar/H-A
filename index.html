@@ -14,7 +14,7 @@
       href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="styles.css?v=21" />
+    <link rel="stylesheet" href="styles.css?v=22" />
   </head>
   <body>
     <header class="site-header" data-theme="women">
@@ -97,12 +97,13 @@
             <label>
               Producto
               <select id="advisorCategory">
+                <option value="">Elige una opción</option>
                 <option value="fragancias">Perfume</option>
                 <option value="belleza">Cuidado personal</option>
                 <option value="lentes">Lentes</option>
               </select>
             </label>
-            <label class="advisor-question" data-advisor-group="all">
+            <label class="advisor-question" data-advisor-group="fragancias belleza lentes" hidden>
               ¿Para quién es?
               <select id="advisorGender">
                 <option value="all">Regalo / cualquiera</option>
@@ -111,7 +112,7 @@
                 <option value="unisex">Unisex</option>
               </select>
             </label>
-            <label class="advisor-question" data-advisor-group="fragancias">
+            <label class="advisor-question" data-advisor-group="fragancias" hidden>
               Marca
               <select id="advisorBrand">
                 <option value="all">Cualquiera</option>
@@ -124,7 +125,7 @@
                 <option value="calvin">Calvin Klein</option>
               </select>
             </label>
-            <label class="advisor-question" data-advisor-group="fragancias">
+            <label class="advisor-question" data-advisor-group="fragancias" hidden>
               Presentación
               <select id="advisorSet">
                 <option value="all">Cualquiera</option>
@@ -204,7 +205,7 @@
                 <option value="premium">Premium</option>
               </select>
             </label>
-            <label class="advisor-question" data-advisor-group="all">
+            <label class="advisor-question" data-advisor-group="fragancias" hidden>
               Ocasión
               <select id="advisorOccasion">
                 <option value="diario">Diario</option>
@@ -216,7 +217,7 @@
                 <option value="noche">Noche</option>
               </select>
             </label>
-            <label class="advisor-question" data-advisor-group="all">
+            <label class="advisor-question" data-advisor-group="fragancias lentes" hidden>
               Vibra
               <select id="advisorVibe">
                 <option value="elegante">Elegante</option>
@@ -229,7 +230,7 @@
                 <option value="juvenil">Juvenil</option>
               </select>
             </label>
-            <label class="advisor-question" data-advisor-group="all">
+            <label class="advisor-question" data-advisor-group="fragancias belleza lentes" hidden>
               Presupuesto
               <select id="advisorBudget">
                 <option value="500">Menos de $500</option>
@@ -238,7 +239,7 @@
                 <option value="99999">Premium</option>
               </select>
             </label>
-            <label class="advisor-question" data-advisor-group="fragancias">
+            <label class="advisor-question" data-advisor-group="fragancias" hidden>
               Aroma
               <select id="advisorScent">
                 <option value="fresco">Fresco</option>
@@ -249,7 +250,7 @@
                 <option value="suave">Suave</option>
               </select>
             </label>
-            <label class="advisor-question" data-advisor-group="fragancias">
+            <label class="advisor-question" data-advisor-group="fragancias" hidden>
               Duración
               <select id="advisorLongevity">
                 <option value="duradero">Que dure mucho</option>
@@ -257,8 +258,8 @@
               </select>
             </label>
           </div>
-          <button class="advisor-submit" id="advisorSubmit" type="button">Ver recomendaciones</button>
-          <div class="advisor-results" id="advisorResults"></div>
+          <button class="advisor-submit" id="advisorSubmit" type="button" hidden>Ver recomendaciones</button>
+          <div class="advisor-results" id="advisorResults" hidden></div>
         </div>
       </section>
 
@@ -328,23 +329,6 @@
         </div>
       </section>
 
-      <section class="comments-section" id="comentarios">
-        <div class="section-head reveal">
-          <p class="kicker">Comentarios</p>
-          <h2>Lo que buscan nuestros clientes</h2>
-        </div>
-        <div class="comments-card reveal">
-          <div class="comments-list" id="commentsList"></div>
-          <form class="comment-form" id="commentForm">
-            <label>
-              Tu comentario
-              <textarea id="commentInput" placeholder="Cuéntanos qué producto buscas o qué experiencia tuviste"></textarea>
-            </label>
-            <button class="button primary" type="submit">Publicar comentario</button>
-          </form>
-        </div>
-      </section>
-
       <section class="service-band">
         <div class="service-item reveal">
           <span>01</span>
@@ -391,7 +375,7 @@
       </div>
     </footer>
 
-    <script src="products-data.js?v=21"></script>
-    <script src="script.js?v=21"></script>
+    <script src="products-data.js?v=22"></script>
+    <script src="script.js?v=22"></script>
   </body>
 </html>
