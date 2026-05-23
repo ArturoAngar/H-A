@@ -265,8 +265,8 @@ select {
 }
 
 .hero-copy h1 {
-  max-width: 760px;
-  font-size: clamp(3rem, 5.6vw, 5.8rem);
+  max-width: 620px;
+  font-size: clamp(3rem, 5.2vw, 5.1rem);
 }
 
 .kicker {
@@ -303,8 +303,8 @@ h3 {
 }
 
 .hero-text {
-  max-width: 430px;
-  margin: 26px 0 0;
+  max-width: 390px;
+  margin: 20px 0 0;
   color: rgba(22, 20, 18, 0.7);
   font-size: clamp(1rem, 1.55vw, 1.18rem);
   line-height: 1.65;
@@ -318,7 +318,7 @@ h3 {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  margin-top: 30px;
+  margin-top: 24px;
 }
 
 .brand-stage {
@@ -481,7 +481,7 @@ h3 {
 
 .why-grid article,
 .commerce-info-grid article {
-  min-height: 230px;
+  min-height: 176px;
   display: grid;
   align-content: space-between;
   gap: 18px;
@@ -521,7 +521,7 @@ h3 {
 }
 
 .commerce-info-grid article {
-  min-height: 210px;
+  min-height: 162px;
 }
 
 .collection-pill {
@@ -1947,10 +1947,14 @@ h3 {
     margin-top: 20px;
   }
 
-  .hero-actions .button,
-  .modal-actions .button,
-  .detail-actions .button {
+.hero-actions .button,
+.modal-actions .button,
+.detail-actions .button {
     width: 100%;
+  }
+
+  .hero-actions .button {
+    min-height: 42px;
   }
 
   .brand-stage {
