@@ -88,6 +88,44 @@ function isBlockedProduct(product) {
 const productsSource = window.UFRA_PRODUCTS?.length ? window.UFRA_PRODUCTS : fallbackProducts;
 const products = productsSource.filter((product) => !isBlockedProduct(product));
 
+const brandPatterns = [
+  ["abercrombie & fitch", "Abercrombie & Fitch"],
+  ["antonio banderas", "Antonio Banderas"],
+  ["armani exchange", "Armani Exchange"],
+  ["carolina herrera", "Carolina Herrera"],
+  ["calvin klein", "Calvin Klein"],
+  ["dolce & gabbana", "Dolce & Gabbana"],
+  ["giorgio armani", "Giorgio Armani"],
+  ["hugo boss", "Hugo Boss"],
+  ["jean paul gaultier", "Jean Paul Gaultier"],
+  ["paco rabanne", "Paco Rabanne"],
+  ["ralph lauren", "Ralph Lauren"],
+  ["tommy hilfiger", "Tommy Hilfiger"],
+  ["victoria's secret", "Victoria's Secret"],
+  ["victoria secret", "Victoria's Secret"],
+  ["yves saint laurent", "Yves Saint Laurent"],
+  ["acqua di parma", "Acqua Di Parma"],
+  ["azzaro", "Azzaro"],
+  ["burberry", "Burberry"],
+  ["bvlgari", "Bvlgari"],
+  ["chanel", "Chanel"],
+  ["clinique", "Clinique"],
+  ["coach", "Coach"],
+  ["clarins", "Clarins"],
+  ["dkny", "DKNY"],
+  ["givenchy", "Givenchy"],
+  ["guess", "Guess"],
+  ["lacoste", "Lacoste"],
+  ["lancome", "Lancome"],
+  ["lattafa", "Lattafa"],
+  ["mac", "MAC"],
+  ["montblanc", "Montblanc"],
+  ["moschino", "Moschino"],
+  ["nautica", "Nautica"],
+  ["prada", "Prada"],
+  ["versace", "Versace"],
+];
+
 const intentCards = [
   { id: "elegante", title: "Para verte elegante", category: "all", hint: "Pulido, fino, buen gusto" },
   { id: "cita", title: "Para una cita", category: "fragancias", hint: "Cercano, atractivo, memorable" },
@@ -179,6 +217,7 @@ const shapeStyles = {
 let currentGender = "all";
 let currentCategory = "all";
 let currentIntent = "all";
+let currentBrand = "all";
 let currentSlide = 0;
 let visibleLimit = 36;
 let selectedProduct = null;
@@ -194,6 +233,7 @@ const productCount = document.querySelector("#productCount");
 const loadMoreButton = document.querySelector("#loadMoreButton");
 const intentGrid = document.querySelector("#intentGrid");
 const intentButtons = [...document.querySelectorAll(".intent-filter-button")];
+const brandFilterList = document.querySelector("#brandFilterList");
 const modal = document.querySelector("#productModal");
 const modalMedia = document.querySelector("#modalMedia");
 const modalMeta = document.querySelector("#modalMeta");
@@ -258,6 +298,22 @@ function categoryLabel(category) {
   if (category === "belleza") return "cuidado personal";
   if (category === "fragancias") return "perfumes";
   return category;
+}
+
+function productBrand(product) {
+  if (product.brand) return product.brand;
+  const name = normalize(product.name);
+  const found = brandPatterns.find(([pattern]) => name.includes(normalize(pattern)));
+  if (found) return found[1];
+  const words = String(product.name || "")
+    .replace(/^\d+\s*/, "")
+    .split(/\s+/)
+    .filter((word) => !/^\d/.test(word) && !/^(EDT|EDP|ML|SET)$/i.test(word));
+  return words.slice(0, 2).join(" ") || "Otra marca";
+}
+
+function brandKey(label) {
+  return normalize(label).replace(/[^a-z0-9]+/g, "-");
 }
 
 function goToProduct(product) {
@@ -453,7 +509,8 @@ function renderProducts() {
     const genderMatch = currentGender === "all" || product.gender === currentGender;
     const categoryMatch = currentCategory === "all" || product.category === currentCategory;
     const intentMatch = currentIntent === "all" || hasTag(product, currentIntent);
-    return genderMatch && categoryMatch && intentMatch;
+    const brandMatch = currentBrand === "all" || brandKey(productBrand(product)) === currentBrand;
+    return genderMatch && categoryMatch && intentMatch && brandMatch;
   });
   const visibleProducts = filtered.slice(0, visibleLimit);
 
@@ -478,6 +535,35 @@ function setIntent(intent) {
   visibleLimit = 36;
   intentButtons.forEach((button) => {
     button.classList.toggle("active", button.dataset.intent === currentIntent);
+  });
+}
+
+function setBrand(brand) {
+  currentBrand = brand;
+  visibleLimit = 36;
+  document.querySelectorAll(".brand-filter-button").forEach((button) => {
+    button.classList.toggle("active", button.dataset.brand === currentBrand);
+  });
+}
+
+function renderBrandFilters() {
+  if (!brandFilterList) return;
+  const brands = [...new Set(products.map(productBrand))]
+    .filter(Boolean)
+    .sort((a, b) => a.localeCompare(b, "es"));
+  brandFilterList.replaceChildren();
+  [{ label: "Todas", key: "all" }, ...brands.map((label) => ({ label, key: brandKey(label) }))].forEach((brand) => {
+    const button = document.createElement("button");
+    button.className = "brand-filter-button";
+    button.type = "button";
+    button.dataset.brand = brand.key;
+    button.textContent = brand.label;
+    button.classList.toggle("active", brand.key === currentBrand);
+    button.addEventListener("click", () => {
+      setBrand(brand.key);
+      renderProducts();
+    });
+    brandFilterList.append(button);
   });
 }
 
@@ -860,5 +946,6 @@ document.querySelectorAll('a[href="#catalogo"]').forEach((link) => {
 });
 renderIntentCards();
 renderCuratedRows();
+renderBrandFilters();
 syncAdvisorQuestions();
 renderProducts();

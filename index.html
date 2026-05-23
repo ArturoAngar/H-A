@@ -6,7 +6,7 @@
     <title>H&A Essence | Luxury Care Store</title>
     <meta
       name="description"
-      content="H&A Essence: fragancias, cuidado personal y lentes en una experiencia premium."
+      content="H&A Essence: fragancias, belleza y accesorios seleccionados por estilo, ocasión y presupuesto, con catálogo actualizado semanalmente."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -14,7 +14,7 @@
       href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="styles.css?v=22" />
+    <link rel="stylesheet" href="styles.css?v=23" />
   </head>
   <body>
     <header class="site-header" data-theme="women">
@@ -32,17 +32,28 @@
       <a class="header-cta" href="https://wa.me/525586730688" target="_blank" rel="noreferrer">WhatsApp</a>
     </header>
 
+    <div class="value-bar" aria-label="Beneficios H&A">
+      <span>Catálogo actualizado semanalmente</span>
+      <span>Compra bajo pedido</span>
+      <span>Entrega estimada 5-10 días</span>
+      <span>Productos por intención y estilo</span>
+    </div>
+
     <main>
       <section class="hero" id="inicio">
         <div class="hero-slider" aria-live="polite">
           <article class="hero-panel active" data-theme="women">
             <div class="hero-copy">
               <p class="kicker">H&A Essence / Mujer</p>
-              <h1>Care with precision.</h1>
-              <p class="hero-text">Fragancias, cuidado personal y lentes en una selección limpia.</p>
+              <h1>No compres cualquier producto. Encuentra el que va contigo.</h1>
+              <p class="hero-text">
+                Fragancias, belleza y accesorios seleccionados por estilo, ocasión y presupuesto.
+                Explora un catálogo actualizado semanalmente y compra bajo pedido con entrega a domicilio.
+              </p>
               <div class="hero-actions">
-                <a class="button primary" href="#catalogo" data-filter="women">Explorar mujer</a>
-                <a class="button ghost-link" href="#asesor">Asesoría</a>
+                <a class="button primary" href="#tiempo-entrega">Tiempo estimado de entrega</a>
+                <a class="button ghost-link" href="#modelo-pedido">Modelo bajo pedido</a>
+                <a class="button ghost-link" href="#catalogo-actualizado">Catálogo actualizado</a>
               </div>
             </div>
             <div class="brand-stage" aria-hidden="true">
@@ -55,11 +66,15 @@
           <article class="hero-panel" data-theme="men">
             <div class="hero-copy">
               <p class="kicker">H&A Essence / Hombre</p>
-              <h1>Dark luxury, clean form.</h1>
-              <p class="hero-text">Fragancias, lentes y accesorios con presencia sobria.</p>
+              <h1>No compres cualquier producto. Encuentra el que va contigo.</h1>
+              <p class="hero-text">
+                Fragancias, belleza y accesorios seleccionados por estilo, ocasión y presupuesto.
+                Explora un catálogo actualizado semanalmente y compra bajo pedido con entrega a domicilio.
+              </p>
               <div class="hero-actions">
-                <a class="button primary" href="#catalogo" data-filter="men">Explorar hombre</a>
-                <a class="button ghost-link dark" href="#asesor">Asesoría</a>
+                <a class="button primary" href="#tiempo-entrega">Tiempo estimado de entrega</a>
+                <a class="button ghost-link dark" href="#modelo-pedido">Modelo bajo pedido</a>
+                <a class="button ghost-link dark" href="#catalogo-actualizado">Catálogo actualizado</a>
               </div>
             </div>
             <div class="brand-stage dark" aria-hidden="true">
@@ -73,6 +88,61 @@
         <div class="hero-switch" aria-label="Cambiar línea">
           <button class="switch-dot active" type="button" data-slide="0">Mujer</button>
           <button class="switch-dot" type="button" data-slide="1">Hombre</button>
+        </div>
+      </section>
+
+      <section class="why-section">
+        <div class="section-head reveal">
+          <p class="kicker">Propuesta H&A</p>
+          <h2>¿Por qué comprar en H&A?</h2>
+          <p>
+            No somos solo un catálogo. Organizamos fragancias, belleza y accesorios para que encuentres más rápido lo que realmente va contigo.
+          </p>
+        </div>
+        <div class="why-grid reveal">
+          <article>
+            <span>01</span>
+            <h3>Compra por intención</h3>
+            <p>Encuentra productos según lo que necesitas: regalo, cita, elegancia, uso diario, estilo personal o presupuesto.</p>
+          </article>
+          <article id="catalogo-actualizado">
+            <span>02</span>
+            <h3>Catálogo actualizado</h3>
+            <p>Actualizamos el catálogo semanalmente para mantener productos, precios y disponibilidad lo más vigentes posible.</p>
+          </article>
+          <article id="modelo-pedido">
+            <span>03</span>
+            <h3>Modelo bajo pedido</h3>
+            <p>Procesamos pedidos según disponibilidad del proveedor o sucursal aliada, lo que nos permite ofrecer mayor variedad sin depender solo de inventario físico.</p>
+          </article>
+          <article>
+            <span>04</span>
+            <h3>Selección más clara</h3>
+            <p>En lugar de perderte entre cientos de productos, puedes explorar por género, categoría, intención, estilo y marca.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="commerce-info-section">
+        <div class="commerce-info-grid reveal">
+          <article id="tiempo-entrega">
+            <p class="kicker">Tiempo estimado de entrega</p>
+            <p>
+              Los tiempos de entrega estimados son de aproximadamente 5 días hábiles para zonas metropolitanas y hasta 10 días hábiles para el resto de la República, sujetos a disponibilidad y logística del proveedor.
+            </p>
+          </article>
+          <article>
+            <p class="kicker">Modelo bajo pedido</p>
+            <p>
+              Trabajamos bajo pedido para ofrecerte mayor variedad de productos sin limitarte únicamente a inventario físico. Una vez que realizas tu compra, confirmamos disponibilidad con proveedor o sucursal aliada y procesamos el envío a domicilio.
+            </p>
+          </article>
+          <article>
+            <p class="kicker">Catálogo actualizado</p>
+            <p>
+              Nuestro catálogo se actualiza semanalmente para reflejar cambios de disponibilidad, precios y productos del proveedor. Aun así, algunos productos pueden estar sujetos a confirmación antes de procesar el pedido.
+            </p>
+          </article>
         </div>
       </section>
 
@@ -301,6 +371,10 @@
               <button class="category-filter-button" type="button" data-category="belleza">Cuidado personal</button>
               <button class="category-filter-button" type="button" data-category="lentes">Lentes</button>
             </div>
+            <div class="brand-filter" aria-label="Filtrar por marca">
+              <p class="filter-label">Marca</p>
+              <div class="brand-filter-list" id="brandFilterList"></div>
+            </div>
             <div class="intent-filter" aria-label="Filtrar por intención">
               <p class="filter-label">Intención</p>
               <button class="intent-filter-button active" type="button" data-intent="all">Todas</button>
@@ -375,7 +449,7 @@
       </div>
     </footer>
 
-    <script src="products-data.js?v=22"></script>
-    <script src="script.js?v=22"></script>
+    <script src="products-data.js?v=23"></script>
+    <script src="script.js?v=23"></script>
   </body>
 </html>
