@@ -1,15 +1,17 @@
-const products = window.UFRA_PRODUCTS || [];
+function isBlockedProduct(product) {
+  return /christian dior|(^|\s)dior(\s|$)|sauvage|jadore|j'adore|miss dior|fahrenheit|poison/.test(normalize(product.name));
+}
+
+const products = (window.UFRA_PRODUCTS || []).filter((product) => !isBlockedProduct(product));
 const params = new URLSearchParams(window.location.search);
 const productIndex = Number(params.get("id") || 0);
 const product = products[productIndex] || products[0];
-let quantity = 1;
 const whatsappNumber = "525586730688";
 
 const brandVibes = {
   armani: ["elegante", "limpio", "caro"],
   versace: ["sexy", "fiesta", "premium"],
   chanel: ["elegante", "caro", "premium"],
-  dior: ["elegante", "caro", "misterioso"],
   prada: ["limpio", "elegante", "premium"],
   carolina: ["sexy", "dulce", "regalo"],
   herrera: ["sexy", "dulce", "regalo"],
@@ -111,21 +113,26 @@ function vibeDescription(item) {
   ];
 }
 
-function productWhatsappUrl(item, qty = 1) {
-  const quantityText = qty > 1 ? ` Cantidad: ${qty}.` : "";
-  const message = `Hola! Estoy interesado en este producto: ${item.name}.${quantityText} ¿Cree que me pudiera dar más información acerca del pago y envío?`;
+function categoryLabel(category) {
+  if (category === "belleza") return "cuidado personal";
+  if (category === "fragancias") return "perfumes";
+  return category;
+}
+
+function productWhatsappUrl(item) {
+  const message = `Hola! Estoy interesado en este producto: ${item.name}. ¿Cree que me pudiera dar más información acerca del pago y envío?`;
   return `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
 }
 
-function contactProduct(item, qty = 1) {
-  window.open(productWhatsappUrl(item, qty), "_blank", "noopener");
+function contactProduct(item) {
+  window.open(productWhatsappUrl(item), "_blank", "noopener");
 }
 
 function renderProduct() {
   if (!product) return;
   const profile = productProfile(product);
   document.querySelector("#detailImage").innerHTML = `<img src="${product.image || "logo-women.png"}" alt="${product.name}" />`;
-  document.querySelector("#detailMeta").textContent = `${product.category} / ${product.gender === "men" ? "Hombre" : "Mujer"}`;
+  document.querySelector("#detailMeta").textContent = `${categoryLabel(product.category)} / ${product.gender === "men" ? "Hombre" : "Mujer"}`;
   document.querySelector("#detailTitle").textContent = product.name;
   document.querySelector("#detailPrice").textContent = product.salePrice || product.price;
   document.querySelector("#regularPrice").textContent = product.regularPrice && product.regularPrice !== product.salePrice
@@ -158,14 +165,6 @@ function renderProduct() {
   });
 }
 
-document.querySelector("#qtyMinus").addEventListener("click", () => {
-  quantity = Math.max(1, quantity - 1);
-  document.querySelector("#qtyValue").textContent = quantity;
-});
-document.querySelector("#qtyPlus").addEventListener("click", () => {
-  quantity += 1;
-  document.querySelector("#qtyValue").textContent = quantity;
-});
-document.querySelector("#detailContactButton").addEventListener("click", () => contactProduct(product, quantity));
+document.querySelector("#detailContactButton").addEventListener("click", () => contactProduct(product));
 
 renderProduct();

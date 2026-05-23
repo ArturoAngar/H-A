@@ -81,7 +81,12 @@ const fallbackProducts = [
   },
 ];
 
-const products = window.UFRA_PRODUCTS?.length ? window.UFRA_PRODUCTS : fallbackProducts;
+function isBlockedProduct(product) {
+  return /christian dior|(^|\s)dior(\s|$)|sauvage|jadore|j'adore|miss dior|fahrenheit|poison/.test(normalize(product.name));
+}
+
+const productsSource = window.UFRA_PRODUCTS?.length ? window.UFRA_PRODUCTS : fallbackProducts;
+const products = productsSource.filter((product) => !isBlockedProduct(product));
 
 const intentCards = [
   { id: "elegante", title: "Para verte elegante", category: "all", hint: "Pulido, fino, buen gusto" },
@@ -103,7 +108,6 @@ const brandVibes = {
   armani: ["elegante", "limpio", "caro"],
   versace: ["sexy", "fiesta", "premium"],
   chanel: ["elegante", "caro", "premium"],
-  dior: ["elegante", "caro", "misterioso"],
   prada: ["limpio", "elegante", "premium"],
   carolina: ["sexy", "dulce", "regalo"],
   herrera: ["sexy", "dulce", "regalo"],
@@ -207,7 +211,19 @@ const advisorVibe = document.querySelector("#advisorVibe");
 const advisorBudget = document.querySelector("#advisorBudget");
 const advisorScent = document.querySelector("#advisorScent");
 const advisorLongevity = document.querySelector("#advisorLongevity");
+const advisorBrand = document.querySelector("#advisorBrand");
+const advisorSet = document.querySelector("#advisorSet");
+const advisorBeautyBrand = document.querySelector("#advisorBeautyBrand");
+const advisorSkinHair = document.querySelector("#advisorSkinHair");
+const advisorCosmetic = document.querySelector("#advisorCosmetic");
+const advisorTreatment = document.querySelector("#advisorTreatment");
+const advisorPresentation = document.querySelector("#advisorPresentation");
+const advisorLensUse = document.querySelector("#advisorLensUse");
+const advisorLensStyle = document.querySelector("#advisorLensStyle");
 const curatedGrid = document.querySelector("#curatedGrid");
+const commentsList = document.querySelector("#commentsList");
+const commentForm = document.querySelector("#commentForm");
+const commentInput = document.querySelector("#commentInput");
 
 function setSlide(index) {
   currentSlide = index;
@@ -239,6 +255,12 @@ function productKey(product) {
 
 function productIndex(product) {
   return products.findIndex((item) => productKey(item) === productKey(product));
+}
+
+function categoryLabel(category) {
+  if (category === "belleza") return "cuidado personal";
+  if (category === "fragancias") return "perfumes";
+  return category;
 }
 
 function goToProduct(product) {
@@ -290,12 +312,24 @@ function productProfile(product) {
     ["elegante", "diario", "regalo"].forEach((tag) => tags.add(tag));
     if (/lip|labial|gloss|rouge|mascara|sombra|blush/.test(name)) ["cita", "fiesta"].forEach((tag) => tags.add(tag));
     if (/serum|cream|moisture|treatment|clean|repair|eye/.test(name)) ["limpio", "trabajo", "premium"].forEach((tag) => tags.add(tag));
+    if (/dry|hydra|moist|cream|crema|lotion/.test(name)) ["piel seca", "hidratante", "skincare"].forEach((tag) => tags.add(tag));
+    if (/oil|matte|clarifying|clean|foam|gel/.test(name)) ["piel grasa", "limpieza", "skincare"].forEach((tag) => tags.add(tag));
+    if (/sensitive|gentle|calm|repair/.test(name)) ["piel sensible", "reparador", "skincare"].forEach((tag) => tags.add(tag));
+    if (/hair|shampoo|conditioner|capilar/.test(name)) ["cabello"].forEach((tag) => tags.add(tag));
+    if (/lip|labial|gloss|rouge/.test(name)) ["labios", "maquillaje", "acabado"].forEach((tag) => tags.add(tag));
+    if (/eye|mascara|lash|shadow|sombra/.test(name)) ["ojos", "maquillaje", "acabado"].forEach((tag) => tags.add(tag));
+    if (/set|kit|duo|cofre|gift/.test(name)) tags.add("set");
+    if (/routine|rutina|day|night/.test(name)) tags.add("rutina");
   }
 
   if (product.category === "lentes") {
     ["premium", "regalo", "diario", "elegante"].forEach((tag) => tags.add(tag));
     if (/black|negro|matte|aviator|pilot/.test(name)) ["misterioso", "fiesta"].forEach((tag) => tags.add(tag));
     if (/gold|metal|armani|ray/.test(name)) ["caro", "premium"].forEach((tag) => tags.add(tag));
+    if (/aviator|pilot|metal|gold/.test(name)) ["viaje", "manejar"].forEach((tag) => tags.add(tag));
+    if (/black|negro|matte/.test(name)) tags.add("sobrio");
+    if (/armani|ray|coach|mk|michael/.test(name)) tags.add("premium");
+    if (/youth|sport|casual|exchange/.test(name)) tags.add("juvenil");
   }
 
   if (product.gender === "men") tags.add("hombre");
@@ -372,7 +406,7 @@ function vibeDescription(product) {
   }
 
   return {
-    summary: "Belleza práctica con acabado cuidado: ideal para mejorar rutina o regalar sin fallar.",
+    summary: "Cuidado personal práctico con acabado fino: ideal para mejorar rutina o regalar sin fallar.",
     details: [
       ["Para quién", "Mujer que busca verse más arreglada con poco esfuerzo"],
       ["Cuándo usarlo", tags.includes("fiesta") ? "Cita, noche o eventos" : "Diario, trabajo o rutina personal"],
@@ -402,7 +436,7 @@ function productCard(product, index) {
     <div class="product-info">
       <div class="product-meta">
         <span>${product.gender === "men" ? "Hombre" : "Mujer"}</span>
-        <span>${product.category}</span>
+        <span>${categoryLabel(product.category)}</span>
       </div>
       <h3>${product.name}</h3>
       <p>${product.description}</p>
@@ -517,7 +551,7 @@ function openProduct(product) {
   modalMedia.innerHTML = product.image
     ? `<img src="${product.image}" alt="${product.name}" />`
     : "";
-  modalMeta.textContent = `${product.category} / ${product.gender === "men" ? "Hombre" : "Mujer"}`;
+  modalMeta.textContent = `${categoryLabel(product.category)} / ${product.gender === "men" ? "Hombre" : "Mujer"}`;
   modalTitle.textContent = product.name;
   modalPrice.textContent = product.salePrice || product.price;
   modalTags.replaceChildren();
@@ -551,14 +585,23 @@ function goToCatalog() {
 
 function scoreProduct(product, answers) {
   const profile = productProfile(product);
+  const name = normalize(product.name);
   let score = 0;
   if (product.category === answers.category) score += 8;
   if (answers.gender === "all" || answers.gender === "unisex" || product.gender === answers.gender) score += 6;
   if (profile.price <= answers.budget) score += 6;
   if (profile.tags.includes(answers.occasion)) score += 5;
   if (profile.tags.includes(answers.vibe)) score += 5;
+  if (answers.brand && answers.brand !== "all" && name.includes(answers.brand)) score += 7;
+  if (answers.set === "set" && (/set|kit|cofre|duo|gift/.test(name) || product.category === "sets")) score += 6;
+  if (answers.set === "individual" && !/set|kit|cofre|duo|gift/.test(name)) score += 3;
   if (product.category === "fragancias" && profile.tags.includes(answers.scent)) score += 5;
   if (product.category === "fragancias" && profile.tags.includes(answers.longevity)) score += 3;
+  [answers.skinHair, answers.cosmetic, answers.treatment, answers.presentation, answers.lensUse, answers.lensStyle]
+    .filter((value) => value && value !== "all")
+    .forEach((value) => {
+      if (profile.tags.includes(value) || name.includes(value)) score += 6;
+    });
   if (profile.tags.includes("regalo") && answers.gender === "all") score += 2;
   if (answers.vibe === "caro" && profile.price > 1200) score += 2;
   return score;
@@ -573,6 +616,14 @@ function advisorRecommendations() {
     budget: Number(advisorBudget.value),
     scent: advisorScent.value,
     longevity: advisorLongevity.value,
+    brand: advisorCategory.value === "fragancias" ? advisorBrand.value : advisorCategory.value === "belleza" ? advisorBeautyBrand.value : "all",
+    set: advisorSet.value,
+    skinHair: advisorSkinHair.value,
+    cosmetic: advisorCosmetic.value,
+    treatment: advisorTreatment.value,
+    presentation: advisorPresentation.value,
+    lensUse: advisorLensUse.value,
+    lensStyle: advisorLensStyle.value,
   };
   const pool = products
     .filter((product) => product.category === answers.category)
@@ -591,6 +642,9 @@ function advisorRecommendations() {
     ["Opción segura", safe],
     ["Mejor precio", budget],
     ["Impacto / regalo premium", premium],
+    ["Alternativa versátil", pool[1]?.product],
+    ["Buen regalo", pool.find((item) => hasTag(item.product, "regalo"))?.product],
+    ["Mayor presencia", pool.find((item) => hasTag(item.product, "premium") || hasTag(item.product, "impacto"))?.product],
   ].filter(([, product], index, arr) => product && arr.findIndex(([, p]) => productKey(p) === productKey(product)) === index);
 }
 
@@ -679,14 +733,71 @@ contactProductButton?.addEventListener("click", () => {
 });
 
 function syncAdvisorQuestions() {
-  const isFragrance = advisorCategory.value === "fragancias";
-  document.querySelectorAll(".scent-question").forEach((question) => {
-    question.hidden = !isFragrance;
+  const category = advisorCategory.value;
+  document.querySelectorAll(".advisor-question").forEach((question) => {
+    const group = question.dataset.advisorGroup;
+    question.hidden = group !== "all" && group !== category;
   });
 }
 
-advisorCategory?.addEventListener("change", syncAdvisorQuestions);
+advisorCategory?.addEventListener("change", () => {
+  syncAdvisorQuestions();
+  renderAdvisorResults();
+});
 advisorSubmit?.addEventListener("click", renderAdvisorResults);
+
+[
+  advisorGender,
+  advisorOccasion,
+  advisorVibe,
+  advisorBudget,
+  advisorScent,
+  advisorLongevity,
+  advisorBrand,
+  advisorSet,
+  advisorBeautyBrand,
+  advisorSkinHair,
+  advisorCosmetic,
+  advisorTreatment,
+  advisorPresentation,
+  advisorLensUse,
+  advisorLensStyle,
+].forEach((control) => control?.addEventListener("change", renderAdvisorResults));
+
+function getComments() {
+  return JSON.parse(localStorage.getItem("haComments") || "[]");
+}
+
+function saveComments(comments) {
+  localStorage.setItem("haComments", JSON.stringify(comments));
+}
+
+function renderComments() {
+  if (!commentsList) return;
+  const comments = getComments();
+  const defaults = [
+    "Busco algo fresco para diario y que no sea tan comun.",
+    "Me interesa coordinar entrega en persona y revisar opciones para regalo.",
+  ];
+  commentsList.replaceChildren();
+  [...defaults, ...comments].slice(-6).forEach((comment) => {
+    const item = document.createElement("article");
+    item.className = "comment-item";
+    item.textContent = comment;
+    commentsList.append(item);
+  });
+}
+
+commentForm?.addEventListener("submit", (event) => {
+  event.preventDefault();
+  const value = commentInput.value.trim();
+  if (!value) return;
+  const comments = getComments();
+  comments.push(value);
+  saveComments(comments);
+  commentInput.value = "";
+  renderComments();
+});
 
 const revealObserver = new IntersectionObserver(
   (entries) => {
@@ -779,4 +890,5 @@ renderIntentCards();
 renderCuratedRows();
 syncAdvisorQuestions();
 renderAdvisorResults();
+renderComments();
 renderProducts();

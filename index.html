@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>H&A Essence | Luxury Beauty Store</title>
+    <title>H&A Essence | Luxury Care Store</title>
     <meta
       name="description"
-      content="H&A Essence: fragancias, belleza y lentes en una experiencia premium."
+      content="H&A Essence: fragancias, cuidado personal y lentes en una experiencia premium."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -14,7 +14,7 @@
       href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="styles.css?v=18" />
+    <link rel="stylesheet" href="styles.css?v=20" />
   </head>
   <body>
     <header class="site-header" data-theme="women">
@@ -38,8 +38,8 @@
           <article class="hero-panel active" data-theme="women">
             <div class="hero-copy">
               <p class="kicker">H&A Essence / Mujer</p>
-              <h1>Beauty with precision.</h1>
-              <p class="hero-text">Fragancias, belleza y lentes en una selección limpia.</p>
+              <h1>Care with precision.</h1>
+              <p class="hero-text">Fragancias, cuidado personal y lentes en una selección limpia.</p>
               <div class="hero-actions">
                 <a class="button primary" href="#catalogo" data-filter="women">Explorar mujer</a>
                 <a class="button ghost-link" href="#asesor">Asesoría</a>
@@ -78,7 +78,7 @@
 
       <section class="collection-strip" id="colecciones" aria-label="Colecciones H&A">
         <button class="collection-pill reveal" data-category="fragancias">Fragancias</button>
-        <button class="collection-pill reveal" data-category="belleza">Belleza</button>
+        <button class="collection-pill reveal" data-category="belleza">Cuidado personal</button>
         <button class="collection-pill reveal" data-category="lentes">Lentes</button>
       </section>
 
@@ -87,7 +87,7 @@
           <p class="kicker">Asesor H&A</p>
           <h2>Te ayudamos a elegir.</h2>
           <p>
-            Responde en segundos y recibe tres opciones claras.
+            Responde en segundos y recibe recomendaciones claras para fragancias, cuidado personal o lentes.
           </p>
         </div>
 
@@ -97,12 +97,12 @@
             <label>
               Producto
               <select id="advisorCategory">
-                <option value="fragancias">Fragancia</option>
-                <option value="belleza">Belleza</option>
+                <option value="fragancias">Perfume</option>
+                <option value="belleza">Cuidado personal</option>
                 <option value="lentes">Lentes</option>
               </select>
             </label>
-            <label>
+            <label class="advisor-question" data-advisor-group="all">
               ¿Para quién es?
               <select id="advisorGender">
                 <option value="all">Regalo / cualquiera</option>
@@ -111,7 +111,100 @@
                 <option value="unisex">Unisex</option>
               </select>
             </label>
-            <label>
+            <label class="advisor-question" data-advisor-group="fragancias">
+              Marca
+              <select id="advisorBrand">
+                <option value="all">Cualquiera</option>
+                <option value="armani">Armani</option>
+                <option value="versace">Versace</option>
+                <option value="carolina">Carolina Herrera</option>
+                <option value="paco">Paco Rabanne</option>
+                <option value="boss">Hugo Boss</option>
+                <option value="montblanc">Montblanc</option>
+                <option value="calvin">Calvin Klein</option>
+              </select>
+            </label>
+            <label class="advisor-question" data-advisor-group="fragancias">
+              Presentación
+              <select id="advisorSet">
+                <option value="all">Cualquiera</option>
+                <option value="individual">Perfume individual</option>
+                <option value="set">Set / regalo</option>
+              </select>
+            </label>
+            <label class="advisor-question" data-advisor-group="belleza">
+              Marca
+              <select id="advisorBeautyBrand">
+                <option value="all">Cualquiera</option>
+                <option value="clinique">Clinique</option>
+                <option value="clarins">Clarins</option>
+                <option value="lancome">Lancome</option>
+                <option value="mac">MAC</option>
+                <option value="estee">Estee Lauder</option>
+              </select>
+            </label>
+            <label class="advisor-question" data-advisor-group="belleza">
+              Piel / cabello
+              <select id="advisorSkinHair">
+                <option value="all">Cualquiera</option>
+                <option value="piel seca">Piel seca</option>
+                <option value="piel grasa">Piel grasa</option>
+                <option value="piel sensible">Piel sensible</option>
+                <option value="cabello">Cabello</option>
+              </select>
+            </label>
+            <label class="advisor-question" data-advisor-group="belleza">
+              Tipo de cosmético
+              <select id="advisorCosmetic">
+                <option value="all">Cualquiera</option>
+                <option value="maquillaje">Maquillaje</option>
+                <option value="skincare">Skincare</option>
+                <option value="labios">Labios</option>
+                <option value="ojos">Ojos</option>
+                <option value="cabello">Cabello</option>
+              </select>
+            </label>
+            <label class="advisor-question" data-advisor-group="belleza">
+              Tratamiento
+              <select id="advisorTreatment">
+                <option value="all">Cualquiera</option>
+                <option value="hidratante">Hidratante</option>
+                <option value="limpieza">Limpieza</option>
+                <option value="reparador">Reparador</option>
+                <option value="anti edad">Anti edad</option>
+                <option value="acabado">Acabado visual</option>
+              </select>
+            </label>
+            <label class="advisor-question" data-advisor-group="belleza">
+              Presentación
+              <select id="advisorPresentation">
+                <option value="all">Cualquiera</option>
+                <option value="individual">Individual</option>
+                <option value="set">Set / regalo</option>
+                <option value="rutina">Rutina</option>
+              </select>
+            </label>
+            <label class="advisor-question" data-advisor-group="lentes">
+              Uso
+              <select id="advisorLensUse">
+                <option value="all">Cualquiera</option>
+                <option value="diario">Diario</option>
+                <option value="manejar">Manejar</option>
+                <option value="viaje">Viaje</option>
+                <option value="regalo">Regalo</option>
+              </select>
+            </label>
+            <label class="advisor-question" data-advisor-group="lentes">
+              Estilo
+              <select id="advisorLensStyle">
+                <option value="all">Cualquiera</option>
+                <option value="elegante">Elegante</option>
+                <option value="juvenil">Juvenil</option>
+                <option value="sobrio">Sobrio</option>
+                <option value="premium">Premium</option>
+              </select>
+            </label>
+            <label class="advisor-question" data-advisor-group="all">
               Ocasión
               <select id="advisorOccasion">
                 <option value="diario">Diario</option>
@@ -123,7 +216,7 @@
                 <option value="noche">Noche</option>
               </select>
             </label>
-            <label>
+            <label class="advisor-question" data-advisor-group="all">
               Vibra
               <select id="advisorVibe">
                 <option value="elegante">Elegante</option>
@@ -136,7 +229,7 @@
                 <option value="juvenil">Juvenil</option>
               </select>
             </label>
-            <label>
+            <label class="advisor-question" data-advisor-group="all">
               Presupuesto
               <select id="advisorBudget">
                 <option value="500">Menos de $500</option>
@@ -145,7 +238,7 @@
                 <option value="99999">Premium</option>
               </select>
             </label>
-            <label class="scent-question">
+            <label class="advisor-question" data-advisor-group="fragancias">
               Aroma
               <select id="advisorScent">
                 <option value="fresco">Fresco</option>
@@ -156,7 +249,7 @@
                 <option value="suave">Suave</option>
               </select>
             </label>
-            <label class="scent-question">
+            <label class="advisor-question" data-advisor-group="fragancias">
               Duración
               <select id="advisorLongevity">
                 <option value="duradero">Que dure mucho</option>
@@ -169,20 +262,20 @@
         </div>
       </section>
 
+      <section class="curated-section">
+        <div class="section-head reveal">
+          <p class="kicker">Curaduría H&A</p>
+          <h2>Secciones recomendadas</h2>
+        </div>
+        <div class="curated-grid reveal" id="curatedGrid"></div>
+      </section>
+
       <section class="intent-section">
         <div class="section-head reveal">
           <p class="kicker">Comprar por intención</p>
           <h2>Atajos para decidir mejor</h2>
         </div>
         <div class="intent-grid reveal" id="intentGrid"></div>
-      </section>
-
-      <section class="curated-section">
-        <div class="section-head reveal">
-          <p class="kicker">Curaduría H&A</p>
-          <h2>Listas rápidas para vender mejor</h2>
-        </div>
-        <div class="curated-grid reveal" id="curatedGrid"></div>
       </section>
 
       <section class="catalog-section" id="catalogo">
@@ -204,7 +297,7 @@
               <p class="filter-label">Categoría</p>
               <button class="category-filter-button active" type="button" data-category="all">Todas</button>
               <button class="category-filter-button" type="button" data-category="fragancias">Fragancias</button>
-              <button class="category-filter-button" type="button" data-category="belleza">Belleza</button>
+              <button class="category-filter-button" type="button" data-category="belleza">Cuidado personal</button>
               <button class="category-filter-button" type="button" data-category="lentes">Lentes</button>
             </div>
             <div class="intent-filter" aria-label="Filtrar por intención">
@@ -232,6 +325,23 @@
               <button class="load-more" id="loadMoreButton" type="button">Mostrar más</button>
             </div>
           </div>
+        </div>
+      </section>
+
+      <section class="comments-section" id="comentarios">
+        <div class="section-head reveal">
+          <p class="kicker">Comentarios</p>
+          <h2>Lo que buscan nuestros clientes</h2>
+        </div>
+        <div class="comments-card reveal">
+          <div class="comments-list" id="commentsList"></div>
+          <form class="comment-form" id="commentForm">
+            <label>
+              Tu comentario
+              <textarea id="commentInput" placeholder="Cuéntanos qué producto buscas o qué experiencia tuviste"></textarea>
+            </label>
+            <button class="button primary" type="submit">Publicar comentario</button>
+          </form>
         </div>
       </section>
 
@@ -281,7 +391,7 @@
       </div>
     </footer>
 
-    <script src="products-data.js?v=18"></script>
-    <script src="script.js?v=18"></script>
+    <script src="products-data.js?v=20"></script>
+    <script src="script.js?v=20"></script>
   </body>
 </html>
