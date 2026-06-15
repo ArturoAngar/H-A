@@ -77,7 +77,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/abercrombie-fitch-authentic-moment-man-100ml-edt-16952.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16952_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16952_2.jpg"
   },
   {
     "name": "ABERCROMBIE & FITCH AUTHENTIC MOMENT WOMAN 100ML EDP",
@@ -93,7 +93,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/abercrombie-fitch-authentic-moment-woman-100ml-edp-16962.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16962_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16962_2.jpg"
   },
   {
     "name": "ABERCROMBIE & FITCH AUTHENTIC NIGHT MAN 100ML EDT",
@@ -125,7 +125,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/abercrombie-fitch-authentic-night-woman-100ml-edp-16902.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16902_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16902_2.jpg"
   },
   {
     "name": "ABERCROMBIE & FITCH AUTHENTIC SELF MAN 100ML EDT",
@@ -141,7 +141,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/abercrombie-fitch-authentic-self-man-100ml-edt-16811.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16811_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16811_2.jpg"
   },
   {
     "name": "ABERCROMBIE & FITCH AUTHENTIC SELF WOMAN 100ML EDP",
@@ -157,7 +157,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/abercrombie-fitch-authentic-self-woman-100ml-edp-16840.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16840_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16840_2.jpg"
   },
   {
     "name": "ABERCROMBIE & FITCH AUTHENTIC WOMAN 100ML EDP",
@@ -189,7 +189,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/abercrombie-fitch-away-man-100ml-edt-16970.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16970_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16970_2.jpg"
   },
   {
     "name": "ABERCROMBIE & FITCH AWAY TONIGHT MAN 100ML EDT",
@@ -205,7 +205,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/abercrombie-fitch-away-tonight-man-100ml-edt-16930.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16930_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16930_2.jpg"
   },
   {
     "name": "ABERCROMBIE & FITCH AWAY TONIGHT WOMAN 100ML EDP",
@@ -221,7 +221,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/abercrombie-fitch-away-tonight-woman-100ml-edp-16990.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16990_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16990_2.jpg"
   },
   {
     "name": "ABERCROMBIE & FITCH AWAY WEEKEND MAN 100ML EDT",
@@ -237,7 +237,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/abercrombie-fitch-away-weekend-man-100ml-edt-16940.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16940_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16940_2.jpg"
   },
   {
     "name": "ABERCROMBIE & FITCH AWAY WEEKEND WOMAN 100ML EDP",
@@ -253,7 +253,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/abercrombie-fitch-away-weekend-woman-100ml-edp-16995.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16995_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16995_2.jpg"
   },
   {
     "name": "ABERCROMBIE & FITCH AWAY WOMAN 100ML EDP",
@@ -285,7 +285,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/abercrombie-fitch-fierce-cologne-100ml-edc-16958.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16958_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16958_2.jpg"
   },
   {
     "name": "ABERCROMBIE & FITCH FIERCE RESERVE COLOGNE 100ML EDC",
@@ -357,7 +357,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$830",
     "providerPrice": "$499",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$830",
     "profit": "$331",
     "margin": "39.9%",
@@ -413,7 +413,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/abercrombie-and-fitch-first-instinct-together-woman-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16758_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16758_2.jpg"
   },
   {
     "name": "ABERCROMBIE & FITCH FIRST INSTINCT WOMAN 100ML EDP",
@@ -461,7 +461,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/acqua-di-parma-ambra-180ml-edp-81072.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81072_1_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81072_2.jpg"
   },
   {
     "name": "ACQUA DI PARMA BLU MEDITERRANEO ARANCIA DI CAPRI 100ML EDT",
@@ -477,7 +477,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/acqua-di-parma-blu-mediterraneo-arancia-di-capri-100ml-edt-adp081660.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/d/adp081660_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/d/adp081660_2.jpg"
   },
   {
     "name": "ACQUA DI PARMA BLU MEDITERRANEO ARANCIA DI CAPRI 180ML EDT",
@@ -493,7 +493,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/acqua-di-parma-blu-mediterraneo-arancia-di-capri-180ml-edt-adp081661.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/d/adp081661_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/d/adp081661_2.jpg"
   },
   {
     "name": "ACQUA DI PARMA BLU MEDITERRANEO BERGAMOTTO DI CALABRIA 100ML EDT",
@@ -525,7 +525,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/acqua-di-parma-blu-mediterraneo-bergamotto-di-calabria-180ml-edt-adp081663.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/d/adp081663_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/d/adp081663_2.jpg"
   },
   {
     "name": "ACQUA DI PARMA BLU MEDITERRANEO FICO DI AMALFI 100ML EDT",
@@ -541,7 +541,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/acqua-di-parma-blu-mediterraneo-fico-di-amalfi-100ml-edt-adp081664.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/d/adp081664_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/d/adp081664_2.jpg"
   },
   {
     "name": "ACQUA DI PARMA BLU MEDITERRANEO FICO DI AMALFI 180ML EDT",
@@ -557,7 +557,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/acqua-di-parma-blu-mediterraneo-fico-di-amalfi-180ml-edt-adp081665.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/d/adp081665_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/d/adp081665_2.jpg"
   },
   {
     "name": "ACQUA DI PARMA BLU MEDITERRANEO MANDARINO DI SICILIA 100ML EDT",
@@ -861,7 +861,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/acqua-di-parma-oud-spice-180ml-edp-adp081322.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/d/adp081322_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/d/adp081322_2.jpg"
   },
   {
     "name": "ACQUA DI PARMA OUD 180ML EDP",
@@ -925,7 +925,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/acqua-di-parma-quercia-180ml-edp-81082.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81082_1_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81082_2.jpg"
   },
   {
     "name": "ACQUA DI PARMA ROSA NOBILE 100ML EDC",
@@ -973,7 +973,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/acqua-di-parma-sandalo-100ml-edp-81091.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81091_1_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81091_2.jpg"
   },
   {
     "name": "ACQUA DI PARMA SANDALO 180ML EDP",
@@ -1005,7 +1005,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/acqua-di-parma-yuzu-180ml-edp-81012.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81012_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81012_2_1.jpg"
   },
   {
     "name": "ACQUA DI PARMA ZAFFERANO 100ML EDP",
@@ -1053,7 +1053,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/adidas-dynamic-pulse-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/3/33219_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/3/33219_2.jpg"
   },
   {
     "name": "ADIDAS ICE DIVE 100ML EDT",
@@ -1069,7 +1069,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/adidas-ice-dive-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32193_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32193_2.jpg"
   },
   {
     "name": "ADIDAS PURE GAME 100ML EDT",
@@ -1085,7 +1085,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/adidas-pure-game-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32202_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32202_2.jpg"
   },
   {
     "name": "ADIDAS VICTORY LEAGUE 100ML EDT",
@@ -1101,7 +1101,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/adidas-victory-league-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32205_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32205_2.jpg"
   },
   {
     "name": "ADOLFO DOMINGUEZ 1993 AGUA FRESCA 120ML EDT SET",
@@ -1141,7 +1141,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,160",
     "providerPrice": "$699",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$1,160",
     "profit": "$461",
     "margin": "39.7%",
@@ -1165,7 +1165,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/adolfo-dominguez-agua-fresca-de-mimosa-coriandro-120ml-edt-65153511.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65153511_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65153511_6.jpg"
   },
   {
     "name": "ADOLFO DOMINGUEZ AGUA FRESCA DE ROSAS 120ML EDT",
@@ -1213,7 +1213,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/adolfo-dominguez-agua-fresca-de-rosas-blancas-120ml-edt-65117657.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65117657_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65117657_6.jpg"
   },
   {
     "name": "ADOLFO DOMINGUEZ AGUA FRESCA GARDENIA 120ML EDT",
@@ -1245,7 +1245,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/adolfo-dominguez-agua-fresca-lima-tonka-120ml-edt-65177563.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65177563_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65177563_2.jpg"
   },
   {
     "name": "ADOLFO DOMINGUEZ BAMBU WOMAN 100ML EDT",
@@ -1373,7 +1373,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/adolfo-dominguez-fresia-solar-120ml-edp-65198808.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198808_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198808_2.jpg"
   },
   {
     "name": "ADOLFO DOMINGUEZ FRESIA SOLAR 120ML EDP SET",
@@ -1405,7 +1405,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/adolfo-dominguez-iris-vainilla-120ml-edp-65181600.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65181600_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65181600_2.jpg"
   },
   {
     "name": "ADOLFO DOMINGUEZ NEROLI 120ML EDT",
@@ -1421,7 +1421,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/adolfo-dominguez-neroli-120ml-edt-65200669.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65200669_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65200669_2.jpg"
   },
   {
     "name": "ADOLFO DOMINGUEZ NEROLI 120ML EDT",
@@ -1437,7 +1437,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/adolfo-dominguez-neroli-120ml-edt-65200667.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65200667_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65200667_2.jpg"
   },
   {
     "name": "ADOLFO DOMINGUEZ NUDE MUSK 120ML EDP",
@@ -1453,7 +1453,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/adolfo-dominguez-nude-musk-120ml-edp-65167044.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65167044_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65167044_2_1.jpg"
   },
   {
     "name": "ADOLFO DOMINGUEZ POMELO 120ML EDT",
@@ -1789,7 +1789,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/afnan-supremacy-in-oud-100ml-edp07020.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/7/07020_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/7/07020_2.jpg"
   },
   {
     "name": "AFNAN SUPREMACY NOT ONLY INTENSE 100ML EXTRACTO DE PERFUME",
@@ -1805,7 +1805,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/afnan-supremacy-not-only-intense-100ml-extracto-de-perfume07021.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/7/07021_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/7/07021_2.jpg"
   },
   {
     "name": "AGATHA RUIZ DE LA PRADA DE BESO EN BESO 100ML EDT",
@@ -1917,7 +1917,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/agatha-ruiz-de-la-prada-agatha-look-fun-80ml-edt-set.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199003_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199003_1.jpg"
   },
   {
     "name": "AGATHA RUIZ DE LA PRADA LOOK GOLD 80ML EDT",
@@ -1997,7 +1997,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/al-haramain-amber-oud-bleu-100ml-edp-ahp1015.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/h/ahp1015_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/h/ahp1015_2.jpg"
   },
   {
     "name": "AL HARAMAIN AMBER OUD CARBON 100ML EDP",
@@ -2029,7 +2029,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/al-haramain-amber-oud-gold-100ml-edp-ahp1013.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/h/ahp1013_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/h/ahp1013_2.jpg"
   },
   {
     "name": "AL HARAMAIN AMBER OUD GOLD 60ML EDP",
@@ -2045,7 +2045,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/al-haramain-amber-oud-gold-60ml-edp-ahp1171.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/h/ahp1171_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/h/ahp1171_2.jpg"
   },
   {
     "name": "AL HARAMAIN AMBER OUD GOLD EXTREME 100ML EXTRACTO DE PERFUME REFILLABLE",
@@ -2237,7 +2237,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/animale-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/0/005163_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/0/005163_2.jpg"
   },
   {
     "name": "ANIMALE 100ML EDP SET",
@@ -2245,7 +2245,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,040",
     "providerPrice": "$625",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$1,040",
     "profit": "$415",
     "margin": "39.9%",
@@ -2301,7 +2301,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/antonio-puig-agua-brava-200ml-edc.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65070382_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65070382_2.jpg"
   },
   {
     "name": "ANTONIO PUIG QUORUM 100ML EDT",
@@ -2317,7 +2317,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/antonio-puig-quorum-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/4/041163_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/4/041163_2.jpg"
   },
   {
     "name": "ANTONIO PUIG QUORUM 100ML EDT | KIT MANICURE",
@@ -2333,7 +2333,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/antonio-puig-quorum-100ml-edt-kit-manicure.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65190158_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65190158_2.jpg"
   },
   {
     "name": "ARI BY ARIANA GRANDE 236ML BODY MIST",
@@ -2413,7 +2413,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ariana-grande-cloud-2-0-intense-100ml-edp-arg4lr21134cu.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/r/arg4lr21134cu_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/r/arg4lr21134cu_2.jpg"
   },
   {
     "name": "ARIANA GRANDE CLOUD 236ML BODY MIST",
@@ -2477,7 +2477,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ariana-grande-mod-vanilla-100ml-edp-arg8wlr22134.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/r/arg8wlr22134_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/r/arg8wlr22134_2.jpg"
   },
   {
     "name": "ARIANA GRANDE MOONLIGHT 100ML EDP",
@@ -2541,7 +2541,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ariana-grande-sweet-like-candy-100ml-edp-arg2lr16134.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/r/arg2lr16134_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/r/arg2lr16134_2.jpg"
   },
   {
     "name": "ARIANA GRANDE SWEET LIKE CANDY 100ML EDP SET",
@@ -2549,7 +2549,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,750",
     "providerPrice": "$1,049",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$1,750",
     "profit": "$701",
     "margin": "40.1%",
@@ -2589,7 +2589,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-club-de-nuit-blue-iconic-105ml-edp-16415.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16415_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16415_2.jpg"
   },
   {
     "name": "ARMAF CLUB DE NUIT IMPÉRIALE 105ML EDP",
@@ -2621,7 +2621,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-club-de-nuit-intense-105ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/9/09497_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/9/09497_2.jpg"
   },
   {
     "name": "ARMAF CLUB DE NUIT INTENSE 105ML EDT",
@@ -2629,7 +2629,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,000",
     "providerPrice": "$599",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$1,000",
     "profit": "$401",
     "margin": "40.1%",
@@ -2637,7 +2637,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-club-de-nuit-intense-105ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/4/04471_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/4/04471_2.jpg"
   },
   {
     "name": "ARMAF CLUB DE NUIT INTENSE 200ML EDP",
@@ -2653,7 +2653,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-club-de-nuit-intense-man-200ml-edp-13102.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/13102_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/13102_2.jpg"
   },
   {
     "name": "ARMAF CLUB DE NUIT INTENSE MAN PARFUM 150ML EDP",
@@ -2677,7 +2677,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$830",
     "providerPrice": "$499",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$830",
     "profit": "$331",
     "margin": "39.9%",
@@ -2685,7 +2685,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-club-de-nuit-man-105ml-edt-15159.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/5/15159_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/5/15159_2.jpg"
   },
   {
     "name": "ARMAF CLUB DE NUIT MILESTONE 105ML EDP",
@@ -2717,7 +2717,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-club-de-nuit-sillage-105ml-edp-13647.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/13647_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/13647_2_1.jpg"
   },
   {
     "name": "ARMAF CLUB DE NUIT UNTOLD 105ML EDP",
@@ -2733,7 +2733,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-club-de-nuit-untold-105ml-edp-16417.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16417_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16417_2.jpg"
   },
   {
     "name": "ARMAF CLUB DE NUIT URBAN MAN 105ML EDP",
@@ -2797,7 +2797,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-club-de-nuit-woman-200ml-edp-15108.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/5/15108_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/5/15108_2.jpg"
   },
   {
     "name": "ARMAF NICHE OUD 90ML EDP",
@@ -2813,7 +2813,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-niche-oud-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/4/04177_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/4/04177_2.jpg"
   },
   {
     "name": "ARMAF ODYSSEY AOUD 100ML EDP",
@@ -2821,7 +2821,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$660",
     "providerPrice": "$399",
-    "regularPrice": "$3,590",
+    "regularPrice": "$3,900",
     "salePrice": "$660",
     "profit": "$261",
     "margin": "39.5%",
@@ -2829,7 +2829,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-odyssey-aoud-100ml-edp-16614.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16614_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16614_2.jpg"
   },
   {
     "name": "ARMAF ODYSSEY HOMME 100ML EDP",
@@ -2869,7 +2869,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$660",
     "providerPrice": "$399",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$660",
     "profit": "$261",
     "margin": "39.5%",
@@ -2901,7 +2901,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,000",
     "providerPrice": "$599",
-    "regularPrice": "$3,540",
+    "regularPrice": "$3,900",
     "salePrice": "$1,000",
     "profit": "$401",
     "margin": "40.1%",
@@ -2909,7 +2909,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-odyssey-mandarin-sky-100ml-edp-14937.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/4/14937_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/4/14937_2.jpg"
   },
   {
     "name": "ARMAF ODYSSEY MEGA 100ML EDP",
@@ -2917,7 +2917,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$660",
     "providerPrice": "$399",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$660",
     "profit": "$261",
     "margin": "39.5%",
@@ -2925,7 +2925,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-odyssey-mega-100ml-edp-14938.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/4/14938_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/4/14938_2.jpg"
   },
   {
     "name": "ARMAF ODYSSEY MEGA 200ML EDP",
@@ -2933,7 +2933,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,160",
     "providerPrice": "$699",
-    "regularPrice": "$3,590",
+    "regularPrice": "$3,900",
     "salePrice": "$1,160",
     "profit": "$461",
     "margin": "39.7%",
@@ -2941,7 +2941,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-odyssey-mega-200ml-edp-16803.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16803_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16803_2.jpg"
   },
   {
     "name": "ARMAF ODYSSEY TYRANT 100ML EDP",
@@ -2949,7 +2949,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$660",
     "providerPrice": "$399",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$660",
     "profit": "$261",
     "margin": "39.5%",
@@ -2957,7 +2957,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-odyssey-tyrant-100ml-edp-16073.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16073_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16073_2.jpg"
   },
   {
     "name": "ARMAF ODYSSEY WILD ONE GOLD EDITION 100ML EDP",
@@ -2965,7 +2965,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$660",
     "providerPrice": "$399",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$660",
     "profit": "$261",
     "margin": "39.5%",
@@ -2973,7 +2973,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/armaf-odyssey-wild-one-gold-edition-100ml-edp-16072.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16072_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/16072_2.jpg"
   },
   {
     "name": "ARMANI EXCHANGE LENTES AX2047S6003Z363 GRIS PLOMO",
@@ -3085,7 +3085,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/aspen-118ml-edc.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/7/6704300_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/7/6704300_2.jpg"
   },
   {
     "name": "AZZARO CHROME 100ML EDP",
@@ -3093,7 +3093,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,500",
     "providerPrice": "$899",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$1,500",
     "profit": "$601",
     "margin": "40.1%",
@@ -3101,7 +3101,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/azzaro-chrome-100ml-edp-65031.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65031_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65031_2.jpg"
   },
   {
     "name": "AZZARO CHROME 100ML EDT",
@@ -3109,7 +3109,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,000",
     "providerPrice": "$599",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$1,000",
     "profit": "$401",
     "margin": "40.1%",
@@ -3125,7 +3125,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,330",
     "providerPrice": "$799",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$1,330",
     "profit": "$531",
     "margin": "39.9%",
@@ -3133,7 +3133,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/azzaro-chrome-200ml-edt-920068.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/2/920068_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/2/920068_2.jpg"
   },
   {
     "name": "AZZARO CHROME PARFUM 100ML EDP",
@@ -3141,7 +3141,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,580",
     "providerPrice": "$949",
-    "regularPrice": "$3,590",
+    "regularPrice": "$3,900",
     "salePrice": "$1,580",
     "profit": "$631",
     "margin": "39.9%",
@@ -3149,7 +3149,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/azzaro-chrome-parfum-100ml-edp-le109000.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le109000_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le109000_2.jpg"
   },
   {
     "name": "AZZARO COLOGNE INTENSE 100ML EDC",
@@ -3157,7 +3157,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,160",
     "providerPrice": "$699",
-    "regularPrice": "$3,590",
+    "regularPrice": "$3,900",
     "salePrice": "$1,160",
     "profit": "$461",
     "margin": "39.7%",
@@ -3173,7 +3173,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,000",
     "providerPrice": "$599",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$1,000",
     "profit": "$401",
     "margin": "40.1%",
@@ -3253,7 +3253,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,330",
     "providerPrice": "$799",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$1,330",
     "profit": "$531",
     "margin": "39.9%",
@@ -3269,7 +3269,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,330",
     "providerPrice": "$799",
-    "regularPrice": "$3,825",
+    "regularPrice": "$3,900",
     "salePrice": "$1,330",
     "profit": "$531",
     "margin": "39.9%",
@@ -3277,7 +3277,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/azzaro-wanted-by-night-100ml-edp-80040871.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80040871_1_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80040871_2.jpg"
   },
   {
     "name": "BANDERAS BLACK SEDUCTION SET",
@@ -3765,7 +3765,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$660",
     "providerPrice": "$399",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$660",
     "profit": "$261",
     "margin": "39.5%",
@@ -3917,7 +3917,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/banderas-the-icon-100ml-edp-set-65214510.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65214510_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65214510_1.jpg"
   },
   {
     "name": "BANDERAS THE ICON 100ML EDP SET",
@@ -3933,7 +3933,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/banderas-the-icon-100ml-edp-set-65214550.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65214550_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65214550_1.jpg"
   },
   {
     "name": "BANDERAS THE ICON 100ML EDP SET",
@@ -3949,7 +3949,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/banderas-the-icon-100ml-edp-set-65214552.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65214552_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65214552_1.jpg"
   },
   {
     "name": "BANDERAS THE ICON 100ML EDT",
@@ -3981,7 +3981,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/banderas-the-icon-100ml-edt-set-65214511.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65214511_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65214511_1.jpg"
   },
   {
     "name": "BANDERAS THE ICON 200ML EDT",
@@ -4253,7 +4253,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/banderas-the-secret-absolu-100ml-edp-set-65200376.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65200376_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65200376_1.jpg"
   },
   {
     "name": "BANDERAS THE SECRET TEMPTATION 100ML EDT",
@@ -4397,7 +4397,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-colors-free-her-80ml-edt-65198943.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198943_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198943_2.jpg"
   },
   {
     "name": "BENETTON COLORS FREE HIM 100ML EDT",
@@ -4413,7 +4413,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-colors-free-him-100ml-edt-65198945.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198945_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198945_2.jpg"
   },
   {
     "name": "BENETTON COLORS MAN BLACK 100ML EDT",
@@ -4421,7 +4421,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,000",
     "providerPrice": "$599",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$1,000",
     "profit": "$401",
     "margin": "40.1%",
@@ -4437,7 +4437,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,000",
     "providerPrice": "$599",
-    "regularPrice": "$3,590",
+    "regularPrice": "$3,900",
     "salePrice": "$1,000",
     "profit": "$401",
     "margin": "40.1%",
@@ -4453,7 +4453,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$830",
     "providerPrice": "$499",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$830",
     "profit": "$331",
     "margin": "39.9%",
@@ -4477,7 +4477,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-colors-man-blue-100ml-edt-65131032.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65131032_1_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65131032_2.jpg"
   },
   {
     "name": "BENETTON COLORS MAN BLUE 200ML EDT",
@@ -4541,7 +4541,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-colors-man-green-200ml-edt-65202827.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65202827_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65202827_2.jpg"
   },
   {
     "name": "BENETTON COLORS ROSE 80ML EDT SET",
@@ -4621,7 +4621,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-united-dreams-forever-green-her-80ml-edt-65201916.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65201916_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65201916_2.jpg"
   },
   {
     "name": "BENETTON FOREVER GREEN HIM 100ML EDT SIN CELOFAN",
@@ -4637,7 +4637,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-united-dreams-forever-green-him-100ml-edt-sin-celofan-65201914.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65201914_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65201914_2.jpg"
   },
   {
     "name": "BENETTON GREEN AMAZONIA 80ML EDT",
@@ -4653,7 +4653,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-united-dreams-green-amazonia-her-80ml-edt-65198976.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198976_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198976_2.jpg"
   },
   {
     "name": "BENETTON GREEN AMAZONIA MEN 100ML EDT",
@@ -4669,7 +4669,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-united-dreams-green-amazonia-him-100ml-edt-65198978.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198978_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198978_2.jpg"
   },
   {
     "name": "BENETTON GREEN CACTUS FOR HIM 100ML EDT",
@@ -4701,7 +4701,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-united-dreams-one-summer-for-him-100ml-edt-65143398.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65143398_1_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65143398_2_2.jpg"
   },
   {
     "name": "BENETTON SISTERLAND BLUE NEROLI 80ML EDT",
@@ -4749,7 +4749,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-sisterland-golden-vanilla-80ml-edp-65198947.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198947_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198947_2_1.jpg"
   },
   {
     "name": "BENETTON SISTERLAND PINK RASPBERRY 80ML EDT",
@@ -4797,7 +4797,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-sisterland-yellow-peony-80ml-edt-65187579.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65187579_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65187579_2.jpg"
   },
   {
     "name": "BENETTON TRIBE INTENSE 90ML EDP",
@@ -4829,7 +4829,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-united-dreams-aim-high-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65102232_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65102232_2.jpg"
   },
   {
     "name": "BENETTON UNITED DREAMS AIM HIGH 100ML EDT SET",
@@ -4861,7 +4861,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-united-dreams-forever-green-him-100ml-edt-set-65247781.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65247781_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65247781_1.jpg"
   },
   {
     "name": "BENETTON UNITED DREAMS GREEN LIVE FREE 80ML EDT",
@@ -4877,7 +4877,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-united-dreams-green-live-free-80ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65092896_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65092896_2.jpg"
   },
   {
     "name": "BENETTON UNITED DREAMS GREEN POP FOR HER 80ML EDT",
@@ -4941,7 +4941,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-united-dreams-love-yourself-80ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65092895_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65092895_2.jpg"
   },
   {
     "name": "BENETTON UNITED DREAMS LOVE YOURSELF 80ML EDT SET",
@@ -4989,7 +4989,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-we-are-tribe-90ml-edt-set-65247786.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65247786_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65247786_1.jpg"
   },
   {
     "name": "BENETTON WE ARE TRIBE COOL 90ML EDT",
@@ -5053,7 +5053,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/benetton-we-are-tribe-man-90ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65167067_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65167067_2_1.jpg"
   },
   {
     "name": "BENETTON WE ARE TRIBE PLAY 90ML EDT 65213663",
@@ -5069,7 +5069,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65213663_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65213663_2.jpg"
   },
   {
     "name": "BENETTON WE ARE TRIBE PLAY 90ML EDT SET",
@@ -5101,7 +5101,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/bharara-blossom-bouquet-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/r/2/r22605_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/r/2/r22605_2.jpg"
   },
   {
     "name": "BHARARA CHOCOLATE 100ML EDP REFILLABLE",
@@ -5533,7 +5533,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/britney-spears-believe-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/b/s/bsbf40003_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/b/s/bsbf40003_2.jpg"
   },
   {
     "name": "BRITNEY SPEARS CURIOUS 100ML EDP",
@@ -5565,7 +5565,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/britney-spears-fantasy-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/b/s/bstf40003_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/b/s/bstf40003_2.jpg"
   },
   {
     "name": "BRITNEY SPEARS FANTASY HIDDEN 100ML EDP",
@@ -5613,7 +5613,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/britney-spears-midnight-fantasy-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/b/s/bstf40026_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/b/s/bstf40026_2.jpg"
   },
   {
     "name": "BURBERRY BRIT 100ML EDT",
@@ -5741,7 +5741,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/bvlgari-man-wood-neroli-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/0/40389_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/0/40389_2.jpg"
   },
   {
     "name": "BVLGARI OMINIA AMETHYSTE 100ML EDT",
@@ -5981,7 +5981,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-escape-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/10840_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/10840_2.jpg"
   },
   {
     "name": "CALVIN KLEIN ESCAPE 100ML EDT",
@@ -5997,7 +5997,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-escape-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/10051_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/10051_2.jpg"
   },
   {
     "name": "CALVIN KLEIN ETERNITY 100ML EDP",
@@ -6061,7 +6061,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-eternity-air-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/229040_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/229040_2.jpg"
   },
   {
     "name": "CALVIN KLEIN ETERNITY AQUA 100ML EDT",
@@ -6077,7 +6077,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-eternity-aqua-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/q/8q52221k0_4_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/q/8q52221k0_5_1.jpg"
   },
   {
     "name": "CALVIN KLEIN EUPHORIA 100ML EDP",
@@ -6093,7 +6093,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-euphoria-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1023040_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1023040_2_1.jpg"
   },
   {
     "name": "CALVIN KLEIN EUPHORIA 100ML EDT",
@@ -6109,7 +6109,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-euphoria-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1024040_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1024040_2.jpg"
   },
   {
     "name": "CALVIN KLEIN EVERYONE 100ML EDP",
@@ -6157,7 +6157,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-ck-everyone-200ml-edp-2022010025.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2022010025_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2022010025_4.jpg"
   },
   {
     "name": "CALVIN KLEIN EVERYONE 200ML EDT",
@@ -6205,7 +6205,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-in-2u-100ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1027040_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1027040_2.jpg"
   },
   {
     "name": "CALVIN KLEIN IN 2U 100ML EDT",
@@ -6221,7 +6221,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-in-2u-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1025040_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1025040_2_1.jpg"
   },
   {
     "name": "CALVIN KLEIN IN 2U 150ML EDT",
@@ -6237,7 +6237,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-in-2u-150ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1027043_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1027043_2.jpg"
   },
   {
     "name": "CALVIN KLEIN IN 2U 150ML EDT",
@@ -6253,7 +6253,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-in-2u-150ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65102504300_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65102504300_2.jpg"
   },
   {
     "name": "CALVIN KLEIN OBSESSION 100ML EDP",
@@ -6269,7 +6269,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-obsession-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/0/60340_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/0/60340_2.jpg"
   },
   {
     "name": "CALVIN KLEIN OBSESSION 125ML EDT",
@@ -6285,7 +6285,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-obsession-125ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/10651_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/10651_2.jpg"
   },
   {
     "name": "CALVIN KLEIN OBSESSION 200ML EDT",
@@ -6301,7 +6301,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-obsession-200ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/10675_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/10675_2.jpg"
   },
   {
     "name": "CALVIN KLEIN OBSESSION NIGHT 100ML EDP",
@@ -6317,7 +6317,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-obsession-night-100ml-edp-1003240.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1003240_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1003240_2_1.jpg"
   },
   {
     "name": "CALVIN KLEIN ONE 100ML EDT",
@@ -6333,7 +6333,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/calvin-klein-one-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/10740_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/10740_2.jpg"
   },
   {
     "name": "CALVIN KLEIN ONE 200ML EDT",
@@ -6469,7 +6469,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,000",
     "providerPrice": "$599",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$1,000",
     "profit": "$401",
     "margin": "40.1%",
@@ -6493,7 +6493,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carlo-corinto-400ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1050009016_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1050009016_2.jpg"
   },
   {
     "name": "CARLO CORINTO BLACK 100ML EDT",
@@ -6509,7 +6509,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carlo-corinto-black-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/6/26034_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/6/26034_2_1.jpg"
   },
   {
     "name": "CARLO CORINTO BLACK CHROME 100ML EDT",
@@ -6605,7 +6605,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carlo-corinto-fare-follie-limited-edition-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1050110034_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1050110034_2.jpg"
   },
   {
     "name": "CARLO CORINTO FEMME 100ML EDT",
@@ -6621,7 +6621,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carlo-corinto-femme-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1050040034_6.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1050040034_2.jpg"
   },
   {
     "name": "CARLO CORINTO FEMME DOREE 100ML EDT",
@@ -6653,7 +6653,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carlo-corinto-femme-verte-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1050051034_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/1050051034_2_1.jpg"
   },
   {
     "name": "CARLO CORINTO FIND YOUR WAY DARK 100ML EDP",
@@ -6797,7 +6797,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carlo-corinto-rouge-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2034_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2034_2.jpg"
   },
   {
     "name": "CARLO CORINTO ROUGE 100ML EDT SET",
@@ -6845,7 +6845,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/2/026169_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/2/026169_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA 100ML EDT",
@@ -6861,7 +6861,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-100ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/6/06792_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/6/06792_2_1.jpg"
   },
   {
     "name": "CAROLINA HERRERA 200ML EDT",
@@ -6877,7 +6877,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-200ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65086823_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65086823_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA 212 100ML EDT",
@@ -6909,7 +6909,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-212-100ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/2/024160_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/2/024160_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA 212 200ML EDT",
@@ -6957,7 +6957,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-212-heroes-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65165449_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65165449_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA 212 HEROES 90ML EDT",
@@ -6973,7 +6973,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-212-men-heroes-90ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65156400_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65156400_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA 212 MEN HEROES 90ML EDT SET 65245987",
@@ -6989,7 +6989,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65245987_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65245987_1.jpg"
   },
   {
     "name": "CAROLINA HERRERA 212 VIP 100ML EDT",
@@ -7005,7 +7005,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-212-vip-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65043108_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65043108_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA 212 VIP 125ML EDP",
@@ -7037,7 +7037,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-212-vip-200ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65084721_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65084721_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA 212 VIP 80ML EDP",
@@ -7053,7 +7053,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-212-vip-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65038585_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65038585_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA 212 VIP BLACK ELIXIR 100ML EDP",
@@ -7085,7 +7085,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-212-vip-black-men-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65116796_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65116796_6.jpg"
   },
   {
     "name": "CAROLINA HERRERA 212 VIP BLACK MEN 200ML EDP",
@@ -7117,7 +7117,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-212-vip-rose-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65081672_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65081672_6.jpg"
   },
   {
     "name": "CAROLINA HERRERA 212 VIP ROSE ELIXIR 80ML EDP",
@@ -7133,7 +7133,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-212-vip-rose-elixir-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198170_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198170_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA 212 VIP ROSÉ 125ML EDP",
@@ -7149,7 +7149,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-212-vip-rose-125ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65111260_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65111260_6.jpg"
   },
   {
     "name": "CAROLINA HERRERA 212 VIP ROSÉ NY RODEO 80ML EDP",
@@ -7181,7 +7181,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-bad-boy-100ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65206727_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65206727_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA BAD BOY 150ML EDP",
@@ -7197,7 +7197,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-bad-boy-150ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65168499_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65168499_6.jpg"
   },
   {
     "name": "CAROLINA HERRERA BAD BOY COBALT 100ML EDP",
@@ -7213,7 +7213,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-bad-boy-cobalt-100ml-edp-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65206730_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65206730_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA BAD BOY COBALT ELIXIR 100ML EDP",
@@ -7229,7 +7229,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-bad-boy-cobalt-elixir-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198208_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198208_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA BAD BOY COBALT ELIXIR 150ML EDP",
@@ -7245,7 +7245,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-bad-boy-cobalt-elixir-150ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198209_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198209_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA BAD BOY ELIXIR 100ML EDP",
@@ -7325,7 +7325,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-bad-boy-extreme-150ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65187320_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65187320_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA CH 100ML EDT",
@@ -7389,7 +7389,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-good-girl-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65104398_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65104398_2_1.jpg"
   },
   {
     "name": "CAROLINA HERRERA GOOD GIRL BLUSH 150ML EDP",
@@ -7405,7 +7405,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-good-girl-blush-150ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65205388_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65205388_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA GOOD GIRL BLUSH 80ML EDP",
@@ -7421,7 +7421,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-good-girl-blush-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65187278_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65187278_5.jpg"
   },
   {
     "name": "CAROLINA HERRERA GOOD GIRL BLUSH ELIXIR 80ML EDP",
@@ -7437,7 +7437,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-good-girl-blush-elixir-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198197_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198197_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA HERRERA FOR MEN 100ML EDT",
@@ -7469,7 +7469,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-men-pasion-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65186839_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65186839_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA PASIÓN 100ML EDP",
@@ -7485,7 +7485,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-pasion-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65186840_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65186840_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA VERY GOOD GIRL 150ML EDP",
@@ -7501,7 +7501,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-very-good-girl-150ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65190111_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65190111_2.jpg"
   },
   {
     "name": "CAROLINA HERRERA VERY GOOD GIRL 80ML EDP",
@@ -7517,7 +7517,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/carolina-herrera-very-good-girl-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65165902_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65165902_5.jpg"
   },
   {
     "name": "CAROLINA HERRERA VERY GOOD GIRL ELIXIR 80ML EDP",
@@ -7573,7 +7573,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,240",
     "providerPrice": "$745",
-    "regularPrice": "$1,240",
+    "regularPrice": "$1,420",
     "salePrice": "$1,240",
     "profit": "$495",
     "margin": "39.9%",
@@ -7621,7 +7621,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,030",
     "providerPrice": "$620",
-    "regularPrice": "$1,240",
+    "regularPrice": "$1,420",
     "salePrice": "$1,030",
     "profit": "$410",
     "margin": "39.8%",
@@ -7680,12 +7680,28 @@ window.UFRA_PRODUCTS = [
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80062047_1_1.jpg"
   },
   {
+    "name": "CLARINS AGUA MICELAR LIMPIADORA 80104530",
+    "url": "https://ufra.com.mx/clarins-agua-micelar-limpiadora-80104530.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$750",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80104530_1.jpg"
+  },
+  {
     "name": "CLARINS BALSAMO FACIAL BEAUTY FLASH BALM - 50ML",
     "category": "belleza",
     "gender": "women",
     "price": "$980",
     "providerPrice": "$590",
-    "regularPrice": "$1,470",
+    "regularPrice": "$1,590",
     "salePrice": "$980",
     "profit": "$390",
     "margin": "39.8%",
@@ -7845,7 +7861,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,100",
     "providerPrice": "$660",
-    "regularPrice": "$1,250",
+    "regularPrice": "$1,300",
     "salePrice": "$1,100",
     "profit": "$440",
     "margin": "40.0%",
@@ -7893,7 +7909,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,100",
     "providerPrice": "$660",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$1,100",
     "profit": "$440",
     "margin": "40.0%",
@@ -8277,7 +8293,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$720",
     "providerPrice": "$430",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$720",
     "profit": "$290",
     "margin": "40.3%",
@@ -8293,7 +8309,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$720",
     "providerPrice": "$430",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$720",
     "profit": "$290",
     "margin": "40.3%",
@@ -8309,7 +8325,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$720",
     "providerPrice": "$430",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$720",
     "profit": "$290",
     "margin": "40.3%",
@@ -8453,7 +8469,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,880",
     "providerPrice": "$1,130",
-    "regularPrice": "$1,880",
+    "regularPrice": "$2,000",
     "salePrice": "$1,880",
     "profit": "$750",
     "margin": "39.9%",
@@ -8549,7 +8565,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$600",
     "providerPrice": "$360",
-    "regularPrice": "$1,470",
+    "regularPrice": "$1,590",
     "salePrice": "$600",
     "profit": "$240",
     "margin": "40.0%",
@@ -8597,7 +8613,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$600",
     "providerPrice": "$360",
-    "regularPrice": "$1,470",
+    "regularPrice": "$1,590",
     "salePrice": "$600",
     "profit": "$240",
     "margin": "40.0%",
@@ -8629,7 +8645,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$700",
     "providerPrice": "$420",
-    "regularPrice": "$1,880",
+    "regularPrice": "$2,000",
     "salePrice": "$700",
     "profit": "$280",
     "margin": "40.0%",
@@ -8720,6 +8736,22 @@ window.UFRA_PRODUCTS = [
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80051992_3.jpg"
   },
   {
+    "name": "CLARINS DESMAQUILLANTE BIFASICO PARA OJOS 80082062",
+    "url": "https://ufra.com.mx/clarins-desmaquillante-bifasico-para-ojos-80082062.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$680",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80082062_1.jpg"
+  },
+  {
     "name": "CLARINS DESMAQUILLANTE ONESTEP FACIAL CLEANSER",
     "category": "belleza",
     "gender": "women",
@@ -8736,12 +8768,44 @@ window.UFRA_PRODUCTS = [
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80025457_1.jpg"
   },
   {
+    "name": "CLARINS DESMAQUILLANTE TONICO EXPRES PARA TODO TIPO DE PIELES 80082064",
+    "url": "https://ufra.com.mx/clarins-desmaquillante-tonico-expres-para-todo-tipo-de-pieles-80082064.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$780",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80082064_1.jpg"
+  },
+  {
+    "name": "CLARINS DOUBLE SERUM TRATAMIENTO INTENSIVO ANTIEDAD 80103084",
+    "url": "https://ufra.com.mx/clarins-double-serum-tratamiento-intensivo-antiedad-80103084.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "belleza",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$2,790",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80103084_2.jpg"
+  },
+  {
     "name": "CLARINS DUO BRONCEADOR EVER BRONZE DUO BRONZING POWDER 03 DEEP 10G",
     "category": "belleza",
     "gender": "women",
     "price": "$920",
     "providerPrice": "$550",
-    "regularPrice": "$920",
+    "regularPrice": "$1,300",
     "salePrice": "$920",
     "profit": "$370",
     "margin": "40.2%",
@@ -8757,7 +8821,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$650",
     "providerPrice": "$390",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$650",
     "profit": "$260",
     "margin": "40.0%",
@@ -8798,6 +8862,38 @@ window.UFRA_PRODUCTS = [
     "shape": "compact",
     "url": "https://ufra.com.mx/clarins-emulsion-revitalizante-plant-gold-nutri-revitalizing-oil-emulsion.html",
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80083862_2_1.jpg"
+  },
+  {
+    "name": "CLARINS ESPUMA LIMPIADORA SUAVE CALMANTE 80104490",
+    "url": "https://ufra.com.mx/clarins-espuma-limpiadora-suave-calmante-80104490.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$750",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80104490_2.jpg"
+  },
+  {
+    "name": "CLARINS EVER MATTE POUDRE COMPACTE 03 LIGHT MEDIUM 80100865",
+    "url": "https://ufra.com.mx/clarins-ever-matte-poudre-compacte-03-light-medium-80100865.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$920",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80100865_3.jpg"
   },
   {
     "name": "CLARINS EXFOLIANTE CLEAR-OUT BLACKHEAD EXPERT STICK AND MASK",
@@ -8853,7 +8949,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$960",
     "providerPrice": "$575",
-    "regularPrice": "$1,240",
+    "regularPrice": "$1,420",
     "salePrice": "$960",
     "profit": "$385",
     "margin": "40.1%",
@@ -8885,7 +8981,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$470",
     "providerPrice": "$280",
-    "regularPrice": "$1,470",
+    "regularPrice": "$1,590",
     "salePrice": "$470",
     "profit": "$190",
     "margin": "40.4%",
@@ -8949,7 +9045,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$600",
     "providerPrice": "$360",
-    "regularPrice": "$1,470",
+    "regularPrice": "$1,590",
     "salePrice": "$600",
     "profit": "$240",
     "margin": "40.0%",
@@ -8965,7 +9061,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$490",
     "providerPrice": "$295",
-    "regularPrice": "$1,470",
+    "regularPrice": "$1,590",
     "salePrice": "$490",
     "profit": "$195",
     "margin": "39.8%",
@@ -8997,7 +9093,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,040",
     "providerPrice": "$625",
-    "regularPrice": "$1,240",
+    "regularPrice": "$1,420",
     "salePrice": "$1,040",
     "profit": "$415",
     "margin": "39.9%",
@@ -9013,7 +9109,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,030",
     "providerPrice": "$620",
-    "regularPrice": "$1,240",
+    "regularPrice": "$1,420",
     "salePrice": "$1,030",
     "profit": "$410",
     "margin": "39.8%",
@@ -9493,7 +9589,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,440",
     "providerPrice": "$865",
-    "regularPrice": "$1,470",
+    "regularPrice": "$1,590",
     "salePrice": "$1,440",
     "profit": "$575",
     "margin": "39.9%",
@@ -9509,7 +9605,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,440",
     "providerPrice": "$865",
-    "regularPrice": "$1,470",
+    "regularPrice": "$1,590",
     "salePrice": "$1,440",
     "profit": "$575",
     "margin": "39.9%",
@@ -9525,7 +9621,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,470",
     "providerPrice": "$880",
-    "regularPrice": "$1,470",
+    "regularPrice": "$1,590",
     "salePrice": "$1,470",
     "profit": "$590",
     "margin": "40.1%",
@@ -9534,6 +9630,38 @@ window.UFRA_PRODUCTS = [
     "shape": "compact",
     "url": "https://ufra.com.mx/clarins-limpieza-facial-my-cleansing-essentials-sensitive-skin-set.html",
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80106449_3.jpg"
+  },
+  {
+    "name": "CLARINS LIP COMFORT OIL 01 PALE PINK 80106557",
+    "url": "https://ufra.com.mx/clarins-lip-comfort-oil-01-pale-pink-80106557.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "belleza",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$690",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80106557_3.jpg"
+  },
+  {
+    "name": "CLARINS LIP COMFORT OIL 03 LYCHEE 80106559",
+    "url": "https://ufra.com.mx/clarins-lip-comfort-oil-03-lychee-80106559.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "belleza",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$690",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80106559_3.jpg"
   },
   {
     "name": "CLARINS LOCION ANTIEDAD NUTRI-LUMIÈRE DAY EMULSION",
@@ -9584,12 +9712,44 @@ window.UFRA_PRODUCTS = [
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80049470_4.jpg"
   },
   {
+    "name": "CLARINS LOCION TONICA CALMANTE 80104514",
+    "url": "https://ufra.com.mx/clarins-locion-tonica-calmante-80104514.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$750",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80104514_1.jpg"
+  },
+  {
+    "name": "CLARINS LOCION TONICA PURIFICANTE 80104513",
+    "url": "https://ufra.com.mx/clarins-locion-tonica-purificante-80104513.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$750",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80104513_1.jpg"
+  },
+  {
     "name": "CLARINS MASCARA DE PESTAÑAS - WONDER PERFECT 4D WATERPROOF",
     "category": "belleza",
     "gender": "women",
     "price": "$680",
     "providerPrice": "$410",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$680",
     "profit": "$270",
     "margin": "39.7%",
@@ -9653,7 +9813,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$680",
     "providerPrice": "$410",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$680",
     "profit": "$270",
     "margin": "39.7%",
@@ -9765,7 +9925,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$860",
     "providerPrice": "$515",
-    "regularPrice": "$1,880",
+    "regularPrice": "$2,000",
     "salePrice": "$860",
     "profit": "$345",
     "margin": "40.1%",
@@ -9822,6 +9982,22 @@ window.UFRA_PRODUCTS = [
     "shape": "compact",
     "url": "https://ufra.com.mx/clarins-mascarilla-sos-hydra-refreshing-hydration-mask-75ml.html",
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80030996_2.jpg"
+  },
+  {
+    "name": "CLARINS MULTI ACTIVE CREMA DE DIA SPF15 80100569",
+    "url": "https://ufra.com.mx/clarins-multi-active-crema-de-dia-spf15-80100569.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "belleza",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$1,350",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80100569_2.jpg"
   },
   {
     "name": "CLARINS PALETA DE SOMBRAS 4 COLOUR EYESHADOW PALETTE 01 FAIRY TALE NUDE GRADATION 4.2G",
@@ -10016,6 +10192,22 @@ window.UFRA_PRODUCTS = [
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80095974_3.jpg"
   },
   {
+    "name": "CLARINS PRIMER SOS PRIMER WHITE POTENCIA LA LUMINOSIDAD 80095973",
+    "url": "https://ufra.com.mx/clarins-primer-sos-primer-white-potencia-la-luminosidad-80095973.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$820",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80095973_2.jpg"
+  },
+  {
     "name": "CLARINS PROTECTOR SOLAR CREMA CORPORAL UVA | UVB 30 50ML",
     "category": "belleza",
     "gender": "women",
@@ -10160,6 +10352,22 @@ window.UFRA_PRODUCTS = [
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80023630_1.jpg"
   },
   {
+    "name": "CLARINS SKIN ILLUSION TINTED MOISTURIZER SPF25 CREMA HIDRATANTE CON COLOR 01 80112683",
+    "url": "https://ufra.com.mx/clarins-skin-illusion-tinted-moisturizer-spf25-crema-hidratante-con-color-01-80112683.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "belleza",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$1,020",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80112683_2.jpg"
+  },
+  {
     "name": "CLARINS SOMBRA DE OJOS OMBRE 4 COULEURS EYESHADOW ROSEWOOD",
     "category": "belleza",
     "gender": "women",
@@ -10208,6 +10416,22 @@ window.UFRA_PRODUCTS = [
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80047151_3.jpg"
   },
   {
+    "name": "CLARINS SOS PURE REBALANCING CLAY MASK 80116491",
+    "url": "https://ufra.com.mx/clarins-sos-pure-rebalancing-clay-mask-80116491.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$860",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80116491_2.jpg"
+  },
+  {
     "name": "CLARINS SUERO FACIAL DOUBLE SERUM LIGHT TEXTURE - 50ML",
     "category": "belleza",
     "gender": "women",
@@ -10229,7 +10453,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$720",
     "providerPrice": "$430",
-    "regularPrice": "$1,470",
+    "regularPrice": "$1,590",
     "salePrice": "$720",
     "profit": "$290",
     "margin": "40.3%",
@@ -10336,12 +10560,44 @@ window.UFRA_PRODUCTS = [
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80089001_4.jpg"
   },
   {
+    "name": "CLARINS SUPER RESTORATIVE CREMA DE DIA SPF15 80109432",
+    "url": "https://ufra.com.mx/clarins-super-restorative-crema-de-dia-spf15-80109432.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "belleza",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$2,480",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80109432_2.jpg"
+  },
+  {
+    "name": "CLARINS SUPER RESTORATIVE ROSE RADIANCE CREMA ANTI EDAD DE DIA 80105569",
+    "url": "https://ufra.com.mx/clarins-super-restorative-rose-radiance-crema-anti-edad-de-dia-80105569.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "belleza",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$2,480",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80105569_2.jpg"
+  },
+  {
     "name": "CLARINS TONICO CORPORAL TONIC BATH & SHOWER CONCENTRATE 200ML",
     "category": "belleza",
     "gender": "women",
     "price": "$780",
     "providerPrice": "$470",
-    "regularPrice": "$1,470",
+    "regularPrice": "$1,590",
     "salePrice": "$780",
     "profit": "$310",
     "margin": "39.7%",
@@ -10525,7 +10781,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/clinique-aromatics-elixir-45ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/6/6612_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/6/6612_2.jpg"
   },
   {
     "name": "CLINIQUE BASE + CORRECTOR BEYOND PERFECTING IVORY",
@@ -10613,7 +10869,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$810",
     "providerPrice": "$485",
-    "regularPrice": "$1,250",
+    "regularPrice": "$1,300",
     "salePrice": "$810",
     "profit": "$325",
     "margin": "40.1%",
@@ -10629,7 +10885,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$810",
     "providerPrice": "$485",
-    "regularPrice": "$1,250",
+    "regularPrice": "$1,300",
     "salePrice": "$810",
     "profit": "$325",
     "margin": "40.1%",
@@ -10661,7 +10917,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$810",
     "providerPrice": "$485",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$810",
     "profit": "$325",
     "margin": "40.1%",
@@ -10869,7 +11125,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$840",
     "providerPrice": "$505",
-    "regularPrice": "$1,250",
+    "regularPrice": "$1,300",
     "salePrice": "$840",
     "profit": "$335",
     "margin": "39.9%",
@@ -10981,7 +11237,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$720",
     "providerPrice": "$430",
-    "regularPrice": "$920",
+    "regularPrice": "$1,300",
     "salePrice": "$720",
     "profit": "$290",
     "margin": "40.3%",
@@ -11221,7 +11477,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,150",
     "providerPrice": "$690",
-    "regularPrice": "$1,880",
+    "regularPrice": "$2,000",
     "salePrice": "$1,150",
     "profit": "$460",
     "margin": "40.0%",
@@ -11317,7 +11573,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$600",
     "providerPrice": "$360",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$600",
     "profit": "$240",
     "margin": "40.0%",
@@ -11589,7 +11845,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$660",
     "providerPrice": "$395",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$660",
     "profit": "$265",
     "margin": "40.2%",
@@ -11749,7 +12005,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$900",
     "providerPrice": "$540",
-    "regularPrice": "$1,250",
+    "regularPrice": "$1,300",
     "salePrice": "$900",
     "profit": "$360",
     "margin": "40.0%",
@@ -11765,7 +12021,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$900",
     "providerPrice": "$540",
-    "regularPrice": "$1,250",
+    "regularPrice": "$1,300",
     "salePrice": "$900",
     "profit": "$360",
     "margin": "40.0%",
@@ -11781,7 +12037,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$900",
     "providerPrice": "$540",
-    "regularPrice": "$1,250",
+    "regularPrice": "$1,300",
     "salePrice": "$900",
     "profit": "$360",
     "margin": "40.0%",
@@ -11797,7 +12053,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$630",
     "providerPrice": "$379",
-    "regularPrice": "$1,250",
+    "regularPrice": "$1,300",
     "salePrice": "$630",
     "profit": "$251",
     "margin": "39.8%",
@@ -11925,7 +12181,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$950",
     "providerPrice": "$570",
-    "regularPrice": "$1,250",
+    "regularPrice": "$1,300",
     "salePrice": "$950",
     "profit": "$380",
     "margin": "40.0%",
@@ -11941,7 +12197,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$810",
     "providerPrice": "$485",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$810",
     "profit": "$325",
     "margin": "40.1%",
@@ -11957,7 +12213,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$840",
     "providerPrice": "$505",
-    "regularPrice": "$1,250",
+    "regularPrice": "$1,300",
     "salePrice": "$840",
     "profit": "$335",
     "margin": "39.9%",
@@ -11989,7 +12245,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,300",
     "providerPrice": "$780",
-    "regularPrice": "$1,880",
+    "regularPrice": "$2,000",
     "salePrice": "$1,300",
     "profit": "$520",
     "margin": "40.0%",
@@ -12053,7 +12309,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$750",
     "providerPrice": "$450",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$750",
     "profit": "$300",
     "margin": "40.0%",
@@ -12117,7 +12373,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$840",
     "providerPrice": "$505",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$840",
     "profit": "$335",
     "margin": "39.9%",
@@ -12133,7 +12389,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$840",
     "providerPrice": "$505",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$840",
     "profit": "$335",
     "margin": "39.9%",
@@ -12317,7 +12573,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/coach-dreams-moonlight-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/a/1a7l021a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/a/1a7l021a01_2.jpg"
   },
   {
     "name": "COACH DREAMS SUNSET 90ML EDP",
@@ -12333,7 +12589,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/coach-dreams-sunset-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/a/1a7s012a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/a/1a7s012a01_2.jpg"
   },
   {
     "name": "COACH FLORAL 90ML EDP",
@@ -12357,7 +12613,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$2,000",
     "providerPrice": "$1,200",
-    "regularPrice": "$3,500",
+    "regularPrice": "$3,900",
     "salePrice": "$2,000",
     "profit": "$800",
     "margin": "40.0%",
@@ -12381,7 +12637,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/coach-green-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/a/1a7l018a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/a/1a7l018a01_2.jpg"
   },
   {
     "name": "COACH LOVE 90ML EDP",
@@ -12397,7 +12653,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/coach-love-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/a/1a7l019a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/a/1a7l019a01_2.jpg"
   },
   {
     "name": "COACH MAN 100ML EDT",
@@ -12461,7 +12717,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/coach-open-road-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/a/1a7l017a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/a/1a7l017a01_2.jpg"
   },
   {
     "name": "COTY JOVAN MUSK MEN 75ML BODY FRAGANCE",
@@ -12493,7 +12749,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/creed-viking-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/1/1110096_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/1/1110096_2.jpg"
   },
   {
     "name": "CRISTIANO RONALDO CR7 100ML EDT",
@@ -12541,7 +12797,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-authentic-bold-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22203_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22203_2.jpg"
   },
   {
     "name": "CUBA AUTHENTIC CITRUS 100ML EDT",
@@ -12557,7 +12813,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-authentic-citrus-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22282_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22282_2.jpg"
   },
   {
     "name": "CUBA AUTHENTIC DARK 100ML EDT",
@@ -12573,7 +12829,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-authentic-dark-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22202_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22202_2.jpg"
   },
   {
     "name": "CUBA AUTHENTIC HAPPY 100ML EDP",
@@ -12589,7 +12845,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-authentic-happy-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22206_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22206_2.jpg"
   },
   {
     "name": "CUBA AUTHENTIC MYSTIC 100ML EDP",
@@ -12605,7 +12861,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-authentic-mystic-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22205_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22205_2.jpg"
   },
   {
     "name": "CUBA AUTHENTIC TASTY 100ML EDP",
@@ -12621,7 +12877,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-authentic-tasty-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22207_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22207_2.jpg"
   },
   {
     "name": "CUBA BLACK 100ML EDT",
@@ -12637,7 +12893,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-black-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/9/9931_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/9/9931_2.jpg"
   },
   {
     "name": "CUBA BLACK 100ML EDT SET",
@@ -12669,7 +12925,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-blossom-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22218_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22218_2.jpg"
   },
   {
     "name": "CUBA BLUE 100ML EDT",
@@ -12685,7 +12941,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-blue-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/9/9930_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/9/9930_2.jpg"
   },
   {
     "name": "CUBA BRAZIL 100ML EDT",
@@ -12701,7 +12957,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-brazil-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/b/cbi-020_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/b/cbi-020_2.jpg"
   },
   {
     "name": "CUBA BROWN 100ML EDT",
@@ -12717,7 +12973,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-brown-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73624_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73624_2.jpg"
   },
   {
     "name": "CUBA CHIC 100ML EDP",
@@ -12733,7 +12989,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-chic-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/36028_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/36028_2.jpg"
   },
   {
     "name": "CUBA CITY LAS VEGAS 100ML EDT",
@@ -12749,7 +13005,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-city-las-vegas-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73594_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73594_2.jpg"
   },
   {
     "name": "CUBA COPA CABANA 100ML EDT",
@@ -12765,7 +13021,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-copa-cabana-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73595_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73595_2.jpg"
   },
   {
     "name": "CUBA FIERCE 100ML EDT",
@@ -12781,7 +13037,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-fierce-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22284_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22284_2.jpg"
   },
   {
     "name": "CUBA GOLD 100ML EDT",
@@ -12797,7 +13053,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-gold-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73238_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73238_2.jpg"
   },
   {
     "name": "CUBA GREEN 100ML EDT",
@@ -12813,7 +13069,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-green-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/736264_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/736264_2.jpg"
   },
   {
     "name": "CUBA GREY 100ML EDT",
@@ -12829,7 +13085,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-grey-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/5/1534736_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/5/1534736_2.jpg"
   },
   {
     "name": "CUBA HEARTBREAKER 100ML EDP",
@@ -12845,7 +13101,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-heartbreaker-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/b/cbi-010_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/b/cbi-010_2.jpg"
   },
   {
     "name": "CUBA HOT 100ML EDT",
@@ -12861,7 +13117,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-hot-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22269_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22269_2.jpg"
   },
   {
     "name": "CUBA JUNGLE SNAKE 100ML EDP",
@@ -12877,7 +13133,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-jungle-snake-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/200030_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/200030_2.jpg"
   },
   {
     "name": "CUBA JUNGLE SNAKE 100ML EDP SET",
@@ -12893,7 +13149,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-jungle-snake-100ml-edp-set.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73674_4_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73674_2_1.jpg"
   },
   {
     "name": "CUBA JUNGLE SNAKE 100ML EDP SET",
@@ -12925,7 +13181,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-jungle-tiger-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/200029_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/200029_2.jpg"
   },
   {
     "name": "CUBA JUNGLE ZEBRA 100ML EDP",
@@ -12941,7 +13197,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-jungle-zebra-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/200028_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/200028_2.jpg"
   },
   {
     "name": "CUBA LA VIDA 100ML EDP",
@@ -12957,7 +13213,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-la-vida-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22061_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22061_2_1.jpg"
   },
   {
     "name": "CUBA MAGNUM GOLD 130ML EDT",
@@ -12973,7 +13229,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-magnum-gold-130ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73196_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73196_2_1.jpg"
   },
   {
     "name": "CUBA MILESTONE 100ML EDT",
@@ -12989,7 +13245,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-milestone-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22210_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22210_2_1_1.jpg"
   },
   {
     "name": "CUBA MY LOVE 100ML EDP",
@@ -13005,7 +13261,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-my-love-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22216_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22216_2.jpg"
   },
   {
     "name": "CUBA NIGHT 100ML EDP",
@@ -13021,7 +13277,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-night-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/36035_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/36035_2.jpg"
   },
   {
     "name": "CUBA ORANGE 100ML EDT",
@@ -13053,7 +13309,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-prestige-black-90ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73574_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73574_2.jpg"
   },
   {
     "name": "CUBA PRESTIGE BLACK 90ML EDT SET",
@@ -13085,7 +13341,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-prestige-classic-90ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73350_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73350_2.jpg"
   },
   {
     "name": "CUBA PRESTIGE CLASSIC 90ML EDT SET",
@@ -13117,7 +13373,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-prestige-legacy-90ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73586_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73586_2.jpg"
   },
   {
     "name": "CUBA PRESTIGE PLATINUM 90ML EDT",
@@ -13133,7 +13389,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-prestige-platinum-90ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73575_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73575_2.jpg"
   },
   {
     "name": "CUBA PRESTIGE PLATINUM 90ML EDT SET",
@@ -13181,7 +13437,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-red-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/0/00012_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/0/00012_2.jpg"
   },
   {
     "name": "CUBA ROYAL 100ML EDT",
@@ -13197,7 +13453,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-royal-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/b/cbi-019_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/b/cbi-019_2.jpg"
   },
   {
     "name": "CUBA ROYAL 100ML EDT SET",
@@ -13229,7 +13485,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-shadow-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22060_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22060_2.jpg"
   },
   {
     "name": "CUBA SIGNATURE 100ML EDT",
@@ -13245,7 +13501,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-signature-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22215_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22215_2.jpg"
   },
   {
     "name": "CUBA SILVER 100ML EDT",
@@ -13261,7 +13517,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-silver-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22214_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22214_2.jpg"
   },
   {
     "name": "CUBA SILVER BLUE 100ML EDT",
@@ -13277,7 +13533,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-silver-blue-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/b/cbi-023_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/b/cbi-023_2.jpg"
   },
   {
     "name": "CUBA STRASS SNAKE 100ML EDP",
@@ -13293,7 +13549,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-strass-snake-100ml-edp-spray.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2001_22_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2001_22_2.jpg"
   },
   {
     "name": "CUBA TATTOO 100ML EDP",
@@ -13309,7 +13565,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-tattoo-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/36011_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/36011_2.jpg"
   },
   {
     "name": "CUBA TOUCH FOR WOMEN 100ML EDP",
@@ -13341,7 +13597,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-trouble-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/222172_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/222172_2_1.jpg"
   },
   {
     "name": "CUBA VICTORY 100ML EDP",
@@ -13357,7 +13613,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-victory-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22062_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22062_2.jpg"
   },
   {
     "name": "CUBA VICTORY 100ML SET",
@@ -13373,7 +13629,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-victory-100ml-set.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22318_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22318_1.jpg"
   },
   {
     "name": "CUBA VIP 100ML EDT",
@@ -13389,7 +13645,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-vip-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22056_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22056_2.jpg"
   },
   {
     "name": "CUBA WILD HEART 100ML EDT",
@@ -13405,7 +13661,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-wild-heart-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73629_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73629_2.jpg"
   },
   {
     "name": "CUBA WINNER 100ML EDT",
@@ -13421,7 +13677,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/cuba-winner-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/36134_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/36134_2.jpg"
   },
   {
     "name": "CUBA WINNER 100ML EDT SET",
@@ -13453,7 +13709,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/d-by-diesel-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/d/ld552800_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/d/ld552800_2.jpg"
   },
   {
     "name": "DAVID BECKHAM CLASSIC BLUE 100ML EDT",
@@ -13469,7 +13725,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/david-beckham-classic-blue-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/9/99350157669_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/9/99350157669_2.jpg"
   },
   {
     "name": "DAVID BECKHAM CLASSIC HOMME 100ML EDT",
@@ -13485,7 +13741,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/david-beckham-classic-homme-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/9/99350157825_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/9/99350157825_2.jpg"
   },
   {
     "name": "DAVIDOFF COOL WATER 100ML EDT",
@@ -13501,7 +13757,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/davidoff-cool-water-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/8/080038_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/8/080038_2.jpg"
   },
   {
     "name": "DAVIDOFF COOL WATER 125ML EDT",
@@ -13517,7 +13773,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/davidoff-cool-water-125ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/8/080153_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/8/080153_2.jpg"
   },
   {
     "name": "DAVIDOFF COOL WATER 200ML EDT",
@@ -13533,7 +13789,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/davidoff-cool-water-200ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/v/dv-0000004_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/v/dv-0000004_2.jpg"
   },
   {
     "name": "DAVIDOFF COOL WATER SEA ROSE 100ML EDT",
@@ -13541,7 +13797,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$720",
     "providerPrice": "$430",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$720",
     "profit": "$290",
     "margin": "40.3%",
@@ -13621,7 +13877,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,150",
     "providerPrice": "$690",
-    "regularPrice": "$2,155",
+    "regularPrice": "$1,970",
     "salePrice": "$1,150",
     "profit": "$460",
     "margin": "40.0%",
@@ -13629,7 +13885,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dkny-women-fall-energizing-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/5/95040_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/5/95040_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA 125ML EDT",
@@ -13645,7 +13901,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-125ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/130207750000_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/130207750000_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA BLUE JASMINE 75ML EDP",
@@ -13661,7 +13917,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-gabbana-blue-jasmine-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/1/p1do1s00_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/1/p1do1s00_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA DEVOTION 100ML EDP",
@@ -13725,7 +13981,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-dolce-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/g/dg-746937_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/g/dg-746937_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA DOLCE GARDEN 75ML EDP",
@@ -13741,7 +13997,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-gabbana-dolce-garden-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/g/1g96500001_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/g/1g96500001_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA DOLCE ROSE 75ML EDT",
@@ -13757,7 +14013,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-dolce-rose-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/811414301_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/811414301_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA DOLCE SHINE 75ML EDP",
@@ -13773,7 +14029,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-gabbana-dolce-shine-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/g/1g93500001_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/g/1g93500001_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA DOLCE VIOLET 75ML EDT",
@@ -13781,7 +14037,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,850",
     "providerPrice": "$1,110",
-    "regularPrice": "$3,850",
+    "regularPrice": "$3,900",
     "salePrice": "$1,850",
     "profit": "$740",
     "margin": "40.0%",
@@ -13821,7 +14077,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-k-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/1/31012500_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/1/31012500_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA K 100ML EDT",
@@ -13837,7 +14093,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-k-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1304945_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1304945_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA K 200ML EDP",
@@ -13885,7 +14141,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-k-intense-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/1/p1kq1c01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/1/p1kq1c01_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA LIGHT BLUE 100 ML EDT",
@@ -14029,7 +14285,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-gabbana-pour-homme-200ml-edt-1302075500.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1302075500_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1302075500_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA Q 100ML EDP",
@@ -14045,7 +14301,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-q-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/g/1g90310000_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/g/1g90310000_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA Q INTENSE 100ML EDP",
@@ -14061,7 +14317,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-q-intense-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/1/p1kq1c00_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/1/p1kq1c00_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA THE ONE 100ML EDT",
@@ -14077,7 +14333,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-the-one-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81076491_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81076491_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA THE ONE 150ML EDP",
@@ -14093,7 +14349,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-the-one-150ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/g/1g93750000_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/g/1g93750000_2_1.jpg"
   },
   {
     "name": "DOLCE & GABBANA THE ONE 150ML EDT",
@@ -14109,7 +14365,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-the-one-150ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/130212150000_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/130212150000_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA THE ONE 75ML EDP",
@@ -14125,7 +14381,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-the-one-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81037117_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81037117_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA THE ONE FOR MEN GOLD INTENSE 100ML EDP",
@@ -14141,7 +14397,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-gabbana-the-one-for-men-gold-intense-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/1/p1to1c01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/1/p1to1c01_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA THE ONE GOLD INTENSE 75ML EDP",
@@ -14157,7 +14413,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-gabbana-the-one-gold-intense-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/1/p1to1s00_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/1/p1to1s00_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA THE ONE INTENSE 100ML EDP",
@@ -14173,7 +14429,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-the-one-intense-100ml-edp-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/0/30517501_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/0/30517501_2.jpg"
   },
   {
     "name": "DOLCE & GABBANA THE ONLY ONE 100ML EDP",
@@ -14189,7 +14445,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-the-only-one-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/4/84526500_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/4/84526500_2_1.jpg"
   },
   {
     "name": "DOLCE & GABBANA THE ONLY ONE INTENSE 100ML EDP",
@@ -14205,7 +14461,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dolce-and-gabbana-the-only-one-intense-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/g/1g93500002_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/g/1g93500002_6.jpg"
   },
   {
     "name": "DOLCE & GABBANA VELVET AMBER SKIN 100ML EDP",
@@ -14253,7 +14509,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/6/96268_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/6/96268_1.jpg"
   },
   {
     "name": "DONNA KARAN BE DELICIOUS LATTE MATCHA 50ML EDP 96265",
@@ -14269,7 +14525,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/6/96265_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/6/96265_2.jpg"
   },
   {
     "name": "DONNA KARAN BE DELICIOUS LATTE VANILLA 250ML BODY MIST 96269",
@@ -14285,7 +14541,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/6/96269_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/6/96269_1.jpg"
   },
   {
     "name": "DONNA KARAN BE DELICIOUS ORCHARD ST 100ML EDP",
@@ -14301,7 +14557,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/donna-karan-be-delicious-orchard-st-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/5/95041_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/5/95041_2.jpg"
   },
   {
     "name": "DONNA KARAN DKNY 24/7 100ML EDP",
@@ -14333,7 +14589,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dumont-nitro-black-pour-homme-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/m/dm6273_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/m/dm6273_2.jpg"
   },
   {
     "name": "DUMONT NITRO BLUE POUR HOMME 100ML EDP",
@@ -14349,7 +14605,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dumont-nitro-blue-pour-homme-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/m/dm10176_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/m/dm10176_2.jpg"
   },
   {
     "name": "DUMONT NITRO GREEN POUR HOMME 100ML EDP",
@@ -14365,7 +14621,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dumont-nitro-green-pour-homme-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/m/dm10143_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/m/dm10143_2.jpg"
   },
   {
     "name": "DUMONT NITRO PLATINUM POUR HOMME 100ML EDP",
@@ -14381,7 +14637,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dumont-nitro-platinum-pour-homme-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/m/dm10134_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/m/dm10134_2.jpg"
   },
   {
     "name": "DUMONT NITRO POUR HOMME 100ML EDP",
@@ -14397,7 +14653,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dumont-nitro-pour-homme-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/m/dm10146_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/m/dm10146_2.jpg"
   },
   {
     "name": "DUMONT NITRO POUR HOMME INTENSE 100ML EDP",
@@ -14413,7 +14669,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/dumont-nitro-pour-homme-intense-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/m/dm10186_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/d/m/dm10186_2.jpg"
   },
   {
     "name": "DUMONT NITRO RED POUR HOMME 100ML EDP",
@@ -14477,7 +14733,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/elizabeth-arden-red-door-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/5/5584420_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/5/5584420_2.jpg"
   },
   {
     "name": "ELIZABETH ARDEN SPLENDOR 125ML EDP",
@@ -14493,7 +14749,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/elizabeth-arden-splendor-125ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/1209400_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/1209400_2.jpg"
   },
   {
     "name": "ELIZABETH ARDEN SUNFLOWERS 100ML EDT",
@@ -14509,7 +14765,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/elizabeth-arden-sunflowers-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/5/7577400_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/5/7577400_2.jpg"
   },
   {
     "name": "ELIZABETH ARDEN TRUE LOVE 100ML EDT",
@@ -14541,7 +14797,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/elizabeth-taylor-brilliant-white-diamonds-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/b/r/brlf00002_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/b/r/brlf00002_2_4.jpg"
   },
   {
     "name": "ELIZABETH TAYLOR DIAMONDS & EMERALDS 100ML EDT",
@@ -14557,7 +14813,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/elizabeth-taylor-diamonds-and-emeralds-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/4505000_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/4505000_2.jpg"
   },
   {
     "name": "ELIZABETH TAYLOR DIAMONDS & RUBIES 100ML EDT",
@@ -14589,7 +14845,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/elizabeth-taylor-diamonds-and-sapphires-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/4504000_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/4504000_2.jpg"
   },
   {
     "name": "ELIZABETH TAYLOR PASSION MEN 120ML EDC",
@@ -14605,7 +14861,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/elizabeth-taylor-passion-men-120ml-edc.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/0/7055900_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/0/7055900_2.jpg"
   },
   {
     "name": "ELIZABETH TAYLOR WHITE DIAMONDS 100ML EDT",
@@ -14621,7 +14877,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/elizabeth-taylor-white-diamonds-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/6/2609400_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/6/2609400_2.jpg"
   },
   {
     "name": "ELIZABETH TAYLOR WHITE DIAMONDS 100ML EDT SET",
@@ -14702,6 +14958,22 @@ window.UFRA_PRODUCTS = [
     "shape": "bottle",
     "url": "https://ufra.com.mx/emporio-armani-stronger-with-you-parfum-100ml-edp-lf026800.html",
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/f/lf026800_3.jpg"
+  },
+  {
+    "name": "ESTEE LAUDER ADVANCED NIGHT REPAIR RESCUE SOLUTION CONCENTRADO FACIAL GYYK010000",
+    "url": "https://ufra.com.mx/estee-lauder-advanced-night-repair-rescue-solution-concentrado-facial-gyyk010000.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$3,350",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/y/gyyk010000_4.jpg"
   },
   {
     "name": "ESTEE LAUDER BASE DE MAQUILLAJE DOUBLE WEAR MAXIMUM COVER CAMOUFLAGE MAKEUP - 3C4 MEDIUM DEEP",
@@ -14949,7 +15221,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,250",
     "providerPrice": "$750",
-    "regularPrice": "$1,250",
+    "regularPrice": "$1,300",
     "salePrice": "$1,250",
     "profit": "$500",
     "margin": "40.0%",
@@ -15021,7 +15293,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "compact",
     "url": "https://ufra.com.mx/estee-lauder-base-liquida-double-wear-stay-in-place-makeup-spf-10-3w1-5-fawn-30ml.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/10e56701521ad9e46e7cdb93701735bd/1/g/1g5yce0000_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/g/1g5yce0000_2.jpg"
   },
   {
     "name": "ESTEE LAUDER BASE LÍQUIDA DOUBLE WEAR STAY IN PLACE MAKEUP SPF 10 - 4C3 SOFTAN 30ML",
@@ -15157,7 +15429,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$760",
     "providerPrice": "$459",
-    "regularPrice": "$1,270",
+    "regularPrice": "$1,965",
     "salePrice": "$760",
     "profit": "$301",
     "margin": "39.6%",
@@ -15221,7 +15493,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$830",
     "providerPrice": "$500",
-    "regularPrice": "$1,100",
+    "regularPrice": "$1,300",
     "salePrice": "$830",
     "profit": "$330",
     "margin": "39.8%",
@@ -15269,7 +15541,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$950",
     "providerPrice": "$570",
-    "regularPrice": "$1,270",
+    "regularPrice": "$1,965",
     "salePrice": "$950",
     "profit": "$380",
     "margin": "40.0%",
@@ -15285,7 +15557,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,270",
     "providerPrice": "$760",
-    "regularPrice": "$1,270",
+    "regularPrice": "$1,965",
     "salePrice": "$1,270",
     "profit": "$510",
     "margin": "40.2%",
@@ -15597,7 +15869,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-fakhar-100ml-edp-45604.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45604_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45604_2.jpg"
   },
   {
     "name": "FERRAGAMO FORESTE DI SETA 100ML EDP 89182",
@@ -15613,7 +15885,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/9/89182_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/9/89182_2.jpg"
   },
   {
     "name": "FERRAGAMO SIGNORINA 100ML EDP",
@@ -15645,7 +15917,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/132m002034_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/132m002034_2.jpg"
   },
   {
     "name": "FERRIONI BLUE TERRIER 100ML EDT",
@@ -15661,7 +15933,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-blue-terrier-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/0/5034_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/0/5034_2.jpg"
   },
   {
     "name": "FERRIONI BREEZE 236ML BODY MIST",
@@ -15693,7 +15965,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-deep-blue-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/9/29112_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/9/29112_2.jpg"
   },
   {
     "name": "FERRIONI DEEP BLUE 100ML EDT SET",
@@ -15709,7 +15981,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-deep-blue-100ml-edt-set.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2018404_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2018404_2.jpg"
   },
   {
     "name": "FERRIONI ELECTRIC VIBES 100ML EDT",
@@ -15733,7 +16005,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$830",
     "providerPrice": "$499",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$830",
     "profit": "$331",
     "margin": "39.9%",
@@ -15741,7 +16013,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-electric-vibes-men-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/0/0035034_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/0/0035034_2_1.jpg"
   },
   {
     "name": "FERRIONI GREEN FOR HER 100ML EDT",
@@ -15757,7 +16029,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-green-for-her-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320044034_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320044034_2.jpg"
   },
   {
     "name": "FERRIONI GREEN FOR HER 100ML EDT RECARGA",
@@ -15789,7 +16061,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-green-for-him-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320045034_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320045034_2.jpg"
   },
   {
     "name": "FERRIONI GREEN FOR HIM 100ML EDT RECARGA",
@@ -15837,7 +16109,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-neon-hey-darling-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320033034.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320033034_1_1_1.jpg"
   },
   {
     "name": "FERRIONI NEON HEY DUDE 100ML EDT",
@@ -15869,7 +16141,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-neon-ooh-boy-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320031034_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320031034_2.jpg"
   },
   {
     "name": "FERRIONI NEON OOH GIRL 100ML EDT",
@@ -15885,7 +16157,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-neon-ooh-girl-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320030034_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320030034_2.jpg"
   },
   {
     "name": "FERRIONI PINK TERRIER 100ML EDT",
@@ -15901,7 +16173,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-pink-terrier-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/12034_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/12034_2.jpg"
   },
   {
     "name": "FERRIONI RAINBOW 236ML BODY MIST",
@@ -15965,7 +16237,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-sunset-vibes-malibu-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320040034_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320040034_2.jpg"
   },
   {
     "name": "FERRIONI SUNSET VIVES BOMBAY 100ML EDT",
@@ -15981,7 +16253,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-sunset-vives-bombay-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320041034_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/1320041034_2.jpg"
   },
   {
     "name": "FERRIONI TERRIER FOR HER 90ML EDP",
@@ -16013,7 +16285,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ferrioni-uomo-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/132m003034_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/132m003034_2_1.jpg"
   },
   {
     "name": "FERRIONI UOMO 100ML EDT SET",
@@ -16035,12 +16307,12 @@ window.UFRA_PRODUCTS = [
     "name": "FLASH SUERO AMPLIFICADOR DE PESTAÑAS FLASH 2ML",
     "category": "belleza",
     "gender": "women",
-    "price": "$1,100",
+    "price": "$1,300",
     "providerPrice": "$849",
-    "regularPrice": "$1,100",
-    "salePrice": "$1,100",
-    "profit": "$251",
-    "margin": "22.8%",
+    "regularPrice": "$1,300",
+    "salePrice": "$1,300",
+    "profit": "$451",
+    "margin": "34.7%",
     "pricingStatus": "BAJO: TOPE PRECIO LISTA",
     "description": "",
     "shape": "compact",
@@ -16077,7 +16349,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/geoffrey-beene-grey-flannel-120ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/r/gryf423062_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/r/gryf423062_2.jpg"
   },
   {
     "name": "GEOFFREY BEENE GREY FLANNEL 240ML EDT",
@@ -16093,7 +16365,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/geoffrey-beene-grey-flannel-240ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/r/gryf423059_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/r/gryf423059_6.jpg"
   },
   {
     "name": "GIORGIO ARMANI ACQUA DI GIO 100ML EDT",
@@ -16125,7 +16397,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-acqua-di-gio-profondo-refillable-200ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/3284261_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/3284261_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI ACQUA DI GIOIA 100ML EDP",
@@ -16157,7 +16429,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-acqua-di-gioia-intense-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le645900_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le645900_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI ACQUA DI GIÒ 100ML EDP",
@@ -16173,7 +16445,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-acqua-di-gio-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le313300_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le313300_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI ACQUA DI GIÒ 100ML EDP",
@@ -16221,7 +16493,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-acqua-di-gio-100ml-edt-refillable.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/5/3504369_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/5/3504369_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI ACQUA DI GIÒ 200ML EDP REFILLABLE",
@@ -16237,7 +16509,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-acqua-di-gio-200ml-edp-refillable.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le140400_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le140400_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI ACQUA DI GIÒ 200ML EDT REFILLABLE",
@@ -16253,7 +16525,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-acqua-di-gio-200ml-edt-refillable.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le395553_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le395553_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI ACQUA DI GIÒ 300ML EDT",
@@ -16269,7 +16541,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-acqua-di-gio-300ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/9/l9844302_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/9/l9844302_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI ACQUA DI GIÒ PROFONDO PARFUM 200ML EDP",
@@ -16285,7 +16557,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-acqua-di-gio-profondo-parfum-200ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le309600_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le309600_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI ARMANI 100ML EDT",
@@ -16301,7 +16573,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-armani-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/200852_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/200852_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI ARMANI CODE 75ML EDP REFILLABLE",
@@ -16333,7 +16605,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-armani-code-parfum-125ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/0/60493_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/0/60493_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI ARMANI CODE REFILLABLE 125ML EDT",
@@ -16349,7 +16621,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-code-125ml-edt-refillable-3638132.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/3638132_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/3638132_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI ARMANI EAU DE NUIT 100ML EDT",
@@ -16365,7 +16637,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-armani-eau-de-nuit-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/5/95178_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/5/95178_2_4.jpg"
   },
   {
     "name": "GIORGIO ARMANI CODE 75ML EDP SET",
@@ -16397,7 +16669,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-code-refillable-125ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/8/2896335_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/8/2896335_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI CODE REFILLABLE 50ML EDT",
@@ -16413,7 +16685,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-code-refillable-50ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/3637838_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/3637838_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI EMPORIO ARMANI DIAMONDS 100ML EDP",
@@ -16429,7 +16701,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-emporio-armani-diamonds-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/8/2811850_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/8/2811850_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI EMPORIO ARMANI STRONGER WITH YOU 100ML EDT",
@@ -16445,7 +16717,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-emporio-armani-stronger-with-you-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/4/94732206_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/4/94732206_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI EMPORIO ARMANI STRONGER WITH YOU 150ML",
@@ -16461,7 +16733,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-emporio-armani-stronger-with-you-150ml.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/8/l8009802_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/8/l8009802_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI MY WAY 90ML EDP",
@@ -16477,7 +16749,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-my-way-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/0/90769_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/0/90769_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI MY WAY 90ML EDP SET",
@@ -16509,7 +16781,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-my-way-floral-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/8/2866901_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/8/2866901_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI MY WAY INTENSE 90ML EDP",
@@ -16525,7 +16797,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-my-way-intense-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/4/2401263_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/4/2401263_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI MY WAY NECTAR 90ML EDP",
@@ -16541,7 +16813,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-my-way-nectar-90ml-edp-le292300.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le292300_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le292300_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI MY WAY PARFUM 90ML EDP",
@@ -16557,7 +16829,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-my-way-parfum-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/2/92735_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/2/92735_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI MY WAY YLANG 90ML EDP",
@@ -16589,7 +16861,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-si-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/4/l43905_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/4/l43905_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI SI INTENSE REFILLABLE 100ML EDP",
@@ -16605,7 +16877,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-si-intense-refillable-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/4/3449257_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/4/3449257_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI SI PASSIONE 100ML EDP",
@@ -16621,7 +16893,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-si-passione-100ml-edp-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/6/56035001_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/6/56035001_6.jpg"
   },
   {
     "name": "GIORGIO ARMANI SI PASSIONE 150ML EDP",
@@ -16637,7 +16909,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armani-si-passione-150ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/a/la550100_1_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/a/la550100_2_2.jpg"
   },
   {
     "name": "GIORGIO ARMANI SÌ PASSIONE INTENSE 100ML EDP",
@@ -16669,7 +16941,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/giorgio-armany-my-way-parfum-refillable-50ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/1/3173060_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/1/3173060_2.jpg"
   },
   {
     "name": "GIVENCHY ANGE OU DEMON 100ML EDP",
@@ -16685,7 +16957,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/givenchy-ange-ou-demon-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p037236_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p037236_2.jpg"
   },
   {
     "name": "GIVENCHY ANGE OU DEMON LE SECRET 100ML EDP",
@@ -16701,7 +16973,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/givenchy-ange-ou-demon-le-secret-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p000298_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p000298_2.jpg"
   },
   {
     "name": "GIVENCHY BLUE LABEL 100ML EDT",
@@ -16717,7 +16989,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/givenchy-blue-label-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p000292_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p000292_2.jpg"
   },
   {
     "name": "GIVENCHY DAHLIA DIVIN 100ML EDP",
@@ -16733,7 +17005,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/givenchy-dahlia-divin-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p046140_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p046140_2.jpg"
   },
   {
     "name": "GIVENCHY GENTLEMAN 100ML EDT",
@@ -16781,7 +17053,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/givenchy-homme-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/0/30236_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/0/30236_5.jpg"
   },
   {
     "name": "GIVENCHY HOT COUTURE 100ML EDP",
@@ -16797,7 +17069,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/givenchy-hot-couture-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p001023_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p001023_2.jpg"
   },
   {
     "name": "GIVENCHY INSENSE ULTRAMARINE 100ML EDT",
@@ -16813,7 +17085,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/givenchy-insense-ultramarine-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/5/15256_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/5/15256_2.jpg"
   },
   {
     "name": "GIVENCHY IRRESISTIBLE 80ML EDT",
@@ -16861,7 +17133,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/givenchy-organza-100ml-edp-po31161.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/o/po31161_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/o/po31161_2.jpg"
   },
   {
     "name": "GIVENCHY POUR HOMME 100ML EDT",
@@ -16925,7 +17197,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/givenchy-xeryus-rouge-100ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p000023_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p000023_2.jpg"
   },
   {
     "name": "GIVENCHY YSATIS 100ML EDT",
@@ -16941,7 +17213,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/givenchy-ysatis-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p031045_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p031045_2.jpg"
   },
   {
     "name": "GLORIA VANDERBILT VANDERBILT 100ML EDT",
@@ -16957,7 +17229,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/gloria-vanderbilt-vanderbilt-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/2/72001_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/2/72001_2_1.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES BERRY BLAST 50ML EDP",
@@ -16973,7 +17245,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-berry-blast-50ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5624_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5624_6.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES BLUEBERRY SORBET 50ML EDP",
@@ -16989,7 +17261,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-blueberry-sorbet-50ml-edp-p5690.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5690_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5690_2.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES BUBBLE GUM 50ML EDP",
@@ -17005,7 +17277,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-bubble-gum-50ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/4/p4868_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/4/p4868_6.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES CANDY POP 50ML EDP",
@@ -17021,7 +17293,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-candy-pop-50ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5576_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5576_6.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES CHERRY LUXE 50ML EDP",
@@ -17037,7 +17309,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-cherry-luxe-50ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5574_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5574_6.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES CHOCOLATE FUDGE 50ML EDP",
@@ -17053,7 +17325,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-chocolate-fudge-50ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/4/p4866_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/4/p4866_6.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES COOKIES & CREAM 50ML EDP",
@@ -17069,7 +17341,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-cookies-and-cream-50ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/4/p4864_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/4/p4864_2.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES COTTON CANDY 50ML EDP",
@@ -17085,7 +17357,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-cotton-candy-50ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/4/p4867_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/4/p4867_6.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES DREAMY TREATS 50ML EDP",
@@ -17101,7 +17373,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-dreamy-treats-50ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5598_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5598_6.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES GOLDEN PRALINE BLISS 50ML EDP",
@@ -17117,7 +17389,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-golden-praline-bliss-50ml-edp-p5692.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5692_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5692_2.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES MATCHA MADE IN HEAVEN 50ML EDP",
@@ -17133,7 +17405,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-matcha-made-in-heaven-50ml-edp-p5694.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5694_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5694_2.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES PINK SUGAR 50ML EDP",
@@ -17149,7 +17421,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-pink-sugar-50ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5573_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5573_6.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES STRAWBERRY CHEESECAKE 50ML EDP",
@@ -17165,7 +17437,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-strawberry-cheesecake-50ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/4/p4863_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/4/p4863_6.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES SWEET CARAMEL 50ML EDP",
@@ -17181,7 +17453,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-sweet-caramel-50ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5575_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5575_6.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES TRES LECHES 50ML EDP",
@@ -17197,7 +17469,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-tres-leches-50ml-edp-p5698.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5698_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/5/p5698_2.jpg"
   },
   {
     "name": "GRANDEUR TUBBEES UNICORN VANILLA 50ML EDP",
@@ -17213,7 +17485,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/grandeur-tubbees-unicorn-vanilla-50ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/4/p4865_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/4/p4865_2.jpg"
   },
   {
     "name": "GUCCI BAMBOO 75ML EDP",
@@ -17245,7 +17517,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/gucci-bloom-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/8/48100_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/8/48100_2.jpg"
   },
   {
     "name": "GUCCI BLOOM 100ML EDT",
@@ -17261,7 +17533,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/gucci-bloom-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/1/51429_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/1/51429_2.jpg"
   },
   {
     "name": "GUCCI GUILTY 90ML EDT",
@@ -17277,7 +17549,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/gucci-guilty-90ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81183790_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81183790_2.jpg"
   },
   {
     "name": "GUCCI GUILTY POUR FEMME 90ML EDT",
@@ -17293,7 +17565,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/gucci-guilty-pour-femme-90ml-edt-97614.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/7/97614_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/7/97614_2.jpg"
   },
   {
     "name": "GUCCI GUILTY POUR HOMME 150ML EDT",
@@ -17309,7 +17581,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/gucci-guilty-pour-homme-150ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/2/92492_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/2/92492_2.jpg"
   },
   {
     "name": "GUCCI GUILTY POUR HOMME 90ML EDP",
@@ -17325,7 +17597,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/gucci-guilty-pour-homme-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/8/38212_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/8/38212_2.jpg"
   },
   {
     "name": "GUERLAIN CHAMPS ELYSEES 75ML EDP",
@@ -17341,7 +17613,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-champs-elysees-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g014321_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g014321_2.jpg"
   },
   {
     "name": "GUERLAIN HABIT ROUGE 100ML EDT",
@@ -17357,7 +17629,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-habit-rouge-100ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030482_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030482_2_1.jpg"
   },
   {
     "name": "GUERLAIN HERITAGE 100ML EDT",
@@ -17373,7 +17645,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-heritage-100ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030490_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030490_2.jpg"
   },
   {
     "name": "GUERLAIN IDYLLE 75ML EDP",
@@ -17389,7 +17661,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-idylle-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g014320_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g014320_2.jpg"
   },
   {
     "name": "GUERLAIN IMPERIALE 100ML EDC",
@@ -17405,7 +17677,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-imperiale-100ml-edc.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/2/021766_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/2/021766_2.jpg"
   },
   {
     "name": "GUERLAIN INSOLENCE 75ML EDP",
@@ -17437,7 +17709,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-insolence-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g014324_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g014324_2.jpg"
   },
   {
     "name": "GUERLAIN L'HOMME IDEAL 150ML EDT",
@@ -17453,7 +17725,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-lhomme-ideal-150ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030296_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030296_2.jpg"
   },
   {
     "name": "GUERLAIN L'HOMME IDEAL EXTREME 100ML EDP",
@@ -17469,7 +17741,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-lhomme-ideal-extreme-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030434_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030434_2_2.jpg"
   },
   {
     "name": "GUERLAIN L'INSTANT 100ML EDT",
@@ -17485,7 +17757,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-linstant-100ml-edt-2.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030488_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030488_2.jpg"
   },
   {
     "name": "GUERLAIN L'INSTANT 75ML EDP",
@@ -17501,7 +17773,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-linstant-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g014319_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g014319_2.jpg"
   },
   {
     "name": "GUERLAIN LA PETITE ROBE NOIRE 100ML EDP",
@@ -17517,7 +17789,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-la-petite-robe-noire-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/1/0114814_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/1/0114814_2_1.jpg"
   },
   {
     "name": "GUERLAIN LA PETITE ROBE NOIRE 100ML EDT",
@@ -17533,7 +17805,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-la-petite-robe-noire-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/1/0114746_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/1/0114746_2_1.jpg"
   },
   {
     "name": "GUERLAIN LA PETITE ROBE NOIRE 100ML EDT",
@@ -17565,7 +17837,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-la-petite-robe-noire-eau-de-parfum-intense-100ml-edp-g014583.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g014583_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g014583_2.jpg"
   },
   {
     "name": "GUERLAIN LABIAL LIQUIDO KISSKISS BEE GLOW OIL - 258 ROSE GLOW 9.5ML",
@@ -17709,7 +17981,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-samsara-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/10e56701521ad9e46e7cdb93701735bd/g/0/g014316_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g014316_2.jpg"
   },
   {
     "name": "GUERLAIN SHALIMAR 90ML EDP",
@@ -17741,7 +18013,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-shalimar-90ml-edt113626.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/1/113626_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/1/113626_2.jpg"
   },
   {
     "name": "GUERLAIN VETIVER 100ML EDT",
@@ -17757,7 +18029,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-vetiver-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030486_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030486_2_1.jpg"
   },
   {
     "name": "GUERLAIN VETIVER 150ML EDT",
@@ -17773,7 +18045,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-vetiver-150ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030487_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030487_2_1.jpg"
   },
   {
     "name": "GUERLAIN VETIVER PARFUM 100ML EDP",
@@ -17789,7 +18061,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guerlain-vetiver-parfum-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030523_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g030523_2.jpg"
   },
   {
     "name": "GUESS 1981 100ML EDT",
@@ -17837,7 +18109,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-1981-indigo-men-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32198_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32198_2.jpg"
   },
   {
     "name": "GUESS 1981 LOS ANGELES 100ML EDT",
@@ -17901,7 +18173,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-1981-los-angeles-men-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32211_1_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32211_2_2.jpg"
   },
   {
     "name": "GUESS 1981 MEN 100ML EDT",
@@ -17917,7 +18189,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-1981-men-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32181_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32181_2.jpg"
   },
   {
     "name": "GUESS 1981 MEN 100ML EDT SET",
@@ -17965,7 +18237,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/1/71323277_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/1/71323277_2.jpg"
   },
   {
     "name": "GUESS AMORE CAPRI 100ML EDT",
@@ -17981,7 +18253,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-amore-capri-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32359a_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32359a_2.jpg"
   },
   {
     "name": "GUESS AMORE PORTOFINO 100ML EDT",
@@ -17997,7 +18269,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-amore-portofino-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32357a_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32357a_2.jpg"
   },
   {
     "name": "GUESS AMORE ROMA 100ML EDT",
@@ -18013,7 +18285,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-amore-roma-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32358a_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32358a_2.jpg"
   },
   {
     "name": "GUESS AMORE VENEZIA 100ML EDT",
@@ -18029,7 +18301,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-amore-venezia-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32360a_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32360a_2.jpg"
   },
   {
     "name": "GUESS BELLA VITA 250ML BODY MIST",
@@ -18109,7 +18381,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-by-marciano-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/3/530627_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/3/530627_2.jpg"
   },
   {
     "name": "GUESS BY MARCIANO 100ML EDT",
@@ -18125,7 +18397,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-by-marciano-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/5/75464677_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/5/75464677_2.jpg"
   },
   {
     "name": "GUESS BY MARCIANO 100ML EDT SET",
@@ -18173,7 +18445,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-dare-100ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/7/879367_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/7/879367_2.jpg"
   },
   {
     "name": "GUESS ELEMENTS COOL SLATE 226ML DESODORANTE BODY",
@@ -18237,7 +18509,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-forever-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32790_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32790_2.jpg"
   },
   {
     "name": "GUESS GIRL 100ML EDT",
@@ -18285,7 +18557,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-girl-belle-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/7/879014_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/7/879014_2.jpg"
   },
   {
     "name": "GUESS GIRL BELLE 250ML BODY MIST",
@@ -18317,7 +18589,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-gold-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32054_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32054_2_1.jpg"
   },
   {
     "name": "GUESS ICONIC 100ML EDP",
@@ -18477,7 +18749,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-seductive-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/2/427541_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/2/427541_2.jpg"
   },
   {
     "name": "GUESS SEDUCTIVE 250ML BODY MIST",
@@ -18509,7 +18781,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-seductive-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/9/795724_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/9/795724_2.jpg"
   },
   {
     "name": "GUESS SEDUCTIVE 75ML EDT SET",
@@ -18541,7 +18813,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-seductive-blue-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/8003gh00_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/8003gh00_2.jpg"
   },
   {
     "name": "GUESS SEDUCTIVE BLUE 226ML DESODORANTE BODY",
@@ -18589,7 +18861,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-seductive-blue-women-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32428_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32428_2.jpg"
   },
   {
     "name": "GUESS SEDUCTIVE CHARM 75ML EDT",
@@ -18605,7 +18877,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-seductive-charm-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/3/33150_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/3/33150_2.jpg"
   },
   {
     "name": "GUESS SEDUCTIVE DREAM 250ML BODY MIST",
@@ -18637,7 +18909,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-seductive-dream-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/3/33151_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/3/33151_2.jpg"
   },
   {
     "name": "GUESS SEDUCTIVE FLIRT 75ML EDT",
@@ -18653,7 +18925,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-seductive-flirt-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/3/33130_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/3/33130_2.jpg"
   },
   {
     "name": "GUESS SEDUCTIVE HOMME 226ML DESODORANTE BODY",
@@ -18701,7 +18973,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-seductive-im-yours-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32020_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32020_2.jpg"
   },
   {
     "name": "GUESS SEDUCTIVE KISS 75ML EDT",
@@ -18765,7 +19037,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-seductive-red-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32240_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32240_2_1.jpg"
   },
   {
     "name": "GUESS SEDUCTIVE RED FOR MEN 226ML DESODORANTE BODY",
@@ -18957,7 +19229,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/guess-uomo-est-1981-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32660_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/2/32660_2.jpg"
   },
   {
     "name": "HALLOWEEN 100ML EDT",
@@ -18973,7 +19245,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/halloween-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/4/34201_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/4/34201_6.jpg"
   },
   {
     "name": "HALLOWEEN 125ML EDT",
@@ -18989,7 +19261,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/halloween-125ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/6/46251_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/6/46251_6.jpg"
   },
   {
     "name": "HALLOWEEN BLOSSOM 100ML EDT",
@@ -19005,7 +19277,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/halloween-blossom-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/4/14904000_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/4/14904000_2.jpg"
   },
   {
     "name": "HALLOWEEN BLUE DROP 100ML EDT",
@@ -19021,7 +19293,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/halloween-blue-drop-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/7/47201_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/7/47201_6.jpg"
   },
   {
     "name": "HALLOWEEN MAGIC 100ML EDT",
@@ -19037,7 +19309,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/halloween-magic-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/1/013904000_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/1/013904000_2.jpg"
   },
   {
     "name": "HALLOWEEN MAN 200ML EDT",
@@ -19069,7 +19341,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/halloween-man-mystery-125ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/5/15304000_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/5/15304000_2.jpg"
   },
   {
     "name": "HALLOWEEN MAN ROCK ON 125ML EDT",
@@ -19085,7 +19357,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/halloween-man-rock-on-125ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/0/50251_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/0/50251_6.jpg"
   },
   {
     "name": "HALLOWEEN MAN X 125ML EDT",
@@ -19101,7 +19373,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/halloween-man-x-125ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/4/14304000_5_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/4/14304000_6_1.jpg"
   },
   {
     "name": "HALLOWEEN MY WISH 100ML EDP",
@@ -19133,7 +19405,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/halston-z-14-125ml-edc.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/h/l/hlzf423021_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/h/l/hlzf423021_2.jpg"
   },
   {
     "name": "HUGO BOSS BOTTLED 100ML EDP",
@@ -19149,7 +19421,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-bottled-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/82853_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/82853_2_1.jpg"
   },
   {
     "name": "HUGO BOSS BOTTLED 100ML EDT",
@@ -19165,7 +19437,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-bottled-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/5/35110_1.1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/5/35110_2.2.jpg"
   },
   {
     "name": "HUGO BOSS BOTTLED 200ML EDP",
@@ -19181,7 +19453,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-bottled-200ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/82854_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/82854_2_1.jpg"
   },
   {
     "name": "HUGO BOSS BOTTLED 200ML EDT",
@@ -19197,7 +19469,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-bottled-200ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/82419207_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/82419207_2_1.jpg"
   },
   {
     "name": "HUGO BOSS BOTTLED INFINITE 100ML EDP",
@@ -19213,7 +19485,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-bottled-infinite-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22089_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/2/22089_2.jpg"
   },
   {
     "name": "HUGO BOSS BOTTLED NIGHT 100ML EDT",
@@ -19229,7 +19501,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-bottled-night-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81188045_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81188045_2.jpg"
   },
   {
     "name": "HUGO BOSS BOTTLED TONIC 100ML EDT",
@@ -19245,7 +19517,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-bottled-tonic-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/b/b/bb-0000041_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/b/b/bb-0000041_2.jpg"
   },
   {
     "name": "HUGO BOSS DARK BLUE 75ML EDT",
@@ -19261,7 +19533,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-dark-blue-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/3/03141_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/3/03141_2.jpg"
   },
   {
     "name": "HUGO BOSS DEEP RED 90ML EDP",
@@ -19293,7 +19565,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-femme-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81047207_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81047207_2.jpg"
   },
   {
     "name": "HUGO BOSS GREEN 200ML EDT",
@@ -19309,7 +19581,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-green-200ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/82377_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/82377_6.jpg"
   },
   {
     "name": "HUGO BOSS HUGO EXTREME 75ML EDP",
@@ -19325,7 +19597,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-hugo-extreme-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/2/62338_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/2/62338_2_1.jpg"
   },
   {
     "name": "HUGO BOSS HUGO GREEN 125ML EDT",
@@ -19341,7 +19613,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-hugo-green-125ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/82380_1_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/82380_2_2.jpg"
   },
   {
     "name": "HUGO BOSS HUGO JEANS 125ML EDT",
@@ -19373,7 +19645,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-hugo-xy-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81078847_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81078847_2.jpg"
   },
   {
     "name": "HUGO BOSS IN MOTION 100ML EDT",
@@ -19389,7 +19661,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-in-motion-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/2/62331_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/2/62331_2.jpg"
   },
   {
     "name": "HUGO BOSS MA VIE 75ML EDP",
@@ -19437,7 +19709,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-orange-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/2/62335_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/2/62335_2_1.jpg"
   },
   {
     "name": "HUGO BOSS ORANGE 75ML EDT",
@@ -19453,7 +19725,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-orange-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81117898_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81117898_2_1.jpg"
   },
   {
     "name": "HUGO BOSS SELECTION 100ML EDT",
@@ -19469,7 +19741,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/hugo-boss-selection-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/162329_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/6/162329_2_1.jpg"
   },
   {
     "name": "HUGO BOSS THE SCENT 200ML EDT REFILLABLE",
@@ -19533,7 +19805,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/issey-miyake-intense-125ml-edt-48601.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/8/48601_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/8/48601_2_1.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER 100ML EDT",
@@ -19565,7 +19837,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-125ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/1/31753_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/1/31753_2_4.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER CLASSIQUE 100ML EDT SET",
@@ -19613,7 +19885,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65238134_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65238134_1.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER DIVINE 100ML EDP",
@@ -19629,7 +19901,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-divine-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65188916_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65188916_2.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER DIVINE 100ML EDP SET",
@@ -19677,7 +19949,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-divine-le-parfum-intense-refillable-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199770_1_.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199770_2.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER JEAN PAUL LE MALE 200ML EDT",
@@ -19693,7 +19965,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-jean-paul-le-male-200ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/7/4758550_1_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/7/4758550_2.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER JEAN PAUL LE MALE ULTRA 125ML EDT",
@@ -19725,7 +19997,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-la-belle-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65132212_4.png"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65132212_5.png"
   },
   {
     "name": "JEAN PAUL GAULTIER LA BELLE FLOWER 100ML EDP",
@@ -19757,7 +20029,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-la-belle-paradise-garden-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199799_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199799_2.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER LE BEAU 125ML EDT",
@@ -19789,7 +20061,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-le-beau-paradise-garden-125ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199801_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199801_2.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER LE MALE 125ML EDT SET",
@@ -19821,7 +20093,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65238129_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65238129_1.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER LE MALE ELIXIR PARFUM 125ML EDP",
@@ -19837,7 +20109,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-le-male-elixir-parfum-125ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65189084_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65189084_2.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER LE MALE LE PARFUM 125ML EDP",
@@ -19901,7 +20173,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-scandal-150ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65173170_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65173170_2.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER SCANDAL 80ML EDP",
@@ -19917,7 +20189,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-scandal-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65176518_1_.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65176518_2.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER SCANDAL 80ML EDP SET 65238124",
@@ -19933,7 +20205,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65238124_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65238124_1.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER SCANDAL ABSOLU PARFUM CONCENTRÉ 80ML EDP",
@@ -19949,7 +20221,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-scandal-absolu-parfum-concentre-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65189843_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65189843_2.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER SCANDAL INTENSE EAU DE PARFUM 80ML",
@@ -19997,7 +20269,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-scandal-le-parfum-200ml-edprefill.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65181712_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65181712_2.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER SCANDAL LE PARFUM INTENSE 80ML EDP",
@@ -20013,7 +20285,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-scandal-le-parfum-intense-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65168248_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65168248_2_1.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER SCANDAL LE PARFUM REFILLABLE 150ML EDP",
@@ -20029,7 +20301,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-scandal-le-parfum-refillable-150ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/6518247901_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/6518247901_2.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER SCANDAL POUR HOMME 100ML EDT",
@@ -20037,7 +20309,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$3,050",
     "providerPrice": "$1,830",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$3,050",
     "profit": "$1,220",
     "margin": "40.0%",
@@ -20061,7 +20333,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-scandal-pour-homme-absolu-parfum-concentre-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65189839_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65189839_2.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER SCANDAL POUR HOMME ABSOLU PARFUM CONCENTRÉ 150ML EDP",
@@ -20077,7 +20349,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-scandal-pour-homme-absolu-parfum-concentre-150ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65189840_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65189840_2.jpg"
   },
   {
     "name": "JEAN PAUL GAULTIER SCANDAL POUR HOMME INTENSE 100ML EDP",
@@ -20125,7 +20397,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jean-paul-gaultier-scandal-pour-homme-refill-bottle-200ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65173158_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65173158_2.jpg"
   },
   {
     "name": "JIMMY CHOO 100ML EDP",
@@ -20141,7 +20413,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jimmy-choo-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/h/ch001a01_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/h/ch001a01_1.jpg"
   },
   {
     "name": "JIMMY CHOO BLOSSOM 100ML EDP",
@@ -20157,7 +20429,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jimmy-choo-blossom-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/h/ch006a01_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/h/ch006a01_1.jpg"
   },
   {
     "name": "JIMMY CHOO I WANT CHOO 100ML EDP",
@@ -20173,7 +20445,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jimmy-choo-i-want-choo-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/b/1b5l017a01_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/b/1b5l017a01_5.jpg"
   },
   {
     "name": "JIMMY CHOO I WANT CHOO FOREVER 100ML EDP",
@@ -20189,7 +20461,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jimmy-choo-i-want-choo-forever-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/b/1b5l020a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/b/1b5l020a01_2.jpg"
   },
   {
     "name": "JIMMY CHOO MAN 100ML EDT",
@@ -20205,7 +20477,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jimmy-choo-man-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/h/ch005a01_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/h/ch005a01_1.jpg"
   },
   {
     "name": "JIMMY CHOO MAN EXTREME 100ML EDP",
@@ -20237,7 +20509,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jimmy-choo-man-intense-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/h/ch010a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/c/h/ch010a01_2.jpg"
   },
   {
     "name": "JIMMY CHOO ROSE PASSION 100ML EDP",
@@ -20253,7 +20525,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jimmy-choo-rose-passion-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/b/1b5l021a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/b/1b5l021a01_2.jpg"
   },
   {
     "name": "JO MALONE DARK AMBER & GINGER LILY COLOGNE INTENSE 100ML EDC",
@@ -20269,7 +20541,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jo-malone-dark-amber-and-ginger-lily-cologne-intense-100ml-edc-2.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/n/lni49871_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/n/lni49871_2.jpg"
   },
   {
     "name": "JO MALONE ENGLISH PEAR & FREESIA 100ML EDC",
@@ -20301,7 +20573,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jo-malone-myrrh-and-tonka-cologne-intense-100ml-edc.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/g/lgxj010000_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/g/lgxj010000_2_1.jpg"
   },
   {
     "name": "JO MALONE OUD & BERGAMOT COLOGNE INTENSE 100ML EDC",
@@ -20317,7 +20589,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/jo-malone-oud-and-bergamot-cologne-intense-100ml-edc-2.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/n/lni36640_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/n/lni36640_2.jpg"
   },
   {
     "name": "JO MILANO GAME OF SPADES BOSTON 100ML EDP",
@@ -20429,7 +20701,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/juicy-couture-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/j/u/juif00005_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/j/u/juif00005_2.jpg"
   },
   {
     "name": "JUICY VIVA LA JUICY 100ML EDP",
@@ -20461,7 +20733,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/juicy-viva-la-juicy-noir-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/v/b/vbrf40001_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/v/b/vbrf40001_2_4.jpg"
   },
   {
     "name": "KATE SPADE CHERIE 100ML EDP",
@@ -20477,7 +20749,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kate-spade-cherie-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/s/ks005a01.32_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/s/ks005a01.32_2.jpg"
   },
   {
     "name": "KATE SPADE SPARKLE INTENSE 100ML EDP",
@@ -20493,7 +20765,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kate-spade-sparkle-intense-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/s/ks004a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/s/ks004a01_2.jpg"
   },
   {
     "name": "KATY PERRY MAD POTION 100ML EDP",
@@ -20509,7 +20781,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/katy-perry-mad-potion-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/820462_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/820462_2.jpg"
   },
   {
     "name": "KATY PERRY PURR 100ML EDP",
@@ -20557,7 +20829,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kenzo-amour-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/7/87180000_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/7/87180000_2.jpg"
   },
   {
     "name": "KENZO FLOWER 100ML EDP",
@@ -20573,7 +20845,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kenzo-flower-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/5/85180000_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/5/85180000_6.jpg"
   },
   {
     "name": "KENZO FLOWER 100ML EDT",
@@ -20589,7 +20861,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kenzo-flower-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k010332_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k010332_2.jpg"
   },
   {
     "name": "KENZO FLOWER L'ABSOLUE 100ML EDP",
@@ -20605,7 +20877,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kenzo-flower-labsolue-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k010372_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k010372_2.jpg"
   },
   {
     "name": "KENZO FLOWER POPPY BOUQUET 100ML EDP",
@@ -20621,7 +20893,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kenzo-flower-poppy-bouquet-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k000104_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k000104_2.jpg"
   },
   {
     "name": "KENZO HOMME 110ML EDP",
@@ -20637,7 +20909,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kenzo-homme-110ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k013071_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k013071_2.jpg"
   },
   {
     "name": "KENZO JUNGLE 100ML EDP",
@@ -20653,7 +20925,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kenzo-jungle-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80180200_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80180200_2.jpg"
   },
   {
     "name": "KENZO L'EAU 100ML EDT",
@@ -20669,7 +20941,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kenzo-leau-100ml-edt-2.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k014402_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k014402_2.jpg"
   },
   {
     "name": "KENZO L'EAU HYPER WAVE POUR FEMME 100ML EDT",
@@ -20685,7 +20957,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kenzo-leau-hyper-wave-pour-femme-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k014072_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k014072_2.jpg"
   },
   {
     "name": "KENZO L'EAU HYPER WAVE POUR HOMME 100ML EDT",
@@ -20701,7 +20973,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kenzo-leau-hyper-wave-pour-homme-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k015082_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k015082_2.jpg"
   },
   {
     "name": "KENZO L'EAU POUR HOMME 100ML EDT",
@@ -20717,7 +20989,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kenzo-l-eau-pour-homme-100ml-edt-k015102.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k015102_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k015102_2_1.jpg"
   },
   {
     "name": "KENZO PARFUM D'ETE 75ML EDP",
@@ -20733,7 +21005,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kenzo-parfum-dete-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/7/k77183400_1_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/7/k77183400_2_2.jpg"
   },
   {
     "name": "KENZO WORLD 75ML EDP",
@@ -20749,7 +21021,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kenzo-world-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k024002_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/k/0/k024002_2_4.jpg"
   },
   {
     "name": "KITON BLACK 125ML EDT",
@@ -20765,7 +21037,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/kiton-black-125ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/f/2f9p010000_1_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/f/2f9p010000_2.jpg"
   },
   {
     "name": "LACOSTE BLANC 100ML EDT",
@@ -20781,7 +21053,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lacoste-blanc-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/s/ls-413174_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/s/ls-413174_2.jpg"
   },
   {
     "name": "LACOSTE BLANC 175ML EDT",
@@ -20813,7 +21085,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lacoste-blanc-eau-fraiche-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/c/lc003ao1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/c/lc003ao1_2.jpg"
   },
   {
     "name": "LACOSTE BLANC INTENSE 100ML EDT",
@@ -20829,7 +21101,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lacoste-blanc-intense-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45989_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45989_2.jpg"
   },
   {
     "name": "LACOSTE BOOSTER 125ML EDT",
@@ -20845,7 +21117,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lacoste-booster-125ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/c/lc010a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/c/lc010a01_2.jpg"
   },
   {
     "name": "LACOSTE ESSENTIAL 125ML EDT",
@@ -20861,7 +21133,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lacoste-essential-125ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80948321_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80948321_2.jpg"
   },
   {
     "name": "LACOSTE FEMME 90ML EDP",
@@ -20877,7 +21149,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lacoste-femme-90ml-edp-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/c/lc014a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/c/lc014a01_2.jpg"
   },
   {
     "name": "LACOSTE FRENCH PANACHE POUR ELLE 90ML EDT",
@@ -20909,7 +21181,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lacoste-lhomme-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/s/ls-0000046_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/s/ls-0000046_2_4.jpg"
   },
   {
     "name": "LACOSTE NOIR 100ML EDT",
@@ -20941,7 +21213,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lacoste-original-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/l/1lsl016a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/l/1lsl016a01_2.jpg"
   },
   {
     "name": "LACOSTE PURE POUR ELLE ROSE INTENSE 100ML EDT",
@@ -20957,7 +21229,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lacoste-l-12-12-rose-eau-intense-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45994_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45994_2.jpg"
   },
   {
     "name": "LACOSTE RED 125ML EDT",
@@ -20973,7 +21245,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lacoste-red-125ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2022100005_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2022100005_2.jpg"
   },
   {
     "name": "LACOSTE ROSE EAU FRAICHE 100ML EDT",
@@ -20989,7 +21261,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lacoste-rose-eau-fraiche-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/c/lc079959_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/c/lc079959_2_1.jpg"
   },
   {
     "name": "LACOSTE SPARKLING 100ML EDT",
@@ -21005,7 +21277,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lacoste-sparkling-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/c/lc006a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/c/lc006a01_2.jpg"
   },
   {
     "name": "LACOSTE TOUCH OF PINK 90ML EDT",
@@ -21021,7 +21293,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lacoste-touch-of-pink-90ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80919132_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80919132_6.jpg"
   },
   {
     "name": "LANCOME HYPNOSE 75ML EDP",
@@ -21037,7 +21309,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lancome-hypnose-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/823550_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/2/823550_2.jpg"
   },
   {
     "name": "LANCOME IDÔLE L’EAU DE TOILETTE 100ML EDT",
@@ -21053,7 +21325,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lancome-idole-l-eau-de-toilette-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/1278533_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/1278533_2.jpg"
   },
   {
     "name": "LANCOME LA NUIT TRÉSOR LE PARFUM 100ML EDP",
@@ -21069,7 +21341,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lancome-la-nuit-tresor-le-parfum-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le605200_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le605200_2.jpg"
   },
   {
     "name": "LANCOME LA VIE EST BELLE 100ML EDP REFILLABLE",
@@ -21101,7 +21373,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lancome-la-vie-est-belle-intensement-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/b/lb521100_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/b/lb521100_2_1.jpg"
   },
   {
     "name": "LANCOME LA VIE EST BELLE IRIS ABSOLU 100ML EDP",
@@ -21117,7 +21389,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lancome-la-vie-est-belle-iris-absolu-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/4/947996_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/4/947996_2.jpg"
   },
   {
     "name": "LANCOME MAGIE NOIRE 75ML EDT",
@@ -21133,7 +21405,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lancome-magie-noire-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/6/262309_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/6/262309_2.jpg"
   },
   {
     "name": "LANCOME MIRACLE 100ML EDP",
@@ -21149,7 +21421,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lancome-miracle-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/7/377600_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/7/377600_2.jpg"
   },
   {
     "name": "LANCOME POEME 100ML EDP",
@@ -21165,7 +21437,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lancome-poeme-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/815511_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/815511_2_4.jpg"
   },
   {
     "name": "LANCOME TRESOR 100ML EDP",
@@ -21181,7 +21453,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lancome-tresor-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/803492_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/803492_2_4.jpg"
   },
   {
     "name": "LANCÔME IDÔLE POWER INTENSE 100ML EDP",
@@ -21325,7 +21597,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lanvin-mon-eclat-d-arpege-100ml-edp-60119023.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/0/60119023_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/0/60119023_2.jpg"
   },
   {
     "name": "LATTAFA AFAQ 100ML EDP",
@@ -21341,7 +21613,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-afaq-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73810_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73810_2.jpg"
   },
   {
     "name": "LATTAFA AL AMEED 100ML EDP",
@@ -21357,7 +21629,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-al-ameed-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73825_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73825_2.jpg"
   },
   {
     "name": "LATTAFA AL AREEQ GOLD 100ML EDP",
@@ -21373,7 +21645,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-al-areeq-gold-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73869_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73869_2.jpg"
   },
   {
     "name": "LATTAFA AL AREEQ SILVER 100ML EDP",
@@ -21389,7 +21661,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-al-areeq-silver-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73868_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73868_2.jpg"
   },
   {
     "name": "LATTAFA AL DUR AL MAKNOON 100ML EDP",
@@ -21405,7 +21677,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-al-dur-al-maknoon-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/20186_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/20186_2.jpg"
   },
   {
     "name": "LATTAFA ASAD 100ML EDP",
@@ -21421,7 +21693,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-asad-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73541_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73541_2.jpg"
   },
   {
     "name": "LATTAFA ASAD BOURBON 100ML EDP",
@@ -21453,7 +21725,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-asdaaf-ameerat-al-arab-100ml-edp-45635.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45635_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45635_2.jpg"
   },
   {
     "name": "LATTAFA AWAAN 100ML EDP",
@@ -21469,7 +21741,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-awaan-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73826_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73826_2.jpg"
   },
   {
     "name": "LATTAFA BADE'E AL OUD AMETHYST 100ML EDP",
@@ -21485,7 +21757,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-bade-e-al-oud-amethyst-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73387_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73387_1.jpg"
   },
   {
     "name": "LATTAFA BADE'E AL OUD FOR GLORY 100ML EDP",
@@ -21501,7 +21773,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-bade-e-al-oud-for-glory-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45832_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45832_1.jpg"
   },
   {
     "name": "LATTAFA BADE'E AL OUD GLORY 5ML EDP • AMETHYS 5ML EDP • HONOR & GLORY 5ML EDP • SUBLIME 5ML EDP • NOBLE BLUSH 5ML EDP SET",
@@ -21533,7 +21805,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-blue-sapphire-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73824_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73824_2.jpg"
   },
   {
     "name": "LATTAFA EJAAZI 100ML EDP",
@@ -21613,7 +21885,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-ishq-al-shuyukh-gold-100ml-edp-73866.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73866_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73866_2.jpg"
   },
   {
     "name": "LATTAFA KHAMRAH 100ML EDP",
@@ -21629,7 +21901,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-khamrah-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73719_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73719_2.jpg"
   },
   {
     "name": "LATTAFA LAHDATH 80ML EDP",
@@ -21645,7 +21917,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-lahdath-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/9/59011_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/9/59011_2.jpg"
   },
   {
     "name": "LATTAFA LAIL MALEKI 100ML EDP",
@@ -21661,7 +21933,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-lail-maleki-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/4/74515_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/4/74515_2.jpg"
   },
   {
     "name": "LATTAFA MAAHIR 100ML EDP",
@@ -21677,7 +21949,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-maahir-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45674_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45674_1.jpg"
   },
   {
     "name": "LATTAFA MAAHIR BLACK EDITION 100ML EDP",
@@ -21693,7 +21965,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-maahir-black-edition-100ml-edp-73036.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73036_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73036_1.jpg"
   },
   {
     "name": "LATTAFA MAHARJAN GOLD 100ML EDP",
@@ -21709,7 +21981,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-maharjan-gold-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73829_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73829_2_.jpg"
   },
   {
     "name": "LATTAFA MAHARJAN SILVER 100ML EDP",
@@ -21725,7 +21997,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-maharjan-silver-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73830_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73830_2.jpg"
   },
   {
     "name": "LATTAFA OUD MOOD ELIXIR 100ML EDP",
@@ -21741,7 +22013,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-oud-mood-elixir-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/6/06817_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/6/06817_2.jpg"
   },
   {
     "name": "LATTAFA OUD MOOD REMINISCENCE 100ML EDP",
@@ -21757,7 +22029,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-oud-mood-reminiscence-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/6/06818_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/6/06818_2.jpg"
   },
   {
     "name": "LATTAFA OUD NAJDIA 100ML EDP",
@@ -21773,7 +22045,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-oud-najdia-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/6/06615_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/6/06615_2.jpg"
   },
   {
     "name": "LATTAFA PEACE & LOVE 100ML EDP",
@@ -21797,7 +22069,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$1,000",
     "providerPrice": "$599",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$1,000",
     "profit": "$401",
     "margin": "40.1%",
@@ -21901,7 +22173,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-qimmah-man-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45058_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45058_2.jpg"
   },
   {
     "name": "LATTAFA RAMZ 100ML EDP",
@@ -21917,7 +22189,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-ramz-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/6/06672_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/6/06672_2.jpg"
   },
   {
     "name": "LATTAFA RAMZ GOLD 100ML EDP",
@@ -21933,7 +22205,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-ramz-gold-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/0/60667_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/0/60667_2.jpg"
   },
   {
     "name": "LATTAFA ROYAL SAPPHIRE 100ML EDP",
@@ -21949,7 +22221,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-royal-sapphire-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73823_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73823_2.jpg"
   },
   {
     "name": "LATTAFA SAFWAAN L’AUTRE MUSK 100ML EDP",
@@ -21965,7 +22237,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-safwaan-lautre-musk-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/9/59014_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/9/59014_2.jpg"
   },
   {
     "name": "LATTAFA SAFWAAN L’AUTRE OUD 100ML EDP",
@@ -21981,7 +22253,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-safwaan-lautre-oud-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/9/59013_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/9/59013_2.jpg"
   },
   {
     "name": "LATTAFA SHEIKH SHUYUKH LUXE EDITION 100ML EDP",
@@ -21997,7 +22269,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-sheikh-shuyukh-luxe-edition-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/6/06398_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/6/06398_2.jpg"
   },
   {
     "name": "LATTAFA SIMPLY OUD 100ML EDP",
@@ -22013,7 +22285,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-simply-oud-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45707_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/5/45707_2.jpg"
   },
   {
     "name": "LATTAFA THARWAH SILVER 100ML EDP",
@@ -22029,7 +22301,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-tharwah-silver-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73818_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73818_2.jpg"
   },
   {
     "name": "LATTAFA WAJOOD 100ML EDP",
@@ -22045,7 +22317,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-wajood-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73828_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/73828_2.jpg"
   },
   {
     "name": "LATTAFA YARA 100ML EDP",
@@ -22077,7 +22349,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-yara-candy-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/9/59916_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/9/59916_2.jpg"
   },
   {
     "name": "LATTAFA YARA MOI 100ML EDP",
@@ -22093,7 +22365,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-yara-moi-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/9/59142_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/9/59142_2.jpg"
   },
   {
     "name": "LATTAFA YARA TOUS 100ML EDP",
@@ -22109,7 +22381,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/lattafa-yara-tous-100ml-edp-59455.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/9/59455_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/9/59455_2.jpg"
   },
   {
     "name": "LENTES",
@@ -22141,7 +22413,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/liz-claiborne-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/121025_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/121025_2.jpg"
   },
   {
     "name": "LIZ CLAIBORNE CURVE 100ML EDT",
@@ -22157,7 +22429,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/liz-claiborne-curve-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/0/401020_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/0/401020_2_1.jpg"
   },
   {
     "name": "LIZ CLAIBORNE CURVE 125ML COLONIA",
@@ -22173,7 +22445,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/liz-claiborne-curve-125ml-colonia.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/1/510025_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/1/510025_2.jpg"
   },
   {
     "name": "LOEWE 001 MAN 100ML EDP",
@@ -22253,7 +22525,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-7-150ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/6/66853_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/6/66853_2.jpg"
   },
   {
     "name": "LOEWE A MI AIRE 100ML EDT",
@@ -22285,7 +22557,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-agua-100ml-edt-4.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/6/66440_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/6/66440_2.jpg"
   },
   {
     "name": "LOEWE AGUA DROP 100ML EDP",
@@ -22317,7 +22589,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-agua-ella-100ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/8/68246_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/8/68246_2.jpg"
   },
   {
     "name": "LOEWE AGUA MAR DE CORAL 100ML EDT",
@@ -22333,7 +22605,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-agua-mar-de-coral-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/6/66501_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/6/66501_2.jpg"
   },
   {
     "name": "LOEWE AGUA MAR DE CORAL 100ML EDT • AGUA DROP 10ML EDP SET",
@@ -22381,7 +22653,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-aire-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/0/70232_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/0/70232_2.jpg"
   },
   {
     "name": "LOEWE AIRE ANTHESIS 100ML EDP",
@@ -22413,7 +22685,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-aura-pink-magnolia-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/4/64088_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/4/64088_2_1.jpg"
   },
   {
     "name": "LOEWE AURA WHITE MAGNOLIA 100ML EDP",
@@ -22493,7 +22765,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-esencia-100ml-edt-4.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/0/70157_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/0/70157_2.jpg"
   },
   {
     "name": "LOEWE ESENCIA 100ML/10ML EDP • 7 COBALT 10ML EDP SET",
@@ -22573,7 +22845,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-esencia-150ml-edt-4.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/1/71598_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/1/71598_2_1.jpg"
   },
   {
     "name": "LOEWE ESENCIA 150ML EDT",
@@ -22589,7 +22861,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-esencia-150ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/3/53075_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/3/53075_2.jpg"
   },
   {
     "name": "LOEWE POUR HOMME 100ML EDT",
@@ -22605,7 +22877,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-pour-homme-100ml-edt-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/0/70119_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/0/70119_2.jpg"
   },
   {
     "name": "LOEWE SOLO 100ML EDT",
@@ -22621,7 +22893,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-solo-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/0/70478_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/0/70478_2.jpg"
   },
   {
     "name": "LOEWE SOLO 100ML/10ML EDT • VULCAN 10ML EDP SET",
@@ -22653,7 +22925,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-solo-150ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/0/70485_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/0/70485_2.jpg"
   },
   {
     "name": "LOEWE SOLO ATLAS 100ML EDP",
@@ -22669,7 +22941,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-solo-atlas-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/2/72090_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/2/72090_2_1.jpg"
   },
   {
     "name": "LOEWE SOLO ELLA 100ML EDP",
@@ -22685,7 +22957,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-solo-ella-100ml-edp-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/8/68482_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/8/68482_2.jpg"
   },
   {
     "name": "LOEWE SOLO ELLA 100ML EDP • SOLO ELLA ELIXIR 10ML EDP SET",
@@ -22717,7 +22989,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-solo-ella-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/9/69250_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/9/69250_2_1.jpg"
   },
   {
     "name": "LOEWE SOLO ELLA 100ML/10ML EDP • AIRE SUTILEZA 10ML EDT SET",
@@ -22750,6 +23022,22 @@ window.UFRA_PRODUCTS = [
     "shape": "bottle",
     "url": "https://ufra.com.mx/loewe-solo-vulcan-100ml-edp-lw80620.html",
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/w/lw80620_3.jpg"
+  },
+  {
+    "name": "MAC BASE DE MAQUILLAJE LIQUIDA STUDIO FIX FLUID SPF 15 24HR MATTE FOUNDATION OIL CONTROL NC17 MACSRMX55",
+    "url": "https://ufra.com.mx/mac-base-de-maquillaje-liquida-studio-fix-fluid-spf-15-24hr-matte-foundation-oil-control-nc17-macsrmx55.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "belleza",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$779",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/a/macsrmx55_2.jpg"
   },
   {
     "name": "MAC BASE DE MAQUILLAJE STUDIO FIX POWDER FOUNDATION C4",
@@ -23109,7 +23397,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$610",
     "providerPrice": "$365",
-    "regularPrice": "$920",
+    "regularPrice": "$1,300",
     "salePrice": "$610",
     "profit": "$245",
     "margin": "40.2%",
@@ -23317,7 +23605,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$480",
     "providerPrice": "$285",
-    "regularPrice": "$920",
+    "regularPrice": "$1,300",
     "salePrice": "$480",
     "profit": "$195",
     "margin": "40.6%",
@@ -23422,6 +23710,22 @@ window.UFRA_PRODUCTS = [
     "shape": "compact",
     "url": "https://ufra.com.mx/mac-labial-liquido-retro-matte-liquid-lipcolour-ruby-phew-5ml.html",
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/a/macmy3n79_2.jpg"
+  },
+  {
+    "name": "MAC LABIAL MACXIMAL SILKY MATTE LIPSTICK RUSSIAN RED MACNY9N06",
+    "url": "https://ufra.com.mx/mac-labial-macximal-silky-matte-lipstick-russian-red-macny9n06.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "belleza",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$499",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/a/macny9n06_4.jpg"
   },
   {
     "name": "MAC LABIAL M·A·CXIMAL SILKY MATTE LIPSTICK -CANDY YUM YUM 3.5G",
@@ -23557,7 +23861,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$520",
     "providerPrice": "$310",
-    "regularPrice": "$920",
+    "regularPrice": "$1,300",
     "salePrice": "$520",
     "profit": "$210",
     "margin": "40.4%",
@@ -23598,6 +23902,22 @@ window.UFRA_PRODUCTS = [
     "shape": "compact",
     "url": "https://ufra.com.mx/mac-lip-pencil-ruby-woo.html",
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/a/macm38091_2.jpg"
+  },
+  {
+    "name": "MAC LIPGLASS GLOSS ALL THINGS MAGICAL MACS3HT1M",
+    "url": "https://ufra.com.mx/mac-lipglass-gloss-all-things-magical-macs3ht1m.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "belleza",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$390",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/a/macs3ht1m_2.jpg"
   },
   {
     "name": "MAC LOCIÓN DESMAQUILLANTE PARA PARPADOS Y LABIOS",
@@ -23701,7 +24021,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$860",
     "providerPrice": "$515",
-    "regularPrice": "$920",
+    "regularPrice": "$1,300",
     "salePrice": "$860",
     "profit": "$345",
     "margin": "40.1%",
@@ -23717,7 +24037,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$860",
     "providerPrice": "$515",
-    "regularPrice": "$920",
+    "regularPrice": "$1,300",
     "salePrice": "$860",
     "profit": "$345",
     "margin": "40.1%",
@@ -23765,7 +24085,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$800",
     "providerPrice": "$480",
-    "regularPrice": "$920",
+    "regularPrice": "$1,300",
     "salePrice": "$800",
     "profit": "$320",
     "margin": "40.0%",
@@ -24349,7 +24669,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/michael-kors-gorgeous-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/1/41ax010000_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/1/41ax010000_2.jpg"
   },
   {
     "name": "MICHAEL KORS LENTES ALICANTE MK2236U35553G53 CAMEL",
@@ -24477,7 +24797,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/michael-kors-sexy-amber-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/5/55eh_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/5/55eh_3.jpg"
   },
   {
     "name": "MICHAEL KORS SIESTA KEY LENTES MK2240U30058G54 NEGRO",
@@ -24525,7 +24845,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/michael-malul-citizen-jack-absolute-100ml-edp-71037.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/1/71037_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/1/71037_2.jpg"
   },
   {
     "name": "MICHAEL MALUL JET BLACK HORIZON 100ML EDP 81553",
@@ -24541,7 +24861,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81553_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81553_2.jpg"
   },
   {
     "name": "MICHAEL MALUL SANGRIA EMBERS 100ML EDP 81539",
@@ -24557,7 +24877,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81539_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81539_2.jpg"
   },
   {
     "name": "MICHAEL MALUL ZEST VETIVER 100ML EDP 81528",
@@ -24573,7 +24893,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81528_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/1/81528_2.jpg"
   },
   {
     "name": "MON GUERLAIN 100ML EDP",
@@ -24589,7 +24909,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/mon-guerlain-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g013140_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g013140_2_1.jpg"
   },
   {
     "name": "MON GUERLAIN INTENSE 100ML EDP",
@@ -24605,7 +24925,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/mon-guerlain-intense-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g013780_1_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g013780_2_2.jpg"
   },
   {
     "name": "MON GUERLAIN SPARKLING BOUQUET 100ML EDP",
@@ -24621,7 +24941,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/mon-guerlain-sparkling-bouquet-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g014247_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/0/g014247_2.jpg"
   },
   {
     "name": "MONT BLANC LEGEND 100ML EDP",
@@ -24637,7 +24957,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/mont-blanc-legend-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/c/1c7l019a01_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/c/1c7l019a01_2_1.jpg"
   },
   {
     "name": "MONT BLANC LEGEND RED 100ML EDP",
@@ -24653,7 +24973,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/mont-blanc-legend-red-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/b/mb021a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/b/mb021a01_2.jpg"
   },
   {
     "name": "MONTBLANC 75ML EDT",
@@ -24669,7 +24989,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/montblanc-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/b/0/b0135001_5_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/b/0/b0135001_6_1.jpg"
   },
   {
     "name": "MONTBLANC COLLECTION PATCHOULI INK 125ML EDP",
@@ -24733,7 +25053,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/montblanc-explorer-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/b/mb017a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/b/mb017a01_2.jpg"
   },
   {
     "name": "MONTBLANC EXPLORER PLATINUM 100ML EDP",
@@ -24781,7 +25101,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/montblanc-lady-emblem-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/b/mb012a01_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/b/mb012a01_2.jpg"
   },
   {
     "name": "MONTBLANC LEGEND 100ML EDT",
@@ -24861,7 +25181,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/montblanc-legend-spirit-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/b/mb-0000027_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/b/mb-0000027_2_4.jpg"
   },
   {
     "name": "MONTBLANC LEGEND SPIRIT 200ML EDT",
@@ -24877,7 +25197,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/montblanc-legend-spirit-200ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/b/mb013a07_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/b/mb013a07_2.jpg"
   },
   {
     "name": "MONTBLANC MONTBLANC LEGEND BLUE 100ML EDP",
@@ -24893,7 +25213,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/montblanc-montblanc-legend-blue-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/c/1c7l027a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/c/1c7l027a01_2.jpg"
   },
   {
     "name": "MONTBLANC SIGNATURE 90ML EDP",
@@ -24925,7 +25245,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/montblanc-signature-absolue-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/c/1c7l024a01_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/c/1c7l024a01_2.jpg"
   },
   {
     "name": "MOSCHINO FRESH COUTURE 100ML EDT",
@@ -24941,7 +25261,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/moschino-fresh-couture-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/r/6r32_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/r/6r32_2_4.jpg"
   },
   {
     "name": "MOSCHINO FRESH GOLD 100ML EDP",
@@ -24957,7 +25277,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/moschino-fresh-gold-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/s/6s32_6.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/s/6s32_2_1.jpg"
   },
   {
     "name": "MOSCHINO FRESH PINK 100ML EDT",
@@ -24973,7 +25293,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/moschino-fresh-pink-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/1260006t32_6.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/1260006t32_2_1.jpg"
   },
   {
     "name": "MOSCHINO I LOVE LOVE 100ML EDT",
@@ -25005,7 +25325,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/moschino-toy-2-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/v/6v32_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/v/6v32_2.jpg"
   },
   {
     "name": "MOSCHINO TOY 2 BUBBLEGUM 100ML EDT",
@@ -25021,7 +25341,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/moschino-toy-2-bubblegum-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/x/6x32_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/x/6x32_2.jpg"
   },
   {
     "name": "MOSCHINO TOY 2 PEARL 100ML EDP",
@@ -25037,7 +25357,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/moschino-toy-2-pearl-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/1260006y32_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/1260006y32_2.jpg"
   },
   {
     "name": "MOSCHINO TOY BOY 100ML EDP",
@@ -25069,7 +25389,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/mugler-alien-60ml-edp-refilable.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/8/280031_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/8/280031_2.jpg"
   },
   {
     "name": "MUGLER ALIEN 90ML EDP",
@@ -25133,7 +25453,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/mugler-alien-refill-bottle-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/6/76422_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/6/76422_2.jpg"
   },
   {
     "name": "MUGLER ANGEL FANTASM 100ML EDP",
@@ -25181,7 +25501,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/mugler-angel-refill-bottle-100ml-edp-76420.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/6/76420_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/6/76420_2.jpg"
   },
   {
     "name": "MUGLER ANGEL STANDING STAR 100ML EDP",
@@ -25197,7 +25517,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/mugler-angel-standing-star-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/c/lc640000_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/c/lc640000_2.jpg"
   },
   {
     "name": "MUGLER ANGEL STAR 50ML EDP REFILLABLE",
@@ -25301,7 +25621,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$830",
     "providerPrice": "$499",
-    "regularPrice": "$5,060",
+    "regularPrice": "$4,630",
     "salePrice": "$830",
     "profit": "$331",
     "margin": "39.9%",
@@ -25325,7 +25645,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/nautica-classic-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/4/04016_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/4/04016_2.jpg"
   },
   {
     "name": "NAUTICA CLASSIC 100ML EDT 2 PZAS",
@@ -25405,7 +25725,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/nautica-voyage-200ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/3/83403_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/3/83403_4.jpg"
   },
   {
     "name": "NAUTICA VOYAGE HERITAGE 100ML EDT",
@@ -25437,7 +25757,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/nautica-voyage-n-83-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/3/938230_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/3/938230_2.jpg"
   },
   {
     "name": "NAUTICA VOYAGE SPORT 100ML EDT",
@@ -25453,7 +25773,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/nautica-voyage-sport-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/5878_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/5878_2.jpg"
   },
   {
     "name": "NAUTICA VOYAGE SPORT 100ML EDT 2 PZAS",
@@ -25533,7 +25853,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/nina-ricci-illusion-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199630_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199630_2.jpg"
   },
   {
     "name": "NINA RICCI ILLUSION 80ML EDP SET",
@@ -25709,7 +26029,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/orientica-fleur-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/o/f/ofs5765_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/o/f/ofs5765_2.jpg"
   },
   {
     "name": "ORIENTICA LE MOTIF IMPERIAL GOLD 85ML EDP",
@@ -26061,7 +26381,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/paco-rabanne-black-xs-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65118505_1_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65118505_2.jpg"
   },
   {
     "name": "PACO RABANNE INVICTUS 100ML EDT",
@@ -26125,7 +26445,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/paris-hilton-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/8/38271576_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/8/38271576_6.jpg"
   },
   {
     "name": "PARIS HILTON BODY MIST 236ML",
@@ -26141,7 +26461,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/paris-hilton-body-mist-236ml.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/9/196941_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/9/196941_2.jpg"
   },
   {
     "name": "PARIS HILTON CAN CAN 100ML EDP",
@@ -26173,7 +26493,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/paris-hilton-can-can-body-mist-236ml.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/9/198502_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/9/198502_1_1.jpg"
   },
   {
     "name": "PARIS HILTON CAN CAN BURLESQUE 100ML EDP",
@@ -26205,7 +26525,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/paris-hilton-can-can-burlesque-236ml-body-mist.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2005540_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2005540_1_1.jpg"
   },
   {
     "name": "PARIS HILTON GOLD RUSH 100ML",
@@ -26237,7 +26557,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/paris-hilton-gold-rush-236ml-body-mist.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/0/0022328_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/0/0022328_1_1.jpg"
   },
   {
     "name": "PARIS HILTON ICONIC 100ML EDP",
@@ -26285,7 +26605,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/paris-hilton-platinum-rush-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/124849676_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/2/124849676_6.jpg"
   },
   {
     "name": "PARIS HILTON PLATINUM RUSH 100ML EDP SET",
@@ -26333,7 +26653,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/paris-hilton-rose-rush-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/139830076_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/139830076_6.jpg"
   },
   {
     "name": "PARIS HILTON ROSE RUSH 236ML BODY MIST",
@@ -26349,7 +26669,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/paris-hilton-rose-rush-236ml-body-mist.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/8/9874980_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/9/8/9874980_1_1.jpg"
   },
   {
     "name": "PARIS HILTON RUBY RUSH 100ML EDP",
@@ -27133,7 +27453,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/prada-luna-rossa-ocean-100ml-edp-ld835101.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/d/ld835101_3_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/d/ld835101_2.jpg"
   },
   {
     "name": "PRADA LUNA ROSSA OCEAN 100ML EDT",
@@ -27149,7 +27469,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/prada-luna-rossa-ocean-100ml-edt-ld170600.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/d/ld170600_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/d/ld170600_2.jpg"
   },
   {
     "name": "PRADA LUNA ROSSA OCEAN LE PARFUM 150ML EDP REFILLABLE",
@@ -27165,7 +27485,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/prada-luna-rossa-ocean-le-parfum-150ml-edp-refillable.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le867900_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le867900_2.jpg"
   },
   {
     "name": "PRADA LUNA ROSSA OCEAN LE PARFUM REFILLABLE 100ML EDP",
@@ -27181,7 +27501,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/prada-luna-rossa-ocean-le-aprfum-refillable-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le641100_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le641100_2.jpg"
   },
   {
     "name": "PRADA LUNA ROSSA OCEAN REFILLABLE 150ML EDP",
@@ -27229,7 +27549,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/q/s/qs01553_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/q/s/qs01553_2.jpg"
   },
   {
     "name": "RABANNE BLACK XS FOR HER 80ML EDP",
@@ -27245,7 +27565,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-black-xs-for-her-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65119652_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65119652_2.jpg"
   },
   {
     "name": "RABANNE FAME 80ML EDP",
@@ -27261,7 +27581,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-fame-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65170086_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65170086_2.jpg"
   },
   {
     "name": "RABANNE FAME 80ML EDP SET",
@@ -27357,7 +27677,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-invictus-parfum-200ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199571_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199571_2.jpg"
   },
   {
     "name": "RABANNE INVICTUS VICTORY 100ML EDP SET",
@@ -27469,7 +27789,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-lady-million-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/0/0065037262_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/0/0065037262_2_1.jpg"
   },
   {
     "name": "RABANNE LADY MILLION 80ML EDP SET",
@@ -27517,7 +27837,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-lady-million-gold-90ml-edp-refillable.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65200303_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65200303_2.jpg"
   },
   {
     "name": "RABANNE LADY MILLION ROYAL 80ML EDP",
@@ -27549,7 +27869,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-olympea-80ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65095775_5_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65095775_6.jpg"
   },
   {
     "name": "RABANNE OLYMPEA 80ML EDP SET",
@@ -27581,7 +27901,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65240029_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65240029_1.jpg"
   },
   {
     "name": "RABANNE OLYMPEA BLOSSOM 80ML EDP",
@@ -27693,7 +28013,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-one-million-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/0/0068451301_4_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/0/0068451301_5.jpg"
   },
   {
     "name": "RABANNE ONE MILLION 100ML EDT SET",
@@ -27757,7 +28077,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-one-million-elixir-intense-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65177273_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65177273_5.jpg"
   },
   {
     "name": "RABANNE ONE MILLION ELIXIR INTENSE 200ML EDP",
@@ -27773,7 +28093,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-one-million-elixir-intense-200ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65177272_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65177272_5.jpg"
   },
   {
     "name": "RABANNE ONE MILLION GOLD ELIXIR 100ML EDP",
@@ -27821,7 +28141,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-one-million-gold-intense-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65200311_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65200311_2.jpg"
   },
   {
     "name": "RABANNE ONE MILLION GOLD INTENSE 200ML EDP",
@@ -27837,7 +28157,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-one-million-gold-intense-200ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65200312_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65200312_2.jpg"
   },
   {
     "name": "RABANNE ONE MILLION ROYAL 100ML EDP",
@@ -27853,7 +28173,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-one-million-royal-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65190440_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65190440_5.jpg"
   },
   {
     "name": "RABANNE ONE MILLION ROYAL 200ML EDP",
@@ -27885,7 +28205,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-pacollection-genius-me-62ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65142788_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65142788_2.jpg"
   },
   {
     "name": "RABANNE PHANTOM 100ML EDT",
@@ -28013,7 +28333,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-phantom-parfum-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65188737_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65188737_2.jpg"
   },
   {
     "name": "RABANNE PHANTOM PARFUM 100ML EDP SET",
@@ -28061,7 +28381,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-phantom-parfum-refillable-150ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65188738_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65188738_2.jpg"
   },
   {
     "name": "RABANNE PURE XS 100ML EDT",
@@ -28077,7 +28397,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rabanne-pure-xs-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65115941_1_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65115941_2.jpg"
   },
   {
     "name": "RABANNE PURE XS 80ML EDP",
@@ -28157,7 +28477,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/rachelle-fijador-de-perfume-con-feromonas-15ml.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/6/264864_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/6/264864_1.jpg"
   },
   {
     "name": "RACHELLE HOME DAY 236ML BODY MIST",
@@ -28165,7 +28485,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$180",
     "providerPrice": "$110",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$180",
     "profit": "$70",
     "margin": "38.9%",
@@ -28181,7 +28501,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$180",
     "providerPrice": "$110",
-    "regularPrice": "$3,355",
+    "regularPrice": "$3,900",
     "salePrice": "$180",
     "profit": "$70",
     "margin": "38.9%",
@@ -28429,7 +28749,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ralph-lauren-polo-125ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s50947_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s50947_2.jpg"
   },
   {
     "name": "RALPH LAUREN POLO 200ML EDT",
@@ -28477,7 +28797,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ralph-lauren-polo-67-125ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s5721800_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s5721800_2.jpg"
   },
   {
     "name": "RALPH LAUREN POLO BLUE 125ML EDT",
@@ -28509,7 +28829,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ralph-lauren-polo-blue-parfum-125ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/4/s4886200_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/4/s4886200_2.jpg"
   },
   {
     "name": "RALPH LAUREN POLO COLOGNE INTENSE 118ML EDC SORAY",
@@ -28517,7 +28837,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$2,410",
     "providerPrice": "$1,445",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$2,410",
     "profit": "$965",
     "margin": "40.0%",
@@ -28613,7 +28933,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$3,470",
     "providerPrice": "$2,080",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$3,470",
     "profit": "$1,390",
     "margin": "40.1%",
@@ -28629,7 +28949,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$3,280",
     "providerPrice": "$1,965",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$3,280",
     "profit": "$1,315",
     "margin": "40.1%",
@@ -28653,7 +28973,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ralph-lauren-polo-red-parfum-125ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s5041900_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s5041900_2.jpg"
   },
   {
     "name": "RALPH LAUREN POLO RED PARFUM 200ML EDP",
@@ -28669,7 +28989,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ralph-lauren-polo-red-parfum-200ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s5538800_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s5538800_2.jpg"
   },
   {
     "name": "RALPH LAUREN POLO SPORT 125ML EDT",
@@ -28701,7 +29021,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ralph-lauren-ralphs-club-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/2/s26802_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/2/s26802_2.jpg"
   },
   {
     "name": "RALPH LAUREN RALPH'S CLUB 100ML EDT",
@@ -28717,7 +29037,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ralph-lauren-ralphs-club-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s5752900_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s5752900_2.jpg"
   },
   {
     "name": "RALPH LAUREN RALPH'S CLUB 150ML EDP",
@@ -28733,7 +29053,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ralph-lauren-ralphs-club-150ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/4/s4463401_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/4/s4463401_2.jpg"
   },
   {
     "name": "RALPH LAUREN RALPH'S CLUB ELIXIR 75ML EDP",
@@ -28749,7 +29069,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ralph-lauren-ralphs-club-elixir-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s5484700_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s5484700_2.jpg"
   },
   {
     "name": "RALPH LAUREN RALPH'S CLUB LE PARFUM 100ML EDP",
@@ -28781,7 +29101,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ralph-lauren-ralphs-club-parfum-150ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/4/s4891000_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/4/s4891000_2.jpg"
   },
   {
     "name": "RALPH LAUREN ROMANCE 100ML EDP",
@@ -28813,7 +29133,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/ralph-lauren-romance-intense-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s5485200_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/s/5/s5485200_2.jpg"
   },
   {
     "name": "RALPH LAUREN SAFARI FOR MEN 125ML EDT",
@@ -29069,7 +29389,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/sabrina-carpenter-cherry-baby-75ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/7/67734_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/7/67734_2.jpg"
   },
   {
     "name": "SABRINA CARPENTER SWEET TOOTH 75ML EDP",
@@ -29149,7 +29469,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/salvatore-ferragamo-bianco-di-carrara-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58002_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58002_2.jpg"
   },
   {
     "name": "SALVATORE FERRAGAMO CALIMALA 100ML EDP",
@@ -29165,7 +29485,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/salvatore-ferragamo-calimala-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58975_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58975_2.jpg"
   },
   {
     "name": "SALVATORE FERRAGAMO CONVIVIO 100ML EDP",
@@ -29181,7 +29501,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/salvatore-ferragamo-convivio-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58804_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58804_2.jpg"
   },
   {
     "name": "SALVATORE FERRAGAMO FERRAGAMO BLACK 100ML EDT",
@@ -29229,7 +29549,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/salvatore-ferragamo-gentil-suono-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58150_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58150_2.jpg"
   },
   {
     "name": "SALVATORE FERRAGAMO INCANTO SHINE 100ML EDT",
@@ -29261,7 +29581,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/salvatore-ferragamo-la-commedia-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58704_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58704_2.jpg"
   },
   {
     "name": "SALVATORE FERRAGAMO LA CORTE 100ML EDP",
@@ -29277,7 +29597,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/salvatore-ferragamo-la-corte-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58102_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58102_2.jpg"
   },
   {
     "name": "SALVATORE FERRAGAMO POUR FEMME 100ML EDP",
@@ -29293,7 +29613,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/salvatore-ferragamo-pour-femme-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/2/42252_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/4/2/42252_2.jpg"
   },
   {
     "name": "SALVATORE FERRAGAMO POUR HOMME 100ML EDT",
@@ -29325,7 +29645,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/salvatore-ferragamo-punta-ala-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58502_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58502_2.jpg"
   },
   {
     "name": "SALVATORE FERRAGAMO RINASCIMENTO 100ML EDP",
@@ -29341,7 +29661,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/salvatore-ferragamo-rinascimento-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58805_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58805_2.jpg"
   },
   {
     "name": "SALVATORE FERRAGAMO SIGNORINA ELEGANZA 100ML EDP",
@@ -29389,7 +29709,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/salvatore-ferragamo-terra-rossa-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58304_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58304_2.jpg"
   },
   {
     "name": "SALVATORE FERRAGAMO VENDEMMIA 100ML EDP",
@@ -29405,7 +29725,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/salvatore-ferragamo-vendemmia-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58202_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/8/58202_2.jpg"
   },
   {
     "name": "SALVATORE FERRAGAMO VIOLA ESSENZIALE 100ML EDP",
@@ -29453,7 +29773,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/adolfo-dominguez-agua-fresca-120ml-edt-set.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65201962_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65201962_1.jpg"
   },
   {
     "name": "SET ADOLFO DOMINGUEZ AGUA FRESCA 1993 2PZS",
@@ -29501,7 +29821,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/set-adolfo-dominguez-fresia-solar-3pzs.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198831_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65198831_1.jpg"
   },
   {
     "name": "SET ADOLFO DOMINGUEZ GARDENIA 2PZS 120ML EDT | BODY LOTION 75ML",
@@ -29533,7 +29853,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/set-adolfo-dominguez-vetiver-terra-3pzs-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65201535_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65201535_1.jpg"
   },
   {
     "name": "SET AFNAN SUPREMACY IN OUD 3PZS",
@@ -29581,7 +29901,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/set-agatha-ruiz-de-la-prada-agatha-look-2pzs-80ml-edt-de-beso-en-beso-10ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65201435_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65201435_1.jpg"
   },
   {
     "name": "SET ANTONIO BANDERAS HER SECRET DESIRE 2PZS",
@@ -30765,7 +31085,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/set-orientica-luxury-collection-royal-amber-4pzs-1.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/o/f/ofs5850_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/o/f/ofs5850_1.jpg"
   },
   {
     "name": "SET ORIENTICA LUXURY COLLECTION VELVET GOLD 4PZS",
@@ -30845,7 +31165,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/paris-hilton-platinum-rush-100ml-edp-set.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2000400_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/2000400_1.jpg"
   },
   {
     "name": "SET PARIS HILTON ROSÉ RUSH 1000ML EDP",
@@ -30909,7 +31229,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/perry-ellis-360-red-100ml-edp-set-13404190.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/13404190_3_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/3/13404190_1.jpg"
   },
   {
     "name": "SET PERRY ELLIS PURE BLUE 4PZS",
@@ -30973,7 +31293,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/salvatore-ferragamo-signorina-ribelle-100ml-edp-set.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/j/f/jfe41990_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/j/f/jfe41990_1.jpg"
   },
   {
     "name": "SET VIKTOR & ROLF FLOWERBOMB RUBY ORCHID 100ML EDP",
@@ -30989,7 +31309,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/viktor-rolf-flowerbomb-ruby-orchid-100ml-edp-set.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le8147_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le8147_2.jpg"
   },
   {
     "name": "SET VIKTOR & ROLF GOOD FORTUNE 2PZS",
@@ -31037,7 +31357,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65228806_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65228806_1.jpg"
   },
   {
     "name": "SHAKIRA DANCE 80ML EDT",
@@ -31085,7 +31405,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/1/61127971_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/1/61127971_1.jpg"
   },
   {
     "name": "SHAKIRA DANCE DIAMONDS 80ML EDT",
@@ -31133,7 +31453,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65228920_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65228920_2.jpg"
   },
   {
     "name": "SHAKIRA DANCE MIDNIGHT MUSE 80ML EDT",
@@ -31197,7 +31517,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65228802_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65228802_1.jpg"
   },
   {
     "name": "SHAKIRA DREAM 80ML EDT",
@@ -31245,7 +31565,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65228807_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65228807_1.jpg"
   },
   {
     "name": "SHAKIRA KISS HONEY 80ML EDT",
@@ -31277,7 +31597,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/1/61128008_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/1/61128008_1.jpg"
   },
   {
     "name": "SHAKIRA ROCK 80ML EDT",
@@ -31325,7 +31645,7 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65228905_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65228905_1.jpg"
   },
   {
     "name": "SHAKIRA S BLUSH KISS 80ML EDT",
@@ -31341,7 +31661,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/shakira-s-blush-kiss-80ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199575_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/6/5/65199575_2.jpg"
   },
   {
     "name": "SHAKIRA WE ROCK 80ML EDT",
@@ -31405,7 +31725,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/tom-ford-neroli-portofino-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/i/l/iln39912_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/i/l/iln39912_2.jpg"
   },
   {
     "name": "TOM FORD VELVET ORCHID 100ML EDP",
@@ -31421,7 +31741,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/tom-ford-velvet-orchid-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/2/02395_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/2/02395_2.jpg"
   },
   {
     "name": "TOMMY 100ML EDT",
@@ -31509,7 +31829,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,330",
     "providerPrice": "$799",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$1,330",
     "profit": "$531",
     "margin": "39.9%",
@@ -31541,7 +31861,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$1,500",
     "providerPrice": "$899",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$1,500",
     "profit": "$601",
     "margin": "40.1%",
@@ -31597,7 +31917,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/tous-man-sport-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/8/781071_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/8/781071_6.jpg"
   },
   {
     "name": "TOUS MAN SPRITZ 100ML EDT",
@@ -31629,7 +31949,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/valentino-donna-born-in-roma-yellow-dream-for-her-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/6/26140_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/6/26140_2.jpg"
   },
   {
     "name": "VERA WANG 100ML EDP",
@@ -31693,7 +32013,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/versace-blue-jeans-75ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/6/26075_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/6/26075_6.jpg"
   },
   {
     "name": "VERSACE BRIGHT CRYSTAL 200ML EDT",
@@ -31869,7 +32189,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/versace-eros-100ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/4/740110_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/4/740110_2.jpg"
   },
   {
     "name": "VERSACE EROS 100ML EDT",
@@ -31997,7 +32317,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/versace-pour-homme-100ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/2/7200010_5.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/2/7200010_6.jpg"
   },
   {
     "name": "VERSACE POUR HOMME 200ML EDT",
@@ -32029,7 +32349,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/versace-yellow-diamond-90ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/2/520032_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/2/520032_6.jpg"
   },
   {
     "name": "VICTORIA'S SECRET AMBER ROMANCE 250ML BODY MIST",
@@ -32333,7 +32653,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/viktor-and-rolf-spicebomb-dark-leather-150ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/9/3903070_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/9/3903070_2.jpg"
   },
   {
     "name": "VIKTOR & ROLF SPICEBOMB DARK LEATHER 90ML EDP",
@@ -32349,7 +32669,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/viktor-and-rolf-spicebomb-dark-leather-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/8/3885888_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/8/3885888_2.jpg"
   },
   {
     "name": "VIKTOR & ROLF SPICEBOMB EXTREME 90ML EDP",
@@ -32373,7 +32693,7 @@ window.UFRA_PRODUCTS = [
     "gender": "women",
     "price": "$3,620",
     "providerPrice": "$2,175",
-    "regularPrice": "$3,950",
+    "regularPrice": "$3,980",
     "salePrice": "$3,620",
     "profit": "$1,445",
     "margin": "39.9%",
@@ -32381,7 +32701,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/viktor-and-rolf-spicebomb-infrared-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/8/88681_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/8/88681_2.jpg"
   },
   {
     "name": "VIKTOR & ROLF SPICEBOMB INFRARED 90ML EDT",
@@ -32421,7 +32741,7 @@ window.UFRA_PRODUCTS = [
     "gender": "men",
     "price": "$3,020",
     "providerPrice": "$1,810",
-    "regularPrice": "$3,800",
+    "regularPrice": "$3,980",
     "salePrice": "$3,020",
     "profit": "$1,210",
     "margin": "40.1%",
@@ -32429,7 +32749,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/viktor-and-rolf-spicebomb-viktor-and-rolf-90ml-edt.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/1/51534_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/1/51534_5.jpg"
   },
   {
     "name": "VOGUE LENTES VO4327SD51491457 VIOLETA CLARO",
@@ -32557,7 +32877,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/women-secret-pure-charm-250ml-body-mist.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/w/s/ws-0000080_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/w/s/ws-0000080_1.jpg"
   },
   {
     "name": "YVES SAINT LAURENT BLACK OPIUM GLITTER 90ML EDP",
@@ -32685,7 +33005,7 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/yves-saint-laurent-libre-l-absolu-platine-parfum-90ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le227401_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/l/e/le227401_2.jpg"
   },
   {
     "name": "YVES SAINT LAURENT LIBRE L'EAU NUE PARFUM DE PEAU 90ML EDP",
@@ -32781,326 +33101,390 @@ window.UFRA_PRODUCTS = [
     "description": "",
     "shape": "bottle",
     "url": "https://ufra.com.mx/yves-saint-laurent-ysl-l-elixir-parfum-60ml-edp.html",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/7/8753731_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/7/8753731_2.jpg"
   },
   {
-    "name": "CLARINS AGUA MICELAR LIMPIADORA 80104530",
-    "url": "https://ufra.com.mx/clarins-agua-micelar-limpiadora-80104530.html",
+    "name": "ADOLFO DOMINGUEZ AGUA DE BAMBU 120ML EDT SET 19063990",
+    "url": "https://ufra.com.mx/adolfo-dominguez-agua-de-bambu-120ml-edt-set-19063990.html",
     "description": "",
     "shape": "bottle",
     "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$750",
+    "regularPrice": "$3,540",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80104530_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/9/19063990_1.jpg"
   },
   {
-    "name": "CLARINS DESMAQUILLANTE BIFASICO PARA OJOS 80082062",
-    "url": "https://ufra.com.mx/clarins-desmaquillante-bifasico-para-ojos-80082062.html",
+    "name": "AFNAN 9AM DIVE 100ML EDP 10728",
+    "url": "https://ufra.com.mx/afnan-9am-dive-100ml-edp-10728.html",
     "description": "",
     "shape": "bottle",
     "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$680",
+    "regularPrice": "$4,250",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80082062_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/0/10728_2.jpg"
   },
   {
-    "name": "CLARINS DESMAQUILLANTE TONICO EXPRES PARA TODO TIPO DE PIELES 80082064",
-    "url": "https://ufra.com.mx/clarins-desmaquillante-tonico-expres-para-todo-tipo-de-pieles-80082064.html",
+    "name": "CALRINS MY CLARINS HIDRATATION HYDRATION SET 80115631",
+    "url": "https://ufra.com.mx/calrins-my-clarins-hidratation-hydration-set-80115631.html",
     "description": "",
     "shape": "bottle",
     "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$780",
+    "regularPrice": "$1,230",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80082064_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80115631_1.jpg"
   },
   {
-    "name": "CLARINS DOUBLE SERUM TRATAMIENTO INTENSIVO ANTIEDAD 80103084",
-    "url": "https://ufra.com.mx/clarins-double-serum-tratamiento-intensivo-antiedad-80103084.html",
+    "name": "CLARINS DOUBLE SERUM LIGHT TEXTURE TRATAMIENTO INTENSIVO ANTIEDAD TEXTURA LIGERA 80112930",
+    "url": "https://ufra.com.mx/clarins-double-serum-light-texture-tratamiento-intensivo-antiedad-textura-ligera-80112930.html",
     "description": "",
     "shape": "bottle",
     "category": "belleza",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$2,790",
+    "regularPrice": "$3,700",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80103084_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80112930_3.jpg"
   },
   {
-    "name": "CLARINS ESPUMA LIMPIADORA SUAVE CALMANTE 80104490",
-    "url": "https://ufra.com.mx/clarins-espuma-limpiadora-suave-calmante-80104490.html",
+    "name": "CLARINS EXTRA FIRMING DAY CREAM CREMA ANTIEDAD DE DIA PARA TODO TIPO DE PIELES 80110134",
+    "url": "https://ufra.com.mx/clarins-extra-firming-day-cream-crema-antiedad-de-dia-para-todo-tipo-de-pieles-80110134.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "belleza",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$2,050",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80110134_4.jpg"
+  },
+  {
+    "name": "CLARINS MEN SHAVING ESSENTIALS SET 80106849",
+    "url": "https://ufra.com.mx/clarins-men-shaving-essentials-set-80106849.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "men",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$1,230",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80106849_3.jpg"
+  },
+  {
+    "name": "CLARINS MULTI ACTIVE CREMA DE NOCHE PARA TODO TIPO DE PIELES 80100572",
+    "url": "https://ufra.com.mx/clarins-multi-active-crema-de-noche-para-todo-tipo-de-pieles-80100572.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "belleza",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$1,460",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80100572_2.jpg"
+  },
+  {
+    "name": "CLARINS MY RADIANCE RUTINE SET 80115634",
+    "url": "https://ufra.com.mx/clarins-my-radiance-rutine-set-80115634.html",
     "description": "",
     "shape": "bottle",
     "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$750",
+    "regularPrice": "$1,150",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80104490_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80115634_1.jpg"
   },
   {
-    "name": "CLARINS EVER MATTE POUDRE COMPACTE 03 LIGHT MEDIUM 80100865",
-    "url": "https://ufra.com.mx/clarins-ever-matte-poudre-compacte-03-light-medium-80100865.html",
+    "name": "CLARINS ROLL ON DEODORANT DESODORANTE EN ROLL ON 80104646",
+    "url": "https://ufra.com.mx/clarins-roll-on-deodorant-desodorante-en-roll-on-80104646.html",
     "description": "",
     "shape": "bottle",
     "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$920",
+    "regularPrice": "$500",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80100865_3.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80104646_4.jpg"
   },
   {
-    "name": "CLARINS LIP COMFORT OIL 01 PALE PINK 80106557",
-    "url": "https://ufra.com.mx/clarins-lip-comfort-oil-01-pale-pink-80106557.html",
-    "description": "",
-    "shape": "bottle",
-    "category": "belleza",
-    "gender": "unisex",
-    "price": "",
-    "providerPrice": "",
-    "regularPrice": "$690",
-    "salePrice": "",
-    "profit": "",
-    "margin": "",
-    "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80106557_3.jpg"
-  },
-  {
-    "name": "CLARINS LIP COMFORT OIL 03 LYCHEE 80106559",
-    "url": "https://ufra.com.mx/clarins-lip-comfort-oil-03-lychee-80106559.html",
-    "description": "",
-    "shape": "bottle",
-    "category": "belleza",
-    "gender": "unisex",
-    "price": "",
-    "providerPrice": "",
-    "regularPrice": "$690",
-    "salePrice": "",
-    "profit": "",
-    "margin": "",
-    "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80106559_3.jpg"
-  },
-  {
-    "name": "CLARINS LOCION TONICA CALMANTE 80104514",
-    "url": "https://ufra.com.mx/clarins-locion-tonica-calmante-80104514.html",
+    "name": "CUBA GOLD 100ML EDT SET 734161",
+    "url": "https://ufra.com.mx/cuba-gold-100ml-edt-set-734161.html",
     "description": "",
     "shape": "bottle",
     "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$750",
+    "regularPrice": "$3,540",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80104514_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/3/734161_1.jpg"
   },
   {
-    "name": "CLARINS LOCION TONICA PURIFICANTE 80104513",
-    "url": "https://ufra.com.mx/clarins-locion-tonica-purificante-80104513.html",
+    "name": "DAVIDOFF COOL WATER FOR HER 100ML EDT SET 266347",
+    "url": "https://ufra.com.mx/davidoff-cool-water-for-her-100ml-edt-set-266347.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "women",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$3,540",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/6/266347_1.jpg"
+  },
+  {
+    "name": "FERRAGAMO SIGNORINA UNICA 100ML EDP SET JFE18394B",
+    "url": "https://ufra.com.mx/ferragamo-signorina-unica-100ml-edp-set-jfe18394b.html",
     "description": "",
     "shape": "bottle",
     "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$750",
+    "regularPrice": "$3,540",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80104513_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/j/f/jfe18394b_1.jpg"
   },
   {
-    "name": "CLARINS MULTI ACTIVE CREMA DE DIA SPF15 80100569",
-    "url": "https://ufra.com.mx/clarins-multi-active-crema-de-dia-spf15-80100569.html",
-    "description": "",
-    "shape": "bottle",
-    "category": "belleza",
-    "gender": "unisex",
-    "price": "",
-    "providerPrice": "",
-    "regularPrice": "$1,350",
-    "salePrice": "",
-    "profit": "",
-    "margin": "",
-    "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80100569_2.jpg"
-  },
-  {
-    "name": "CLARINS PRIMER SOS PRIMER WHITE POTENCIA LA LUMINOSIDAD 80095973",
-    "url": "https://ufra.com.mx/clarins-primer-sos-primer-white-potencia-la-luminosidad-80095973.html",
+    "name": "FERRAGAMO UOMO 100ML EDT SET JFE26090",
+    "url": "https://ufra.com.mx/ferragamo-uomo-100ml-edt-set-jfe26090.html",
     "description": "",
     "shape": "bottle",
     "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$820",
+    "regularPrice": "$3,540",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80095973_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/j/f/jfe26090_1.jpg"
   },
   {
-    "name": "CLARINS SKIN ILLUSION TINTED MOISTURIZER SPF25 CREMA HIDRATANTE CON COLOR 01 80112683",
-    "url": "https://ufra.com.mx/clarins-skin-illusion-tinted-moisturizer-spf25-crema-hidratante-con-color-01-80112683.html",
-    "description": "",
-    "shape": "bottle",
-    "category": "belleza",
-    "gender": "unisex",
-    "price": "",
-    "providerPrice": "",
-    "regularPrice": "$1,020",
-    "salePrice": "",
-    "profit": "",
-    "margin": "",
-    "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80112683_3.jpg"
-  },
-  {
-    "name": "CLARINS SOS PURE REBALANCING CLAY MASK 80116491",
-    "url": "https://ufra.com.mx/clarins-sos-pure-rebalancing-clay-mask-80116491.html",
+    "name": "GIVENCHY AMARIGE 100ML EDT P090655",
+    "url": "https://ufra.com.mx/givenchy-amarige-100ml-edt-p090655.html",
     "description": "",
     "shape": "bottle",
     "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$860",
+    "regularPrice": "$3,540",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80116491_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/p/0/p090655_2.jpg"
   },
   {
-    "name": "CLARINS SUPER RESTORATIVE CREMA DE DIA SPF15 80109432",
-    "url": "https://ufra.com.mx/clarins-super-restorative-crema-de-dia-spf15-80109432.html",
-    "description": "",
-    "shape": "bottle",
-    "category": "belleza",
-    "gender": "unisex",
-    "price": "",
-    "providerPrice": "",
-    "regularPrice": "$2,480",
-    "salePrice": "",
-    "profit": "",
-    "margin": "",
-    "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80109432_2.jpg"
-  },
-  {
-    "name": "CLARINS SUPER RESTORATIVE ROSE RADIANCE CREMA ANTI EDAD DE DIA 80105569",
-    "url": "https://ufra.com.mx/clarins-super-restorative-rose-radiance-crema-anti-edad-de-dia-80105569.html",
-    "description": "",
-    "shape": "bottle",
-    "category": "belleza",
-    "gender": "unisex",
-    "price": "",
-    "providerPrice": "",
-    "regularPrice": "$2,480",
-    "salePrice": "",
-    "profit": "",
-    "margin": "",
-    "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/0/80105569_2.jpg"
-  },
-  {
-    "name": "ESTEE LAUDER ADVANCED NIGHT REPAIR RESCUE SOLUTION CONCENTRADO FACIAL GYYK010000",
-    "url": "https://ufra.com.mx/estee-lauder-advanced-night-repair-rescue-solution-concentrado-facial-gyyk010000.html",
+    "name": "LATTAFA ASAD 200ML BODY 59709",
+    "url": "https://ufra.com.mx/lattafa-asad-200ml-body-59709.html",
     "description": "",
     "shape": "bottle",
     "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$3,350",
+    "regularPrice": "$3,540",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/g/y/gyyk010000_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/9/59709_1.jpg"
   },
   {
-    "name": "MAC BASE DE MAQUILLAJE LIQUIDA STUDIO FIX FLUID SPF 15 24HR MATTE FOUNDATION OIL CONTROL NC17 MACSRMX55",
-    "url": "https://ufra.com.mx/mac-base-de-maquillaje-liquida-studio-fix-fluid-spf-15-24hr-matte-foundation-oil-control-nc17-macsrmx55.html",
+    "name": "LATTAFA ECLAIRE 100ML EDP SET 34907",
+    "url": "https://ufra.com.mx/lattafa-eclaire-100ml-edp-set-34907.html",
     "description": "",
     "shape": "bottle",
-    "category": "belleza",
+    "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$779",
+    "regularPrice": "$3,540",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/a/macsrmx55_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/4/34907_1.jpg"
   },
   {
-    "name": "MAC LABIAL MACXIMAL SILKY MATTE LIPSTICK RUSSIAN RED MACNY9N06",
-    "url": "https://ufra.com.mx/mac-labial-macximal-silky-matte-lipstick-russian-red-macny9n06.html",
+    "name": "MAC DELINEADOR EN GEL M A C COLOUR EXCESS GEL PENCIL EYE LINER SICK TAT BRO MACSLJ403",
+    "url": "https://ufra.com.mx/mac-delineador-en-gel-m-a-c-colour-excess-gel-pencil-eye-liner-sick-tat-bro-macslj403.html",
     "description": "",
     "shape": "bottle",
-    "category": "belleza",
+    "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$499",
+    "regularPrice": "$589",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/a/macny9n06_4.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/a/macslj403_2.jpg"
   },
   {
-    "name": "MAC LIPGLASS GLOSS ALL THINGS MAGICAL MACS3HT1M",
-    "url": "https://ufra.com.mx/mac-lipglass-gloss-all-things-magical-macs3ht1m.html",
+    "name": "MICHAEL MALUL OCEAN NOIR 100ML EDP 71041",
+    "url": "https://ufra.com.mx/michael-malul-ocean-noir-100ml-edp-71041.html",
     "description": "",
     "shape": "bottle",
-    "category": "belleza",
+    "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$390",
+    "regularPrice": "$3,540",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/m/a/macs3ht1m_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/7/1/71041_2.jpg"
+  },
+  {
+    "name": "SOL DE JANEIRO CHEIROSA 68 90ML BODY MIST 203225",
+    "url": "https://ufra.com.mx/sol-de-janeiro-cheirosa-68-90ml-body-mist-203225.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$3,540",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/203225_1.jpg"
+  },
+  {
+    "name": "SOL DE JANEIRO CHEIROSA 71 90ML BODY MIST 203084",
+    "url": "https://ufra.com.mx/sol-de-janeiro-cheirosa-71-90ml-body-mist-203084.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$3,540",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/2/0/203084_1.jpg"
+  },
+  {
+    "name": "VICTORIA S SECRET AQUA KISS 236ML BODY LOTION 30663558",
+    "url": "https://ufra.com.mx/victoria-s-secret-aqua-kiss-236ml-body-lotion-30663558.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$3,540",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/0/30663558_1.jpg"
+  },
+  {
+    "name": "VICTORIA S SECRET LOVE SPELL 236ML BODY LOTION 30663568",
+    "url": "https://ufra.com.mx/victoria-s-secret-love-spell-236ml-body-lotion-30663568.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$3,540",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/0/30663568_1.jpg"
+  },
+  {
+    "name": "VICTORIA S SECRET PURE SEDUCTION 236ML BODY LOTION 30663562",
+    "url": "https://ufra.com.mx/victoria-s-secret-pure-seduction-236ml-body-lotion-30663562.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$3,540",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/0/30663562_1.jpg"
+  },
+  {
+    "name": "VICTORIA S SECRET ROMANTIC 236ML BODY LOTION 30666319",
+    "url": "https://ufra.com.mx/victoria-s-secret-romantic-236ml-body-lotion-30666319.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$3,540",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/0/30666319_1.jpg"
   }
 ];
