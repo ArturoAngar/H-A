@@ -2704,6 +2704,22 @@ window.UFRA_PRODUCTS = [
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/4/04471_2.jpg"
   },
   {
+    "name": "ARMAF CLUB DE NUIT INTENSE 105ML EDT 04471",
+    "url": "https://ufra.com.mx/armaf-club-de-nuit-intense-105ml-edt-04471.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$3,980",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/4/04471_2.jpg"
+  },
+  {
     "name": "ARMAF CLUB DE NUIT INTENSE 200ML EDP",
     "category": "fragancias",
     "gender": "women",
@@ -32448,6 +32464,22 @@ window.UFRA_PRODUCTS = [
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/g/1g6l_2_1.jpg"
   },
   {
+    "name": "TOTE BAG",
+    "url": "https://ufra.com.mx/tote-bag.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$99,999",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/36472421_4.jpg"
+  },
+  {
     "name": "TOUS 100ML EDT",
     "category": "fragancias",
     "gender": "men",
@@ -32926,6 +32958,22 @@ window.UFRA_PRODUCTS = [
     "shape": "bottle",
     "url": "https://ufra.com.mx/versace-yellow-diamond-90ml-edt.html",
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/5/2/520032_6.jpg"
+  },
+  {
+    "name": "VICTORIA S SECRET AMBER ROMANCE 236ML BODY LOTION 30663560",
+    "url": "https://ufra.com.mx/victoria-s-secret-amber-romance-236ml-body-lotion-30663560.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "unisex",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$3,540",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/0/30663560_1.jpg"
   },
   {
     "name": "VICTORIA S SECRET AQUA KISS 236ML BODY LOTION 30663558",
@@ -33744,44 +33792,28 @@ window.UFRA_PRODUCTS = [
     "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/8/7/8753731_2.jpg"
   },
   {
-    "name": "ARMAF CLUB DE NUIT INTENSE 105ML EDT 04471",
-    "url": "https://ufra.com.mx/armaf-club-de-nuit-intense-105ml-edt-04471.html",
+    "name": "ARIANA GRANDE THANK U NEXT 2 0 236ML BODY MIST ARG5LB212BMLE",
+    "url": "https://ufra.com.mx/ariana-grande-thank-u-next-2-0-236ml-body-mist-arg5lb212bmle.html",
     "description": "",
     "shape": "bottle",
     "category": "fragancias",
     "gender": "unisex",
     "price": "",
     "providerPrice": "",
-    "regularPrice": "$3,980",
+    "regularPrice": "$4,245",
     "salePrice": "",
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/4/04471_2.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/a/r/arg5lb212bmle_2.jpg"
   },
   {
-    "name": "TOTE BAG",
-    "url": "https://ufra.com.mx/tote-bag.html",
+    "name": "ARMAF CLUB DE NUIT WOMEN 200ML BODY SPRAY 09434",
+    "url": "https://ufra.com.mx/armaf-club-de-nuit-women-200ml-body-spray-09434.html",
     "description": "",
     "shape": "bottle",
     "category": "fragancias",
-    "gender": "unisex",
-    "price": "",
-    "providerPrice": "",
-    "regularPrice": "$99,999",
-    "salePrice": "",
-    "profit": "",
-    "margin": "",
-    "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/6/36472421_4.jpg"
-  },
-  {
-    "name": "VICTORIA S SECRET AMBER ROMANCE 236ML BODY LOTION 30663560",
-    "url": "https://ufra.com.mx/victoria-s-secret-amber-romance-236ml-body-lotion-30663560.html",
-    "description": "",
-    "shape": "bottle",
-    "category": "fragancias",
-    "gender": "unisex",
+    "gender": "women",
     "price": "",
     "providerPrice": "",
     "regularPrice": "$3,540",
@@ -33789,6 +33821,22 @@ window.UFRA_PRODUCTS = [
     "profit": "",
     "margin": "",
     "pricingStatus": "SIN PRECIO PROVEEDOR",
-    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/3/0/30663560_1.jpg"
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/0/9/09434_1.jpg"
+  },
+  {
+    "name": "ARMAF ODYSSEY HOME WHITE MEN 200ML BODY SPRAY 19065",
+    "url": "https://ufra.com.mx/armaf-odyssey-home-white-men-200ml-body-spray-19065.html",
+    "description": "",
+    "shape": "bottle",
+    "category": "fragancias",
+    "gender": "men",
+    "price": "",
+    "providerPrice": "",
+    "regularPrice": "$3,540",
+    "salePrice": "",
+    "profit": "",
+    "margin": "",
+    "pricingStatus": "SIN PRECIO PROVEEDOR",
+    "image": "https://ufra.com.mx/media/catalog/product/cache/ee76532a7456f8cf6cbb794ab46d0dbd/1/9/19065_1.jpg"
   }
 ];
